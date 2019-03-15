@@ -1,0 +1,5598 @@
+6,,
+11001,Vale do Jamari,110002
+11001,Vale do Jamari,110013
+11001,Vale do Jamari,110026
+11001,Vale do Jamari,110040
+11001,Vale do Jamari,110045
+11001,Vale do Jamari,110060
+11001,Vale do Jamari,110070
+11001,Vale do Jamari,110094
+11001,Vale do Jamari,110140
+11002,Café,110004
+11002,Café,110009
+11002,Café,110018
+11002,Café,110120
+11002,Café,110147
+11002,Café,110148
+11003,Central,110011
+11003,Central,110012
+11003,Central,110015
+11003,Central,110025
+11003,Central,110032
+11003,Central,110034
+11003,Central,110100
+11003,Central,110130
+11003,Central,110143
+11003,Central,110155
+11003,Central,110160
+11003,Central,110170
+11003,Central,110175
+11003,Central,110180
+11004,Madeira-Mamoré,110010
+11004,Madeira-Mamoré,110020
+11004,Madeira-Mamoré,110033
+11004,Madeira-Mamoré,110080
+11004,Madeira-Mamoré,110110
+11005,Zona da Mata,110001
+11005,Zona da Mata,110014
+11005,Zona da Mata,110028
+11005,Zona da Mata,110029
+11005,Zona da Mata,110037
+11005,Zona da Mata,110050
+11005,Zona da Mata,110090
+11005,Zona da Mata,110145
+11006,Cone Sul,110003
+11006,Cone Sul,110005
+11006,Cone Sul,110006
+11006,Cone Sul,110007
+11006,Cone Sul,110030
+11006,Cone Sul,110092
+11006,Cone Sul,110146
+11007,Vale do Guaporé,110008
+11007,Vale do Guaporé,110149
+11007,Vale do Guaporé,110150
+11000,Ignorado - RO,110000
+12001,Alto Acre,120005
+12001,Alto Acre,120010
+12001,Alto Acre,120025
+12001,Alto Acre,120070
+12002,Baixo Acre e Purus,120001
+12002,Baixo Acre e Purus,120013
+12002,Baixo Acre e Purus,120017
+12002,Baixo Acre e Purus,120032
+12002,Baixo Acre e Purus,120034
+12002,Baixo Acre e Purus,120038
+12002,Baixo Acre e Purus,120040
+12002,Baixo Acre e Purus,120043
+12002,Baixo Acre e Purus,120045
+12002,Baixo Acre e Purus,120050
+12002,Baixo Acre e Purus,120080
+12003,Juruá e Tarauacá/Envira,120020
+12003,Juruá e Tarauacá/Envira,120030
+12003,Juruá e Tarauacá/Envira,120033
+12003,Juruá e Tarauacá/Envira,120035
+12003,Juruá e Tarauacá/Envira,120039
+12003,Juruá e Tarauacá/Envira,120042
+12003,Juruá e Tarauacá/Envira,120060
+12000,Ignorado - AC,120000
+13001,Manaus e Alto Rio Negro,130030
+13001,Manaus e Alto Rio Negro,130040
+13001,Manaus e Alto Rio Negro,130110
+13001,Manaus e Alto Rio Negro,130115
+13001,Manaus e Alto Rio Negro,130185
+13001,Manaus e Alto Rio Negro,130255
+13001,Manaus e Alto Rio Negro,130260
+13001,Manaus e Alto Rio Negro,130310
+13001,Manaus e Alto Rio Negro,130353
+13001,Manaus e Alto Rio Negro,130356
+13001,Manaus e Alto Rio Negro,130360
+13001,Manaus e Alto Rio Negro,130380
+13002,Rio Negro e Solimões,130008
+13002,Rio Negro e Solimões,130010
+13002,Rio Negro e Solimões,130063
+13002,Rio Negro e Solimões,130083
+13002,Rio Negro e Solimões,130120
+13002,Rio Negro e Solimões,130130
+13002,Rio Negro e Solimões,130250
+13002,Rio Negro e Solimões,130320
+13003,Rio Madeira,130014
+13003,Rio Madeira,130080
+13003,Rio Madeira,130170
+13003,Rio Madeira,130270
+13003,Rio Madeira,130330
+13004,Médio Amazonas,130190
+13004,Médio Amazonas,130200
+13004,Médio Amazonas,130395
+13004,Médio Amazonas,130400
+13004,Médio Amazonas,130430
+13004,Médio Amazonas,130440
+13005,Baixo Amazonas,130050
+13005,Baixo Amazonas,130068
+13005,Baixo Amazonas,130290
+13005,Baixo Amazonas,130300
+13005,Baixo Amazonas,130340
+13006,Regional Purus,130070
+13006,Regional Purus,130090
+13006,Regional Purus,130240
+13006,Regional Purus,130350
+13006,Regional Purus,130410
+13007,Regional Juruá,130100
+13007,Regional Juruá,130140
+13007,Regional Juruá,130150
+13007,Regional Juruá,130165
+13007,Regional Juruá,130180
+13007,Regional Juruá,130195
+13008,Triângulo,130002
+13008,Triângulo,130210
+13008,Triângulo,130220
+13008,Triângulo,130280
+13008,Triângulo,130420
+13008,Triângulo,130426
+13009,Alto Solimões,130006
+13009,Alto Solimões,130020
+13009,Alto Solimões,130060
+13009,Alto Solimões,130160
+13009,Alto Solimões,130230
+13009,Alto Solimões,130370
+13009,Alto Solimões,130390
+13009,Alto Solimões,130406
+13009,Alto Solimões,130423
+13000,Ignorado - AM,130000
+14001,Centro Norte,140002
+14001,Centro Norte,140005
+14001,Centro Norte,140010
+14001,Centro Norte,140015
+14001,Centro Norte,140017
+14001,Centro Norte,140030
+14001,Centro Norte,140040
+14001,Centro Norte,140045
+14001,Centro Norte,140070
+14002,Sul,140020
+14002,Sul,140023
+14002,Sul,140028
+14002,Sul,140047
+14002,Sul,140050
+14002,Sul,140060
+14000,Ignorado - RR,140000
+15001,Araguaia,150034
+15001,Araguaia,150125
+15001,Araguaia,150270
+15001,Araguaia,150276
+15001,Araguaia,150304
+15001,Araguaia,150543
+15001,Araguaia,150555
+15001,Araguaia,150613
+15001,Araguaia,150616
+15001,Araguaia,150658
+15001,Araguaia,150670
+15001,Araguaia,150730
+15001,Araguaia,150775
+15001,Araguaia,150808
+15001,Araguaia,150840
+15002,Baixo Amazonas,150040
+15002,Baixo Amazonas,150050
+15002,Baixo Amazonas,150145
+15002,Baixo Amazonas,150285
+15002,Baixo Amazonas,150300
+15002,Baixo Amazonas,150390
+15002,Baixo Amazonas,150475
+15002,Baixo Amazonas,150480
+15002,Baixo Amazonas,150510
+15002,Baixo Amazonas,150530
+15002,Baixo Amazonas,150565
+15002,Baixo Amazonas,150600
+15002,Baixo Amazonas,150680
+15002,Baixo Amazonas,150797
+15003,Carajás,150013
+15003,Carajás,150157
+15003,Carajás,150175
+15003,Carajás,150215
+15003,Carajás,150277
+15003,Carajás,150293
+15003,Carajás,150295
+15003,Carajás,150370
+15003,Carajás,150420
+15003,Carajás,150497
+15003,Carajás,150549
+15003,Carajás,150553
+15003,Carajás,150563
+15003,Carajás,150618
+15003,Carajás,150715
+15003,Carajás,150745
+15003,Carajás,150750
+15004,Lago de Tucuruí,150178
+15004,Lago de Tucuruí,150309
+15004,Lago de Tucuruí,150380
+15004,Lago de Tucuruí,150506
+15004,Lago de Tucuruí,150795
+15004,Lago de Tucuruí,150810
+15006,Metropolitana I,150080
+15006,Metropolitana I,150140
+15006,Metropolitana I,150150
+15006,Metropolitana I,150442
+15006,Metropolitana I,150635
+15007,Metropolitana II,150020
+15007,Metropolitana II,150190
+15007,Metropolitana II,150260
+15007,Metropolitana II,150275
+15007,Metropolitana II,150650
+15007,Metropolitana II,150700
+15007,Metropolitana II,150710
+15007,Metropolitana II,150800
+15007,Metropolitana II,150820
+15008,Metropolitana III,150095
+15008,Metropolitana III,150230
+15008,Metropolitana III,150240
+15008,Metropolitana III,150290
+15008,Metropolitana III,150307
+15008,Metropolitana III,150320
+15008,Metropolitana III,150340
+15008,Metropolitana III,150345
+15008,Metropolitana III,150350
+15008,Metropolitana III,150405
+15008,Metropolitana III,150410
+15008,Metropolitana III,150430
+15008,Metropolitana III,150440
+15008,Metropolitana III,150495
+15008,Metropolitana III,150550
+15008,Metropolitana III,150660
+15008,Metropolitana III,150720
+15008,Metropolitana III,150740
+15008,Metropolitana III,150746
+15008,Metropolitana III,150760
+15008,Metropolitana III,150796
+15008,Metropolitana III,150812
+15009,Rio Caetés,150090
+15009,Rio Caetés,150160
+15009,Rio Caetés,150170
+15009,Rio Caetés,150195
+15009,Rio Caetés,150220
+15009,Rio Caetés,150500
+15009,Rio Caetés,150540
+15009,Rio Caetés,150560
+15009,Rio Caetés,150610
+15009,Rio Caetés,150611
+15009,Rio Caetés,150620
+15009,Rio Caetés,150655
+15009,Rio Caetés,150690
+15009,Rio Caetés,150747
+15009,Rio Caetés,150803
+15009,Rio Caetés,150830
+15010,Tapajós,150100
+15010,Tapajós,150360
+15010,Tapajós,150375
+15010,Tapajós,150503
+15010,Tapajós,150619
+15010,Tapajós,150805
+15011,Tocantins,150010
+15011,Tocantins,150120
+15011,Tocantins,150130
+15011,Tocantins,150210
+15011,Tocantins,150330
+15011,Tocantins,150400
+15011,Tocantins,150460
+15011,Tocantins,150470
+15011,Tocantins,150520
+15012,Xingu,150060
+15012,Xingu,150085
+15012,Xingu,150172
+15012,Xingu,150445
+15012,Xingu,150548
+15012,Xingu,150590
+15012,Xingu,150780
+15012,Xingu,150815
+15012,Xingu,150835
+15013,Marajó I,150030
+15013,Marajó I,150200
+15013,Marajó I,150250
+15013,Marajó I,150490
+15013,Marajó I,150570
+15013,Marajó I,150630
+15013,Marajó I,150640
+15013,Marajó I,150770
+15013,Marajó I,150790
+15014,Marajó II,150070
+15014,Marajó II,150110
+15014,Marajó II,150180
+15014,Marajó II,150280
+15014,Marajó II,150310
+15014,Marajó II,150450
+15014,Marajó II,150580
+15000,Município ignorado - PA,150000
+16001,Área Central,160005
+16001,Área Central,160015
+16001,Área Central,160021
+16001,Área Central,160023
+16001,Área Central,160025
+16001,Área Central,160030
+16001,Área Central,160053
+16002,Área Norte,160010
+16002,Área Norte,160020
+16002,Área Norte,160050
+16002,Área Norte,160055
+16002,Área Norte,160070
+16003,Área Sudoeste,160027
+16003,Área Sudoeste,160040
+16003,Área Sudoeste,160060
+16003,Área Sudoeste,160080
+16000,Ignorado - AP,160000
+17001,Médio Norte Araguaia,170130
+17001,Médio Norte Araguaia,170210
+17001,Médio Norte Araguaia,170215
+17001,Médio Norte Araguaia,170300
+17001,Médio Norte Araguaia,170307
+17001,Médio Norte Araguaia,170384
+17001,Médio Norte Araguaia,170388
+17001,Médio Norte Araguaia,170650
+17001,Médio Norte Araguaia,170770
+17001,Médio Norte Araguaia,170900
+17001,Médio Norte Araguaia,171395
+17001,Médio Norte Araguaia,171488
+17001,Médio Norte Araguaia,171630
+17001,Médio Norte Araguaia,171720
+17001,Médio Norte Araguaia,171886
+17001,Médio Norte Araguaia,172208
+17001,Médio Norte Araguaia,172210
+17002,Bico do Papagaio,170030
+17002,Bico do Papagaio,170100
+17002,Bico do Papagaio,170105
+17002,Bico do Papagaio,170220
+17002,Bico do Papagaio,170255
+17002,Bico do Papagaio,170290
+17002,Bico do Papagaio,170380
+17002,Bico do Papagaio,170382
+17002,Bico do Papagaio,170389
+17002,Bico do Papagaio,170740
+17002,Bico do Papagaio,171070
+17002,Bico do Papagaio,171245
+17002,Bico do Papagaio,171280
+17002,Bico do Papagaio,171380
+17002,Bico do Papagaio,171430
+17002,Bico do Papagaio,171830
+17002,Bico do Papagaio,171855
+17002,Bico do Papagaio,171880
+17002,Bico do Papagaio,172000
+17002,Bico do Papagaio,172010
+17002,Bico do Papagaio,172020
+17002,Bico do Papagaio,172030
+17002,Bico do Papagaio,172080
+17002,Bico do Papagaio,172120
+17003,Sudeste,170040
+17003,Sudeste,170240
+17003,Sudeste,170270
+17003,Sudeste,170555
+17003,Sudeste,170560
+17003,Sudeste,170700
+17003,Sudeste,171215
+17003,Sudeste,171515
+17003,Sudeste,171525
+17003,Sudeste,171620
+17003,Sudeste,171780
+17003,Sudeste,171800
+17003,Sudeste,171865
+17003,Sudeste,172090
+17003,Sudeste,172093
+17004,Cerrado Tocant Araguaia,170230
+17004,Cerrado Tocant Araguaia,170305
+17004,Cerrado Tocant Araguaia,170320
+17004,Cerrado Tocant Araguaia,170330
+17004,Cerrado Tocant Araguaia,170360
+17004,Cerrado Tocant Araguaia,170410
+17004,Cerrado Tocant Araguaia,170550
+17004,Cerrado Tocant Araguaia,170600
+17004,Cerrado Tocant Araguaia,170830
+17004,Cerrado Tocant Araguaia,170930
+17004,Cerrado Tocant Araguaia,171050
+17004,Cerrado Tocant Araguaia,171090
+17004,Cerrado Tocant Araguaia,171110
+17004,Cerrado Tocant Araguaia,171180
+17004,Cerrado Tocant Araguaia,171570
+17004,Cerrado Tocant Araguaia,171650
+17004,Cerrado Tocant Araguaia,171665
+17004,Cerrado Tocant Araguaia,171670
+17004,Cerrado Tocant Araguaia,171840
+17004,Cerrado Tocant Araguaia,171850
+17004,Cerrado Tocant Araguaia,171888
+17004,Cerrado Tocant Araguaia,172125
+17004,Cerrado Tocant Araguaia,172130
+17005,Ilha do Bananal,170035
+17005,Ilha do Bananal,170070
+17005,Ilha do Bananal,170200
+17005,Ilha do Bananal,170386
+17005,Ilha do Bananal,170625
+17005,Ilha do Bananal,170730
+17005,Ilha do Bananal,170765
+17005,Ilha do Bananal,170820
+17005,Ilha do Bananal,170950
+17005,Ilha do Bananal,171150
+17005,Ilha do Bananal,171575
+17005,Ilha do Bananal,171660
+17005,Ilha do Bananal,171884
+17005,Ilha do Bananal,171889
+17005,Ilha do Bananal,172025
+17005,Ilha do Bananal,172049
+17005,Ilha do Bananal,172085
+17005,Ilha do Bananal,172097
+17006,Capim Dourado,170110
+17006,Capim Dourado,170825
+17006,Capim Dourado,171195
+17006,Capim Dourado,171200
+17006,Capim Dourado,171240
+17006,Capim Dourado,171320
+17006,Capim Dourado,171330
+17006,Capim Dourado,171510
+17006,Capim Dourado,171870
+17006,Capim Dourado,171875
+17006,Capim Dourado,171900
+17006,Capim Dourado,172015
+17006,Capim Dourado,172100
+17006,Capim Dourado,172110
+17007,Cantão,170025
+17007,Cantão,170190
+17007,Cantão,170310
+17007,Cantão,170390
+17007,Cantão,170460
+17007,Cantão,170610
+17007,Cantão,170710
+17007,Cantão,170720
+17007,Cantão,171190
+17007,Cantão,171250
+17007,Cantão,171370
+17007,Cantão,171500
+17007,Cantão,171610
+17007,Cantão,171750
+17007,Cantão,171845
+17008,Amor Perfeito,170370
+17008,Amor Perfeito,170510
+17008,Amor Perfeito,170755
+17008,Amor Perfeito,170980
+17008,Amor Perfeito,171270
+17008,Amor Perfeito,171360
+17008,Amor Perfeito,171420
+17008,Amor Perfeito,171550
+17008,Amor Perfeito,171700
+17008,Amor Perfeito,171790
+17008,Amor Perfeito,171820
+17008,Amor Perfeito,171890
+17008,Amor Perfeito,172065
+17000,Ignorado - TO,170000
+21001,Açailândia,210005
+21001,Açailândia,210203
+21001,Açailândia,210232
+21001,Açailândia,210325
+21001,Açailândia,210542
+21001,Açailândia,211085
+21001,Açailândia,211153
+21001,Açailândia,211285
+21002,Bacabal,210040
+21002,Bacabal,210120
+21002,Bacabal,210207
+21002,Bacabal,210215
+21002,Bacabal,210355
+21002,Bacabal,210590
+21002,Bacabal,210635
+21002,Bacabal,210740
+21002,Bacabal,210810
+21002,Bacabal,211140
+21002,Bacabal,211300
+21003,Balsas,210050
+21003,Balsas,210140
+21003,Balsas,210280
+21003,Balsas,210407
+21003,Balsas,210409
+21003,Balsas,210410
+21003,Balsas,210610
+21003,Balsas,210725
+21003,Balsas,210950
+21003,Balsas,210970
+21003,Balsas,211080
+21003,Balsas,211157
+21003,Balsas,211160
+21003,Balsas,211200
+21004,Barra do Corda,210095
+21004,Barra do Corda,210160
+21004,Barra do Corda,210408
+21004,Barra do Corda,210480
+21004,Barra do Corda,210535
+21004,Barra do Corda,210547
+21005,Caxias,210010
+21005,Caxias,210030
+21005,Caxias,210220
+21005,Caxias,210300
+21005,Caxias,210340
+21005,Caxias,210390
+21005,Caxias,211107
+21006,Chapadinha,210015
+21006,Chapadinha,210080
+21006,Chapadinha,210090
+21006,Chapadinha,210210
+21006,Chapadinha,210320
+21006,Chapadinha,210630
+21006,Chapadinha,210640
+21006,Chapadinha,210667
+21006,Chapadinha,210805
+21006,Chapadinha,211010
+21006,Chapadinha,211023
+21006,Chapadinha,211060
+21006,Chapadinha,211250
+21007,Codó,210043
+21007,Codó,210330
+21007,Codó,210360
+21007,Codó,210845
+21007,Codó,211150
+21007,Codó,211210
+21008,Imperatriz,210060
+21008,Imperatriz,210235
+21008,Imperatriz,210255
+21008,Imperatriz,210375
+21008,Imperatriz,210405
+21008,Imperatriz,210455
+21008,Imperatriz,210530
+21008,Imperatriz,210550
+21008,Imperatriz,210598
+21008,Imperatriz,210700
+21008,Imperatriz,210900
+21008,Imperatriz,210955
+21008,Imperatriz,211105
+21008,Imperatriz,211176
+21008,Imperatriz,211180
+21009,Itapecuru Mirim,210070
+21009,Itapecuru Mirim,210100
+21009,Itapecuru Mirim,210173
+21009,Itapecuru Mirim,210270
+21009,Itapecuru Mirim,210540
+21009,Itapecuru Mirim,210663
+21009,Itapecuru Mirim,210675
+21009,Itapecuru Mirim,210720
+21009,Itapecuru Mirim,210880
+21009,Itapecuru Mirim,210930
+21009,Itapecuru Mirim,211040
+21009,Itapecuru Mirim,211260
+21009,Itapecuru Mirim,211270
+21009,Itapecuru Mirim,211290
+21010,Pedreiras,210193
+21010,Pedreiras,210400
+21010,Pedreiras,210520
+21010,Pedreiras,210570
+21010,Pedreiras,210580
+21010,Pedreiras,210594
+21010,Pedreiras,210596
+21010,Pedreiras,210600
+21010,Pedreiras,210820
+21010,Pedreiras,210890
+21010,Pedreiras,211163
+21010,Pedreiras,211167
+21010,Pedreiras,211223
+21011,Pinheiro,210083
+21011,Pinheiro,210130
+21011,Pinheiro,210190
+21011,Pinheiro,210310
+21011,Pinheiro,210312
+21011,Pinheiro,210370
+21011,Pinheiro,210490
+21011,Pinheiro,210680
+21011,Pinheiro,210825
+21011,Pinheiro,210840
+21011,Pinheiro,210860
+21011,Pinheiro,210905
+21011,Pinheiro,210927
+21011,Pinheiro,210980
+21011,Pinheiro,211178
+21011,Pinheiro,211240
+21011,Pinheiro,211245
+21012,Presidente Dutra,210275
+21012,Presidente Dutra,210380
+21012,Presidente Dutra,210420
+21012,Presidente Dutra,210440
+21012,Presidente Dutra,210450
+21012,Presidente Dutra,210460
+21012,Presidente Dutra,210462
+21012,Presidente Dutra,210470
+21012,Presidente Dutra,210560
+21012,Presidente Dutra,210910
+21012,Presidente Dutra,210975
+21012,Presidente Dutra,211030
+21012,Presidente Dutra,211070
+21012,Presidente Dutra,211125
+21012,Presidente Dutra,211174
+21012,Presidente Dutra,211230
+21013,Rosário,210110
+21013,Rosário,210125
+21013,Rosário,210170
+21013,Rosário,210237
+21013,Rosário,210500
+21013,Rosário,210510
+21013,Rosário,210710
+21013,Rosário,210920
+21013,Rosário,210940
+21013,Rosário,210960
+21013,Rosário,211020
+21013,Rosário,211027
+21014,Santa Inês,210047
+21014,Santa Inês,210177
+21014,Santa Inês,210200
+21014,Santa Inês,210465
+21014,Santa Inês,210515
+21014,Santa Inês,210690
+21014,Santa Inês,210850
+21014,Santa Inês,210870
+21014,Santa Inês,210990
+21014,Santa Inês,211000
+21014,Santa Inês,211102
+21014,Santa Inês,211172
+21014,Santa Inês,211227
+21015,São João dos Patos,210150
+21015,São João dos Patos,210180
+21015,São João dos Patos,210230
+21015,São João dos Patos,210350
+21015,São João dos Patos,210545
+21015,São João dos Patos,210592
+21015,São João dos Patos,210670
+21015,São João dos Patos,210730
+21015,São João dos Patos,210770
+21015,São João dos Patos,210790
+21015,São João dos Patos,210800
+21015,São João dos Patos,211065
+21015,São João dos Patos,211110
+21015,São João dos Patos,211190
+21015,São João dos Patos,211195
+21016,São Luís,210020
+21016,São Luís,210750
+21016,São Luís,210945
+21016,São Luís,211120
+21016,São Luís,211130
+21017,Timon,210660
+21017,Timon,210780
+21017,Timon,211090
+21017,Timon,211220
+21018,Viana,210135
+21018,Viana,210240
+21018,Viana,210250
+21018,Viana,210650
+21018,Viana,210745
+21018,Viana,210760
+21018,Viana,210830
+21018,Viana,211050
+21018,Viana,211100
+21018,Viana,211170
+21018,Viana,211280
+21019,Zé Doca,210055
+21019,Zé Doca,210087
+21019,Zé Doca,210197
+21019,Zé Doca,210260
+21019,Zé Doca,210290
+21019,Zé Doca,210315
+21019,Zé Doca,210317
+21019,Zé Doca,210430
+21019,Zé Doca,210467
+21019,Zé Doca,210565
+21019,Zé Doca,210620
+21019,Zé Doca,210632
+21019,Zé Doca,210637
+21019,Zé Doca,210735
+21019,Zé Doca,210923
+21019,Zé Doca,211003
+21019,Zé Doca,211400
+21000,Ignorado - MA,210000
+22001,Carnaubais,220105
+22001,Carnaubais,220177
+22001,Carnaubais,220194
+22001,Carnaubais,220202
+22001,Carnaubais,220205
+22001,Carnaubais,220220
+22001,Carnaubais,220260
+22001,Carnaubais,220271
+22001,Carnaubais,220527
+22001,Carnaubais,220551
+22001,Carnaubais,220675
+22001,Carnaubais,220695
+22001,Carnaubais,220990
+22001,Carnaubais,221040
+22001,Carnaubais,221065
+22002,Chapada das Mangabeiras,220045
+22002,Chapada das Mangabeiras,220110
+22002,Chapada das Mangabeiras,220130
+22002,Chapada das Mangabeiras,220190
+22002,Chapada das Mangabeiras,220275
+22002,Chapada das Mangabeiras,220290
+22002,Chapada das Mangabeiras,220300
+22002,Chapada das Mangabeiras,220310
+22002,Chapada das Mangabeiras,220320
+22002,Chapada das Mangabeiras,220323
+22002,Chapada das Mangabeiras,220360
+22002,Chapada das Mangabeiras,220440
+22002,Chapada das Mangabeiras,220552
+22002,Chapada das Mangabeiras,220660
+22002,Chapada das Mangabeiras,220665
+22002,Chapada das Mangabeiras,220740
+22002,Chapada das Mangabeiras,220760
+22002,Chapada das Mangabeiras,220870
+22002,Chapada das Mangabeiras,220885
+22002,Chapada das Mangabeiras,220920
+22002,Chapada das Mangabeiras,220930
+22002,Chapada das Mangabeiras,220975
+22002,Chapada das Mangabeiras,221062
+22003,Cocais,220120
+22003,Cocais,220150
+22003,Cocais,220196
+22003,Cocais,220217
+22003,Cocais,220240
+22003,Cocais,220342
+22003,Cocais,220370
+22003,Cocais,220540
+22003,Cocais,220545
+22003,Cocais,220557
+22003,Cocais,220580
+22003,Cocais,220585
+22003,Cocais,220610
+22003,Cocais,220635
+22003,Cocais,220667
+22003,Cocais,220680
+22003,Cocais,220790
+22003,Cocais,220830
+22003,Cocais,220840
+22003,Cocais,220850
+22003,Cocais,220987
+22003,Cocais,220997
+22003,Cocais,221005
+22004,Entre Rios,220010
+22004,Entre Rios,220020
+22004,Entre Rios,220030
+22004,Entre Rios,220040
+22004,Entre Rios,220050
+22004,Entre Rios,220060
+22004,Entre Rios,220140
+22004,Entre Rios,220160
+22004,Entre Rios,220273
+22004,Entre Rios,220325
+22004,Entre Rios,220330
+22004,Entre Rios,220460
+22004,Entre Rios,220525
+22004,Entre Rios,220550
+22004,Entre Rios,220554
+22004,Entre Rios,220555
+22004,Entre Rios,220558
+22004,Entre Rios,220620
+22004,Entre Rios,220630
+22004,Entre Rios,220640
+22004,Entre Rios,220672
+22004,Entre Rios,220710
+22004,Entre Rios,220750
+22004,Entre Rios,220775
+22004,Entre Rios,220779
+22004,Entre Rios,220880
+22004,Entre Rios,220945
+22004,Entre Rios,220980
+22004,Entre Rios,221050
+22004,Entre Rios,221100
+22004,Entre Rios,221110
+22005,Planície Litorânea,220191
+22005,Planície Litorânea,220200
+22005,Planície Litorânea,220208
+22005,Planície Litorânea,220253
+22005,Planície Litorânea,220265
+22005,Planície Litorânea,220270
+22005,Planície Litorânea,220272
+22005,Planície Litorânea,220465
+22005,Planície Litorânea,220570
+22005,Planície Litorânea,220669
+22005,Planície Litorânea,220770
+22006,Serra da Capivara,220070
+22006,Serra da Capivara,220192
+22006,Serra da Capivara,220211
+22006,Serra da Capivara,220245
+22006,Serra da Capivara,220250
+22006,Serra da Capivara,220285
+22006,Serra da Capivara,220335
+22006,Serra da Capivara,220345
+22006,Serra da Capivara,220375
+22006,Serra da Capivara,220455
+22006,Serra da Capivara,220535
+22006,Serra da Capivara,220553
+22006,Serra da Capivara,220556
+22006,Serra da Capivara,220955
+22006,Serra da Capivara,221000
+22006,Serra da Capivara,221035
+22006,Serra da Capivara,221060
+22006,Serra da Capivara,221135
+22007,Tabuleiros Alto Parnaíba,220080
+22007,Tabuleiros Alto Parnaíba,220115
+22007,Tabuleiros Alto Parnaíba,220890
+22007,Tabuleiros Alto Parnaíba,221063
+22007,Tabuleiros Alto Parnaíba,221120
+22008,Vale do Canindé,220155
+22008,Vale do Canindé,220207
+22008,Vale do Canindé,220210
+22008,Vale do Canindé,220277
+22008,Vale do Canindé,220280
+22008,Vale do Canindé,220385
+22008,Vale do Canindé,220490
+22008,Vale do Canindé,220700
+22008,Vale do Canindé,220937
+22008,Vale do Canindé,220950
+22008,Vale do Canindé,220965
+22008,Vale do Canindé,220995
+22008,Vale do Canindé,221080
+22008,Vale do Canindé,221097
+22009,Vale do Rio Guaribas,220005
+22009,Vale do Rio Guaribas,220025
+22009,Vale do Rio Guaribas,220027
+22009,Vale do Rio Guaribas,220095
+22009,Vale do Rio Guaribas,220157
+22009,Vale do Rio Guaribas,220173
+22009,Vale do Rio Guaribas,220180
+22009,Vale do Rio Guaribas,220209
+22009,Vale do Rio Guaribas,220213
+22009,Vale do Rio Guaribas,220255
+22009,Vale do Rio Guaribas,220327
+22009,Vale do Rio Guaribas,220340
+22009,Vale do Rio Guaribas,220415
+22009,Vale do Rio Guaribas,220420
+22009,Vale do Rio Guaribas,220430
+22009,Vale do Rio Guaribas,220435
+22009,Vale do Rio Guaribas,220480
+22009,Vale do Rio Guaribas,220500
+22009,Vale do Rio Guaribas,220515
+22009,Vale do Rio Guaribas,220520
+22009,Vale do Rio Guaribas,220595
+22009,Vale do Rio Guaribas,220605
+22009,Vale do Rio Guaribas,220650
+22009,Vale do Rio Guaribas,220720
+22009,Vale do Rio Guaribas,220755
+22009,Vale do Rio Guaribas,220777
+22009,Vale do Rio Guaribas,220780
+22009,Vale do Rio Guaribas,220800
+22009,Vale do Rio Guaribas,220820
+22009,Vale do Rio Guaribas,220865
+22009,Vale do Rio Guaribas,220910
+22009,Vale do Rio Guaribas,220935
+22009,Vale do Rio Guaribas,220940
+22009,Vale do Rio Guaribas,220985
+22009,Vale do Rio Guaribas,221020
+22009,Vale do Rio Guaribas,221030
+22009,Vale do Rio Guaribas,221037
+22009,Vale do Rio Guaribas,221070
+22009,Vale do Rio Guaribas,221093
+22009,Vale do Rio Guaribas,221150
+22009,Vale do Rio Guaribas,221160
+22009,Vale do Rio Guaribas,221170
+22010,Vale do Sambito,220090
+22010,Vale do Sambito,220117
+22010,Vale do Sambito,220350
+22010,Vale do Sambito,220400
+22010,Vale do Sambito,220470
+22010,Vale do Sambito,220559
+22010,Vale do Sambito,220690
+22010,Vale do Sambito,220810
+22010,Vale do Sambito,220860
+22010,Vale do Sambito,220915
+22010,Vale do Sambito,220960
+22010,Vale do Sambito,221038
+22010,Vale do Sambito,221130
+22010,Vale do Sambito,221140
+22011,Vale Rio Piauí/Itaueiras,220100
+22011,Vale Rio Piauí/Itaueiras,220170
+22011,Vale Rio Piauí/Itaueiras,220198
+22011,Vale Rio Piauí/Itaueiras,220225
+22011,Vale Rio Piauí/Itaueiras,220230
+22011,Vale Rio Piauí/Itaueiras,220380
+22011,Vale Rio Piauí/Itaueiras,220390
+22011,Vale Rio Piauí/Itaueiras,220410
+22011,Vale Rio Piauí/Itaueiras,220450
+22011,Vale Rio Piauí/Itaueiras,220510
+22011,Vale Rio Piauí/Itaueiras,220530
+22011,Vale Rio Piauí/Itaueiras,220560
+22011,Vale Rio Piauí/Itaueiras,220590
+22011,Vale Rio Piauí/Itaueiras,220600
+22011,Vale Rio Piauí/Itaueiras,220670
+22011,Vale Rio Piauí/Itaueiras,220730
+22011,Vale Rio Piauí/Itaueiras,220735
+22011,Vale Rio Piauí/Itaueiras,220785
+22011,Vale Rio Piauí/Itaueiras,220793
+22011,Vale Rio Piauí/Itaueiras,220795
+22011,Vale Rio Piauí/Itaueiras,220855
+22011,Vale Rio Piauí/Itaueiras,220887
+22011,Vale Rio Piauí/Itaueiras,220900
+22011,Vale Rio Piauí/Itaueiras,220970
+22011,Vale Rio Piauí/Itaueiras,221010
+22011,Vale Rio Piauí/Itaueiras,221039
+22011,Vale Rio Piauí/Itaueiras,221090
+22011,Vale Rio Piauí/Itaueiras,221095
+22000,Ignorado - PI,220000
+23001,1ª Região Fortaleza,230100
+23001,1ª Região Fortaleza,230428
+23001,1ª Região Fortaleza,230440
+23001,1ª Região Fortaleza,230625
+23002,2ª Região Caucaia,230090
+23002,2ª Região Caucaia,230370
+23002,2ª Região Caucaia,230460
+23002,2ª Região Caucaia,230630
+23002,2ª Região Caucaia,231020
+23002,2ª Região Caucaia,231025
+23002,2ª Região Caucaia,231070
+23002,2ª Região Caucaia,231240
+23002,2ª Região Caucaia,231260
+23002,2ª Região Caucaia,231335
+23003,3ª Região Maracanaú,230015
+23003,3ª Região Maracanaú,230195
+23003,3ª Região Maracanaú,230495
+23003,3ª Região Maracanaú,230765
+23003,3ª Região Maracanaú,230770
+23003,3ª Região Maracanaú,230970
+23003,3ª Região Maracanaú,231010
+23003,3ª Região Maracanaú,231160
+23004,4ª Região Baturité,230120
+23004,4ª Região Baturité,230140
+23004,4ª Região Baturité,230210
+23004,4ª Região Baturité,230290
+23004,4ª Região Baturité,230510
+23004,4ª Região Baturité,230650
+23004,4ª Região Baturité,230910
+23004,4ª Região Baturité,230980
+23005,5ª Região Canindé,230240
+23005,5ª Região Canindé,230280
+23005,5ª Região Canindé,230300
+23005,5ª Região Canindé,230660
+23005,5ª Região Canindé,230763
+23005,5ª Região Canindé,231040
+23006,6ª Região Itapipoca,230075
+23006,6ª Região Itapipoca,230640
+23006,6ª Região Itapipoca,230837
+23006,6ª Região Itapipoca,231350
+23006,6ª Região Itapipoca,231355
+23006,6ª Região Itapipoca,231375
+23006,6ª Região Itapipoca,231380
+23007,7ª Região Aracati,230110
+23007,7ª Região Aracati,230445
+23007,7ª Região Aracati,230535
+23007,7ª Região Aracati,230620
+23008,8ª Região Quixadá,230185
+23008,8ª Região Quixadá,230393
+23008,8ª Região Quixadá,230526
+23008,8ª Região Quixadá,230533
+23008,8ª Região Quixadá,230835
+23008,8ª Região Quixadá,231050
+23008,8ª Região Quixadá,231130
+23008,8ª Região Quixadá,231140
+23008,8ª Região Quixadá,231270
+23008,8ª Região Quixadá,231300
+23009,9ª Região Russas,230670
+23009,9ª Região Russas,230700
+23009,9ª Região Russas,230870
+23009,9ª Região Russas,231000
+23009,9ª Região Russas,231180
+23010,10ª Região Limoeiro Nort,230070
+23010,10ª Região Limoeiro Nort,230427
+23010,10ª Região Limoeiro Nort,230600
+23010,10ª Região Limoeiro Nort,230680
+23010,10ª Região Limoeiro Nort,230690
+23010,10ª Região Limoeiro Nort,230760
+23010,10ª Região Limoeiro Nort,231080
+23010,10ª Região Limoeiro Nort,231123
+23010,10ª Região Limoeiro Nort,231150
+23010,10ª Região Limoeiro Nort,231250
+23010,10ª Região Limoeiro Nort,231310
+23011,11ª Região Sobral,230050
+23011,11ª Região Sobral,230310
+23011,11ª Região Sobral,230365
+23011,11ª Região Sobral,230400
+23011,11ª Região Sobral,230435
+23011,11ª Região Sobral,230450
+23011,11ª Região Sobral,230465
+23011,11ª Região Sobral,230490
+23011,11ª Região Sobral,230520
+23011,11ª Região Sobral,230580
+23011,11ª Região Sobral,230610
+23011,11ª Região Sobral,230800
+23011,11ª Região Sobral,230820
+23011,11ª Região Sobral,230880
+23011,11ª Região Sobral,230900
+23011,11ª Região Sobral,230990
+23011,11ª Região Sobral,231095
+23011,11ª Região Sobral,231170
+23011,11ª Região Sobral,231200
+23011,11ª Região Sobral,231220
+23011,11ª Região Sobral,231280
+23011,11ª Região Sobral,231290
+23011,11ª Região Sobral,231390
+23011,11ª Região Sobral,231395
+23012,12ª Região Acaraú,230020
+23012,12ª Região Acaraú,230230
+23012,12ª Região Acaraú,230425
+23012,12ª Região Acaraú,230655
+23012,12ª Região Acaraú,230725
+23012,12ª Região Acaraú,230780
+23012,12ª Região Acaraú,230890
+23013,13ª Região Tianguá,230340
+23013,13ª Região Tianguá,230423
+23013,13ª Região Tianguá,230500
+23013,13ª Região Tianguá,230530
+23013,13ª Região Tianguá,231230
+23013,13ª Região Tianguá,231340
+23013,13ª Região Tianguá,231360
+23013,13ª Região Tianguá,231410
+23014,14ª Região Tauá,230040
+23014,14ª Região Tauá,230150
+23014,14ª Região Tauá,231030
+23014,14ª Região Tauá,231330
+23015,15ª Região Crateús,230125
+23015,15ª Região Crateús,230410
+23015,15ª Região Crateús,230560
+23015,15ª Região Crateús,230565
+23015,15ª Região Crateús,230590
+23015,15ª Região Crateús,230860
+23015,15ª Região Crateús,230930
+23015,15ª Região Crateús,230940
+23015,15ª Região Crateús,231100
+23015,15ª Região Crateús,231126
+23015,15ª Região Crateús,231320
+23016,16ª Região Camocim,230205
+23016,16ª Região Camocim,230260
+23016,16ª Região Camocim,230390
+23016,16ª Região Camocim,230470
+23016,16ª Região Camocim,230790
+23017,17ª Região Icó,230180
+23017,17ª Região Icó,230380
+23017,17ª Região Icó,230540
+23017,17ª Região Icó,230570
+23017,17ª Região Icó,230750
+23017,17ª Região Icó,230950
+23017,17ª Região Icó,231370
+23018,18ª Região Iguatú,230030
+23018,18ª Região Iguatú,230330
+23018,18ª Região Iguatú,230360
+23018,18ª Região Iguatú,230426
+23018,18ª Região Iguatú,230550
+23018,18ª Região Iguatú,230740
+23018,18ª Região Iguatú,230850
+23018,18ª Região Iguatú,231090
+23018,18ª Região Iguatú,231135
+23018,18ª Região Iguatú,231190
+23019,19ª Região Brejo Santo,230010
+23019,19ª Região Brejo Santo,230170
+23019,19ª Região Brejo Santo,230200
+23019,19ª Região Brejo Santo,230250
+23019,19ª Região Brejo Santo,230720
+23019,19ª Região Brejo Santo,230810
+23019,19ª Região Brejo Santo,230830
+23019,19ª Região Brejo Santo,231060
+23019,19ª Região Brejo Santo,231110
+23020,20ª Região Crato,230060
+23020,20ª Região Crato,230080
+23020,20ª Região Crato,230130
+23020,20ª Região Crato,230160
+23020,20ª Região Crato,230270
+23020,20ª Região Crato,230420
+23020,20ª Região Crato,230430
+23020,20ª Região Crato,230920
+23020,20ª Região Crato,231120
+23020,20ª Região Crato,231195
+23020,20ª Região Crato,231210
+23020,20ª Região Crato,231325
+23020,20ª Região Crato,231400
+23021,21ª Região Juazeiro Nort,230190
+23021,21ª Região Juazeiro Nort,230320
+23021,21ª Região Juazeiro Nort,230480
+23021,21ª Região Juazeiro Nort,230710
+23021,21ª Região Juazeiro Nort,230730
+23021,21ª Região Juazeiro Nort,230840
+23022,22ª Região Cascavel,230220
+23022,22ª Região Cascavel,230350
+23022,22ª Região Cascavel,230395
+23022,22ª Região Cascavel,230523
+23022,22ª Região Cascavel,230945
+23022,22ª Região Cascavel,230960
+23022,22ª Região Cascavel,231085
+23000,Ignorado - CE,230000
+24001,São José de Mipibu,240120
+24001,São José de Mipibu,240140
+24001,São José de Mipibu,240180
+24001,São José de Mipibu,240220
+24001,São José de Mipibu,240350
+24001,São José de Mipibu,240420
+24001,São José de Mipibu,240615
+24001,São José de Mipibu,240620
+24001,São José de Mipibu,240630
+24001,São José de Mipibu,240660
+24001,São José de Mipibu,240770
+24001,São José de Mipibu,240780
+24001,São José de Mipibu,240790
+24001,São José de Mipibu,240820
+24001,São José de Mipibu,240830
+24001,São José de Mipibu,240910
+24001,São José de Mipibu,240920
+24001,São José de Mipibu,240980
+24001,São José de Mipibu,241150
+24001,São José de Mipibu,241220
+24001,São José de Mipibu,241320
+24001,São José de Mipibu,241330
+24001,São José de Mipibu,241350
+24001,São José de Mipibu,241420
+24001,São José de Mipibu,241470
+24001,São José de Mipibu,241480
+24001,São José de Mipibu,241500
+24002,Mossoró,240100
+24002,Mossoró,240110
+24002,Mossoró,240130
+24002,Mossoró,240145
+24002,Mossoró,240230
+24002,Mossoró,240370
+24002,Mossoró,240430
+24002,Mossoró,240440
+24002,Mossoró,240520
+24002,Mossoró,240760
+24002,Mossoró,240800
+24002,Mossoró,241105
+24002,Mossoró,241335
+24002,Mossoró,241460
+24003,João Câmara,240030
+24003,João Câmara,240160
+24003,João Câmara,240185
+24003,João Câmara,240190
+24003,João Câmara,240260
+24003,João Câmara,240410
+24003,João Câmara,240450
+24003,João Câmara,240460
+24003,João Câmara,240510
+24003,João Câmara,240550
+24003,João Câmara,240580
+24003,João Câmara,240670
+24003,João Câmara,240720
+24003,João Câmara,240750
+24003,João Câmara,240880
+24003,João Câmara,240895
+24003,João Câmara,240950
+24003,João Câmara,240960
+24003,João Câmara,240970
+24003,João Câmara,241010
+24003,João Câmara,241040
+24003,João Câmara,241090
+24003,João Câmara,241160
+24003,João Câmara,241255
+24003,João Câmara,241390
+24003,João Câmara,241440
+24004,Caicó,240010
+24004,Caicó,240165
+24004,Caicó,240200
+24004,Caicó,240240
+24004,Caicó,240270
+24004,Caicó,240300
+24004,Caicó,240310
+24004,Caicó,240340
+24004,Caicó,240380
+24004,Caicó,240480
+24004,Caicó,240560
+24004,Caicó,240570
+24004,Caicó,240610
+24004,Caicó,240650
+24004,Caicó,240850
+24004,Caicó,240890
+24004,Caicó,241140
+24004,Caicó,241142
+24004,Caicó,241180
+24004,Caicó,241210
+24004,Caicó,241240
+24004,Caicó,241300
+24004,Caicó,241340
+24004,Caicó,241415
+24004,Caicó,241430
+24005,Santa Cruz,240150
+24005,Santa Cruz,240170
+24005,Santa Cruz,240210
+24005,Santa Cruz,240280
+24005,Santa Cruz,240500
+24005,Santa Cruz,240530
+24005,Santa Cruz,240540
+24005,Santa Cruz,240640
+24005,Santa Cruz,240680
+24005,Santa Cruz,240933
+24005,Santa Cruz,241030
+24005,Santa Cruz,241110
+24005,Santa Cruz,241120
+24005,Santa Cruz,241170
+24005,Santa Cruz,241230
+24005,Santa Cruz,241260
+24005,Santa Cruz,241270
+24005,Santa Cruz,241290
+24005,Santa Cruz,241310
+24005,Santa Cruz,241370
+24005,Santa Cruz,241400
+24006,Pau dos Ferros,240040
+24006,Pau dos Ferros,240050
+24006,Pau dos Ferros,240060
+24006,Pau dos Ferros,240090
+24006,Pau dos Ferros,240290
+24006,Pau dos Ferros,240320
+24006,Pau dos Ferros,240330
+24006,Pau dos Ferros,240390
+24006,Pau dos Ferros,240400
+24006,Pau dos Ferros,240490
+24006,Pau dos Ferros,240590
+24006,Pau dos Ferros,240600
+24006,Pau dos Ferros,240690
+24006,Pau dos Ferros,240700
+24006,Pau dos Ferros,240725
+24006,Pau dos Ferros,240730
+24006,Pau dos Ferros,240740
+24006,Pau dos Ferros,240840
+24006,Pau dos Ferros,240860
+24006,Pau dos Ferros,240930
+24006,Pau dos Ferros,240940
+24006,Pau dos Ferros,241000
+24006,Pau dos Ferros,241020
+24006,Pau dos Ferros,241050
+24006,Pau dos Ferros,241060
+24006,Pau dos Ferros,241070
+24006,Pau dos Ferros,241080
+24006,Pau dos Ferros,241100
+24006,Pau dos Ferros,241190
+24006,Pau dos Ferros,241250
+24006,Pau dos Ferros,241355
+24006,Pau dos Ferros,241360
+24006,Pau dos Ferros,241380
+24006,Pau dos Ferros,241410
+24006,Pau dos Ferros,241450
+24006,Pau dos Ferros,241475
+24006,Pau dos Ferros,241490
+24007,Metropolitana,240325
+24007,Metropolitana,240360
+24007,Metropolitana,240710
+24007,Metropolitana,240810
+24007,Metropolitana,241200
+24008,Açu,240020
+24008,Açu,240070
+24008,Açu,240080
+24008,Açu,240250
+24008,Açu,240375
+24008,Açu,240470
+24008,Açu,240485
+24008,Açu,240870
+24008,Açu,240990
+24008,Açu,241025
+24008,Açu,241280
+24008,Açu,241445
+24000,Ignorado - RN,240000
+25001,1ª Região Mata Atlântica,250060
+25001,1ª Região Mata Atlântica,250180
+25001,1ª Região Mata Atlântica,250300
+25001,1ª Região Mata Atlântica,250320
+25001,1ª Região Mata Atlântica,250460
+25001,1ª Região Mata Atlântica,250490
+25001,1ª Região Mata Atlântica,250750
+25001,1ª Região Mata Atlântica,250860
+25001,1ª Região Mata Atlântica,250910
+25001,1ª Região Mata Atlântica,251190
+25001,1ª Região Mata Atlântica,251276
+25001,1ª Região Mata Atlântica,251370
+25001,1ª Região Mata Atlântica,251530
+25001,1ª Região Mata Atlântica,251597
+25002,2ª Região,250050
+25002,2ª Região,250080
+25002,2ª Região,250100
+25002,2ª Região,250150
+25002,2ª Região,250190
+25002,2ª Região,250270
+25002,2ª Região,250350
+25002,2ª Região,250360
+25002,2ª Região,250415
+25002,2ª Região,250520
+25002,2ª Região,250570
+25002,2ª Região,250580
+25002,2ª Região,250630
+25002,2ª Região,250820
+25002,2ª Região,250855
+25002,2ª Região,250980
+25002,2ª Região,251160
+25002,2ª Região,251170
+25002,2ª Região,251180
+25002,2ª Região,251274
+25002,2ª Região,251560
+25002,2ª Região,251590
+25002,2ª Região,251593
+25002,2ª Região,251600
+25002,2ª Região,251640
+25003,3ª Região,250030
+25003,3ª Região,250040
+25003,3ª Região,250057
+25003,3ª Região,250090
+25003,3ª Região,250110
+25003,3ª Região,250120
+25003,3ª Região,250600
+25003,3ª Região,250830
+25003,3ª Região,250933
+25003,3ª Região,250950
+25003,3ª Região,251270
+25003,3ª Região,251510
+25004,4ª Região,250153
+25004,4ª Região,250160
+25004,4ª Região,250500
+25004,4ª Região,250510
+25004,4ª Região,250535
+25004,4ª Região,250620
+25004,4ª Região,251010
+25004,4ª Região,251030
+25004,4ª Região,251110
+25004,4ª Região,251140
+25004,4ª Região,251540
+25004,4ª Região,251615
+25005,5ª Região,250073
+25005,5ª Região,250390
+25005,5ª Região,250407
+25005,5ª Região,250470
+25005,5ª Região,250485
+25005,5ª Região,250650
+25005,5ª Região,250850
+25005,5ª Região,250970
+25005,5ª Região,251060
+25005,5ª Região,251065
+25005,5ª Região,251220
+25005,5ª Região,251400
+25005,5ª Região,251410
+25005,5ª Região,251480
+25005,5ª Região,251520
+25005,5ª Região,251550
+25005,5ª Região,251630
+25005,5ª Região,251740
+25006,6ª Região,250115
+25006,6ª Região,250340
+25006,6ª Região,250355
+25006,6ª Região,250420
+25006,6ª Região,250450
+25006,6ª Região,250540
+25006,6ª Região,250550
+25006,6ª Região,250590
+25006,6ª Região,250780
+25006,6ª Região,250870
+25006,6ª Região,250880
+25006,6ª Região,250939
+25006,6ª Região,251070
+25006,6ª Região,251080
+25006,6ª Região,251260
+25006,6ª Região,251300
+25006,6ª Região,251340
+25006,6ª Região,251380
+25006,6ª Região,251440
+25006,6ª Região,251460
+25006,6ª Região,251470
+25006,6ª Região,251490
+25006,6ª Região,251670
+25006,6ª Região,251710
+25007,7ª Região,250020
+25007,7ª Região,250210
+25007,7ª Região,250260
+25007,7ª Região,250440
+25007,7ª Região,250480
+25007,7ª Região,250530
+25007,7ª Região,250560
+25007,7ª Região,250660
+25007,7ª Região,250700
+25007,7ª Região,251020
+25007,7ª Região,251040
+25007,7ª Região,251100
+25007,7ª Região,251130
+25007,7ª Região,251335
+25007,7ª Região,251350
+25007,7ª Região,251360
+25007,7ª Região,251430
+25007,7ª Região,251570
+25008,8ª Região,250200
+25008,8ª Região,250230
+25008,8ª Região,250280
+25008,8ª Região,250290
+25008,8ª Região,250430
+25008,8ª Região,250740
+25008,8ª Região,250937
+25008,8ª Região,251280
+25008,8ª Região,251390
+25008,8ª Região,251465
+25009,9ª Região,250070
+25009,9ª Região,250205
+25009,9ª Região,250220
+25009,9ª Região,250240
+25009,9ª Região,250330
+25009,9ª Região,250370
+25009,9ª Região,250410
+25009,9ª Região,250960
+25009,9ª Região,251203
+25009,9ª Região,251207
+25009,9ª Região,251330
+25009,9ª Região,251365
+25009,9ª Região,251450
+25009,9ª Região,251680
+25009,9ª Região,251690
+25010,10ª Região,250077
+25010,10ª Região,250840
+25010,10ª Região,250915
+25010,10ª Região,251000
+25010,10ª Região,251320
+25010,10ª Região,251398
+25010,10ª Região,251420
+25010,10ª Região,251620
+25010,10ª Região,251720
+25011,11ª Região,250010
+25011,11ª Região,250670
+25011,11ª Região,250800
+25011,11ª Região,250900
+25011,11ª Região,251230
+25011,11ª Região,251455
+25011,11ª Região,251660
+25012,12ª Região,250380
+25012,12ª Região,250640
+25012,12ª Região,250680
+25012,12ª Região,250690
+25012,12ª Região,250720
+25012,12ª Região,250760
+25012,12ª Região,250790
+25012,12ª Região,250940
+25012,12ª Região,251120
+25012,12ª Região,251150
+25012,12ª Região,251275
+25012,12ª Região,251310
+25012,12ª Região,251445
+25012,12ª Região,251500
+25013,13ª Região,250375
+25013,13ª Região,250810
+25013,13ª Região,251090
+25013,13ª Região,251210
+25013,13ª Região,251392
+25013,13ª Região,251396
+25014,14ª Região,250140
+25014,14ª Região,250403
+25014,14ª Região,250523
+25014,14ª Região,250527
+25014,14ª Região,250710
+25014,14ª Região,250730
+25014,14ª Região,250890
+25014,14ª Região,250905
+25014,14ª Região,250930
+25014,14ª Região,251272
+25014,14ª Região,251290
+25015,15ª Região,250053
+25015,15ª Região,250130
+25015,15ª Região,250157
+25015,15ª Região,250170
+25015,15ª Região,250250
+25015,15ª Região,250310
+25015,15ª Região,250435
+25015,15ª Região,250625
+25015,15ª Região,250990
+25015,15ª Região,251250
+25015,15ª Região,251278
+25015,15ª Região,251315
+25015,15ª Região,251394
+25015,15ª Região,251700
+25016,16ª Região,250135
+25016,16ª Região,250215
+25016,16ª Região,250400
+25016,16ª Região,250610
+25016,16ª Região,250770
+25016,16ª Região,250920
+25016,16ª Região,251050
+25016,16ª Região,251200
+25016,16ª Região,251240
+25016,16ª Região,251385
+25016,16ª Região,251580
+25016,16ª Região,251610
+25016,16ª Região,251650
+25016,16ª Região,251675
+25000,Ignorado - PB,250000
+26001,Afogados da Ingazeira,260010
+26001,Afogados da Ingazeira,260250
+26001,Afogados da Ingazeira,260390
+26001,Afogados da Ingazeira,260690
+26001,Afogados da Ingazeira,260710
+26001,Afogados da Ingazeira,260770
+26001,Afogados da Ingazeira,261153
+26001,Afogados da Ingazeira,261280
+26001,Afogados da Ingazeira,261360
+26001,Afogados da Ingazeira,261440
+26001,Afogados da Ingazeira,261460
+26001,Afogados da Ingazeira,261590
+26002,Arcoverde,260120
+26002,Arcoverde,260280
+26002,Arcoverde,260510
+26002,Arcoverde,260660
+26002,Arcoverde,260700
+26002,Arcoverde,260805
+26002,Arcoverde,260915
+26002,Arcoverde,261080
+26002,Arcoverde,261100
+26002,Arcoverde,261410
+26002,Arcoverde,261480
+26002,Arcoverde,261580
+26002,Arcoverde,261600
+26003,Caruaru,260030
+26003,Caruaru,260060
+26003,Caruaru,260080
+26003,Caruaru,260130
+26003,Caruaru,260170
+26003,Caruaru,260190
+26003,Caruaru,260230
+26003,Caruaru,260260
+26003,Caruaru,260310
+26003,Caruaru,260350
+26003,Caruaru,260410
+26003,Caruaru,260500
+26003,Caruaru,260580
+26003,Caruaru,260640
+26003,Caruaru,260670
+26003,Caruaru,260800
+26003,Caruaru,260840
+26003,Caruaru,261020
+26003,Caruaru,261090
+26003,Caruaru,261120
+26003,Caruaru,261170
+26003,Caruaru,261200
+26003,Caruaru,261240
+26003,Caruaru,261250
+26003,Caruaru,261270
+26003,Caruaru,261300
+26003,Caruaru,261310
+26003,Caruaru,261330
+26003,Caruaru,261470
+26003,Caruaru,261500
+26003,Caruaru,261540
+26003,Caruaru,261620
+26004,Garanhuns,260050
+26004,Garanhuns,260100
+26004,Garanhuns,260210
+26004,Garanhuns,260240
+26004,Garanhuns,260320
+26004,Garanhuns,260330
+26004,Garanhuns,260370
+26004,Garanhuns,260380
+26004,Garanhuns,260470
+26004,Garanhuns,260600
+26004,Garanhuns,260650
+26004,Garanhuns,260750
+26004,Garanhuns,260825
+26004,Garanhuns,260830
+26004,Garanhuns,260860
+26004,Garanhuns,260880
+26004,Garanhuns,261010
+26004,Garanhuns,261030
+26004,Garanhuns,261230
+26004,Garanhuns,261320
+26004,Garanhuns,261510
+26005,Goiana,260070
+26005,Goiana,260360
+26005,Goiana,260460
+26005,Goiana,260550
+26005,Goiana,260620
+26005,Goiana,260765
+26005,Goiana,260780
+26005,Goiana,260900
+26005,Goiana,261380
+26005,Goiana,261530
+26006,Limoeiro,260220
+26006,Limoeiro,260270
+26006,Limoeiro,260400
+26006,Limoeiro,260415
+26006,Limoeiro,260490
+26006,Limoeiro,260540
+26006,Limoeiro,260810
+26006,Limoeiro,260845
+26006,Limoeiro,260850
+26006,Limoeiro,260890
+26006,Limoeiro,260910
+26006,Limoeiro,260950
+26006,Limoeiro,260970
+26006,Limoeiro,261050
+26006,Limoeiro,261060
+26006,Limoeiro,261210
+26006,Limoeiro,261450
+26006,Limoeiro,261550
+26006,Limoeiro,261618
+26006,Limoeiro,261630
+26007,Ouricuri,260110
+26007,Ouricuri,260200
+26007,Ouricuri,260530
+26007,Ouricuri,260630
+26007,Ouricuri,260730
+26007,Ouricuri,260990
+26007,Ouricuri,261040
+26007,Ouricuri,261245
+26007,Ouricuri,261255
+26007,Ouricuri,261430
+26007,Ouricuri,261560
+26008,Palmares,260040
+26008,Palmares,260090
+26008,Palmares,260140
+26008,Palmares,260150
+26008,Palmares,260420
+26008,Palmares,260480
+26008,Palmares,260520
+26008,Palmares,260590
+26008,Palmares,260795
+26008,Palmares,260820
+26008,Palmares,260870
+26008,Palmares,260920
+26008,Palmares,261000
+26008,Palmares,261140
+26008,Palmares,261150
+26008,Palmares,261180
+26008,Palmares,261190
+26008,Palmares,261290
+26008,Palmares,261340
+26008,Palmares,261420
+26008,Palmares,261485
+26008,Palmares,261650
+26009,Petrolina,260020
+26009,Petrolina,260300
+26009,Petrolina,260515
+26009,Petrolina,260875
+26009,Petrolina,260980
+26009,Petrolina,261110
+26009,Petrolina,261260
+26010,Recife,260005
+26010,Recife,260105
+26010,Recife,260290
+26010,Recife,260345
+26010,Recife,260440
+26010,Recife,260450
+26010,Recife,260545
+26010,Recife,260610
+26010,Recife,260680
+26010,Recife,260720
+26010,Recife,260760
+26010,Recife,260775
+26010,Recife,260790
+26010,Recife,260940
+26010,Recife,260960
+26010,Recife,261070
+26010,Recife,261130
+26010,Recife,261160
+26010,Recife,261370
+26010,Recife,261640
+26011,Salgueiro,260160
+26011,Salgueiro,260430
+26011,Salgueiro,260930
+26011,Salgueiro,261220
+26011,Salgueiro,261400
+26011,Salgueiro,261520
+26011,Salgueiro,261610
+26012,Serra Talhada,260180
+26012,Serra Talhada,260340
+26012,Serra Talhada,260392
+26012,Serra Talhada,260560
+26012,Serra Talhada,260570
+26012,Serra Talhada,260740
+26012,Serra Talhada,261247
+26012,Serra Talhada,261350
+26012,Serra Talhada,261390
+26012,Serra Talhada,261570
+26000,Município ignorado - PE,260000
+27001,1ª Região de Saúde,270050
+27001,1ª Região de Saúde,270060
+27001,1ª Região de Saúde,270220
+27001,1ª Região de Saúde,270280
+27001,1ª Região de Saúde,270430
+27001,1ª Região de Saúde,270470
+27001,1ª Região de Saúde,270520
+27001,1ª Região de Saúde,270644
+27001,1ª Região de Saúde,270690
+27001,1ª Região de Saúde,270770
+27001,1ª Região de Saúde,270790
+27001,1ª Região de Saúde,270890
+27002,2ª Região de Saúde,270350
+27002,2ª Região de Saúde,270360
+27002,2ª Região de Saúde,270450
+27002,2ª Região de Saúde,270510
+27002,2ª Região de Saúde,270650
+27002,2ª Região de Saúde,270730
+27002,2ª Região de Saúde,270740
+27002,2ª Região de Saúde,270850
+27002,2ª Região de Saúde,270870
+27003,3ª Região de Saúde,270110
+27003,3ª Região de Saúde,270135
+27003,3ª Região de Saúde,270210
+27003,3ª Região de Saúde,270300
+27003,3ª Região de Saúde,270380
+27003,3ª Região de Saúde,270390
+27003,3ª Região de Saúde,270550
+27003,3ª Região de Saúde,270560
+27003,3ª Região de Saúde,270810
+27003,3ª Região de Saúde,270830
+27003,3ª Região de Saúde,270930
+27004,4ª Região de Saúde,270040
+27004,4ª Região de Saúde,270130
+27004,4ª Região de Saúde,270170
+27004,4ª Região de Saúde,270190
+27004,4ª Região de Saúde,270490
+27004,4ª Região de Saúde,270660
+27004,4ª Região de Saúde,270700
+27004,4ª Região de Saúde,270760
+27004,4ª Região de Saúde,270940
+27005,5ª Região de Saúde,270020
+27005,5ª Região de Saúde,270100
+27005,5ª Região de Saúde,270140
+27005,5ª Região de Saúde,270400
+27005,5ª Região de Saúde,270780
+27005,5ª Região de Saúde,270860
+27005,5ª Região de Saúde,270915
+27006,6ª Região de Saúde,270230
+27006,6ª Região de Saúde,270270
+27006,6ª Região de Saúde,270320
+27006,6ª Região de Saúde,270375
+27006,6ª Região de Saúde,270670
+27006,6ª Região de Saúde,270680
+27006,6ª Região de Saúde,270750
+27006,6ª Região de Saúde,270820
+27007,7ª Região de Saúde,270030
+27007,7ª Região de Saúde,270070
+27007,7ª Região de Saúde,270090
+27007,7ª Região de Saúde,270150
+27007,7ª Região de Saúde,270200
+27007,7ª Região de Saúde,270235
+27007,7ª Região de Saúde,270260
+27007,7ª Região de Saúde,270290
+27007,7ª Região de Saúde,270340
+27007,7ª Região de Saúde,270370
+27007,7ª Região de Saúde,270410
+27007,7ª Região de Saúde,270420
+27007,7ª Região de Saúde,270440
+27007,7ª Região de Saúde,270590
+27007,7ª Região de Saúde,270880
+27007,7ª Região de Saúde,270910
+27007,7ª Região de Saúde,270920
+27008,8ª Região de Saúde,270080
+27008,8ª Região de Saúde,270120
+27008,8ª Região de Saúde,270255
+27008,8ª Região de Saúde,270310
+27008,8ª Região de Saúde,270480
+27008,8ª Região de Saúde,270530
+27008,8ª Região de Saúde,270630
+27008,8ª Região de Saúde,270900
+27009,9ª Região de Saúde,270160
+27009,9ª Região de Saúde,270180
+27009,9ª Região de Saúde,270250
+27009,9ª Região de Saúde,270460
+27009,9ª Região de Saúde,270540
+27009,9ª Região de Saúde,270570
+27009,9ª Região de Saúde,270600
+27009,9ª Região de Saúde,270610
+27009,9ª Região de Saúde,270620
+27009,9ª Região de Saúde,270640
+27009,9ª Região de Saúde,270720
+27009,9ª Região de Saúde,270800
+27009,9ª Região de Saúde,270840
+27009,9ª Região de Saúde,270895
+27010,10ª Região de Saúde,270010
+27010,10ª Região de Saúde,270240
+27010,10ª Região de Saúde,270330
+27010,10ª Região de Saúde,270500
+27010,10ª Região de Saúde,270580
+27010,10ª Região de Saúde,270642
+27010,10ª Região de Saúde,270710
+27000,Ignorado - AL,270000
+28001,Aracaju,280030
+28001,Aracaju,280060
+28001,Aracaju,280200
+28001,Aracaju,280320
+28001,Aracaju,280360
+28001,Aracaju,280590
+28001,Aracaju,280650
+28001,Aracaju,280670
+28002,Estância,280040
+28002,Estância,280067
+28002,Estância,280170
+28002,Estância,280210
+28002,Estância,280280
+28002,Estância,280300
+28002,Estância,280510
+28002,Estância,280630
+28002,Estância,280750
+28002,Estância,280760
+28003,Itabaiana,280050
+28003,Itabaiana,280100
+28003,Itabaiana,280140
+28003,Itabaiana,280230
+28003,Itabaiana,280290
+28003,Itabaiana,280370
+28003,Itabaiana,280390
+28003,Itabaiana,280410
+28003,Itabaiana,280445
+28003,Itabaiana,280500
+28003,Itabaiana,280520
+28003,Itabaiana,280600
+28003,Itabaiana,280680
+28003,Itabaiana,280700
+28004,Lagarto,280350
+28004,Lagarto,280550
+28004,Lagarto,280580
+28004,Lagarto,280620
+28004,Lagarto,280710
+28004,Lagarto,280740
+28005,Nossa Senhora da Glória,280120
+28005,Nossa Senhora da Glória,280220
+28005,Nossa Senhora da Glória,280240
+28005,Nossa Senhora da Glória,280260
+28005,Nossa Senhora da Glória,280310
+28005,Nossa Senhora da Glória,280420
+28005,Nossa Senhora da Glória,280450
+28005,Nossa Senhora da Glória,280540
+28005,Nossa Senhora da Glória,280560
+28006,Nossa Senhora do Socorro,280130
+28006,Nossa Senhora do Socorro,280150
+28006,Nossa Senhora do Socorro,280190
+28006,Nossa Senhora do Socorro,280250
+28006,Nossa Senhora do Socorro,280330
+28006,Nossa Senhora do Socorro,280400
+28006,Nossa Senhora do Socorro,280460
+28006,Nossa Senhora do Socorro,280480
+28006,Nossa Senhora do Socorro,280530
+28006,Nossa Senhora do Socorro,280610
+28006,Nossa Senhora do Socorro,280660
+28006,Nossa Senhora do Socorro,280720
+28007,Propriá,280010
+28007,Propriá,280020
+28007,Propriá,280070
+28007,Propriá,280110
+28007,Propriá,280160
+28007,Propriá,280270
+28007,Propriá,280340
+28007,Propriá,280380
+28007,Propriá,280430
+28007,Propriá,280440
+28007,Propriá,280470
+28007,Propriá,280490
+28007,Propriá,280570
+28007,Propriá,280640
+28007,Propriá,280690
+28007,Propriá,280730
+28000,Ignorado - SE,280000
+29001,Alagoinhas,290030
+29001,Alagoinhas,290070
+29001,Alagoinhas,290190
+29001,Alagoinhas,290205
+29001,Alagoinhas,290220
+29001,Alagoinhas,290700
+29001,Alagoinhas,290750
+29001,Alagoinhas,290960
+29001,Alagoinhas,291050
+29001,Alagoinhas,291060
+29001,Alagoinhas,291370
+29001,Alagoinhas,291590
+29001,Alagoinhas,291650
+29001,Alagoinhas,291790
+29001,Alagoinhas,292330
+29001,Alagoinhas,292410
+29001,Alagoinhas,292700
+29001,Alagoinhas,292970
+29002,Barreiras,290140
+29002,Barreiras,290250
+29002,Barreiras,290320
+29002,Barreiras,290440
+29002,Barreiras,290740
+29002,Barreiras,290940
+29002,Barreiras,290970
+29002,Barreiras,291110
+29002,Barreiras,291955
+29002,Barreiras,292045
+29002,Barreiras,292620
+29002,Barreiras,292840
+29002,Barreiras,292890
+29002,Barreiras,293090
+29002,Barreiras,293345
+29003,Brumado,290050
+29003,Brumado,290200
+29003,Brumado,290280
+29003,Brumado,290410
+29003,Brumado,290420
+29003,Brumado,290460
+29003,Brumado,290755
+29003,Brumado,290880
+29003,Brumado,291010
+29003,Brumado,291165
+29003,Brumado,291220
+29003,Brumado,291250
+29003,Brumado,291720
+29003,Brumado,291860
+29003,Brumado,291950
+29003,Brumado,291980
+29003,Brumado,292030
+29003,Brumado,292360
+29003,Brumado,292670
+29003,Brumado,292690
+29003,Brumado,293100
+29004,Camaçari,290570
+29004,Camaçari,290860
+29004,Camaçari,291005
+29004,Camaçari,292100
+29004,Camaçari,292520
+29004,Camaçari,293070
+29005,Cruz das Almas,290485
+29005,Cruz das Almas,290490
+29005,Cruz das Almas,290820
+29005,Cruz das Almas,290980
+29005,Cruz das Almas,291160
+29005,Cruz das Almas,292060
+29005,Cruz das Almas,292230
+29005,Cruz das Almas,292900
+29005,Cruz das Almas,292960
+29006,Feira de Santana,290110
+29006,Feira de Santana,290150
+29006,Feira de Santana,290170
+29006,Feira de Santana,290260
+29006,Feira de Santana,290640
+29006,Feira de Santana,290685
+29006,Feira de Santana,290850
+29006,Feira de Santana,290890
+29006,Feira de Santana,291080
+29006,Feira de Santana,291125
+29006,Feira de Santana,291330
+29006,Feira de Santana,291380
+29006,Feira de Santana,291400
+29006,Feira de Santana,291450
+29006,Feira de Santana,292210
+29006,Feira de Santana,292273
+29006,Feira de Santana,292405
+29006,Feira de Santana,292465
+29006,Feira de Santana,292595
+29006,Feira de Santana,292630
+29006,Feira de Santana,292750
+29006,Feira de Santana,292830
+29006,Feira de Santana,292880
+29006,Feira de Santana,292930
+29006,Feira de Santana,293040
+29006,Feira de Santana,293110
+29006,Feira de Santana,293140
+29006,Feira de Santana,293170
+29007,Guanambi,290500
+29007,Guanambi,290520
+29007,Guanambi,290660
+29007,Guanambi,290710
+29007,Guanambi,291170
+29007,Guanambi,291200
+29007,Guanambi,291340
+29007,Guanambi,291733
+29007,Guanambi,291740
+29007,Guanambi,291875
+29007,Guanambi,291940
+29007,Guanambi,292020
+29007,Guanambi,292105
+29007,Guanambi,292180
+29007,Guanambi,292340
+29007,Guanambi,292450
+29007,Guanambi,292640
+29007,Guanambi,292680
+29007,Guanambi,293000
+29007,Guanambi,293105
+29007,Guanambi,293260
+29008,Ibotirama,290270
+29008,Ibotirama,290450
+29008,Ibotirama,290475
+29008,Ibotirama,291320
+29008,Ibotirama,291410
+29008,Ibotirama,292160
+29008,Ibotirama,292225
+29008,Ibotirama,292320
+29008,Ibotirama,292370
+29009,Ilhéus,290225
+29009,Ilhéus,290630
+29009,Ilhéus,291360
+29009,Ilhéus,291490
+29009,Ilhéus,292090
+29009,Ilhéus,292805
+29009,Ilhéus,293250
+29009,Ilhéus,293270
+29010,Irecê,290115
+29010,Irecê,290300
+29010,Irecê,290323
+29010,Irecê,290530
+29010,Irecê,290620
+29010,Irecê,290760
+29010,Irecê,291130
+29010,Irecê,291240
+29010,Irecê,291310
+29010,Irecê,291460
+29010,Irecê,291535
+29010,Irecê,291835
+29010,Irecê,291850
+29010,Irecê,291915
+29010,Irecê,292205
+29010,Irecê,292560
+29010,Irecê,292925
+29010,Irecê,293240
+29010,Irecê,293360
+29011,Itaberaba,290130
+29011,Itaberaba,290380
+29011,Itaberaba,290405
+29011,Itaberaba,291190
+29011,Itaberaba,291260
+29011,Itaberaba,291470
+29011,Itaberaba,291500
+29011,Itaberaba,291900
+29011,Itaberaba,291960
+29011,Itaberaba,292080
+29011,Itaberaba,292285
+29011,Itaberaba,292720
+29011,Itaberaba,293280
+29011,Itaberaba,293340
+29012,Itabuna,290090
+29012,Itabuna,290240
+29012,Itabuna,290330
+29012,Itabuna,290470
+29012,Itabuna,290560
+29012,Itabuna,290800
+29012,Itabuna,291100
+29012,Itabuna,291150
+29012,Itabuna,291210
+29012,Itabuna,291270
+29012,Itabuna,291480
+29012,Itabuna,291540
+29012,Itabuna,291550
+29012,Itabuna,291620
+29012,Itabuna,291660
+29012,Itabuna,291855
+29012,Itabuna,292070
+29012,Itabuna,292390
+29012,Itabuna,292780
+29012,Itabuna,292935
+29012,Itabuna,293220
+29012,Itabuna,293230
+29013,Itapetinga,290480
+29013,Itapetinga,291090
+29013,Itapetinga,291230
+29013,Itapetinga,291350
+29013,Itapetinga,291580
+29013,Itapetinga,291640
+29013,Itapetinga,291680
+29013,Itapetinga,291710
+29013,Itapetinga,291970
+29013,Itapetinga,292000
+29013,Itapetinga,292270
+29013,Itapetinga,292540
+29014,Jacobina,290510
+29014,Jacobina,290550
+29014,Jacobina,290687
+29014,Jacobina,291750
+29014,Jacobina,292010
+29014,Jacobina,292120
+29014,Jacobina,292140
+29014,Jacobina,292170
+29014,Jacobina,292335
+29014,Jacobina,292480
+29014,Jacobina,292593
+29014,Jacobina,292937
+29014,Jacobina,292980
+29014,Jacobina,293060
+29014,Jacobina,293130
+29014,Jacobina,293245
+29014,Jacobina,293305
+29014,Jacobina,293310
+29014,Jacobina,293315
+29015,Jequié,290060
+29015,Jequié,290195
+29015,Jequié,290310
+29015,Jequié,290370
+29015,Jequié,290430
+29015,Jequié,290950
+29015,Jequié,291000
+29015,Jequié,291290
+29015,Jequié,291390
+29015,Jequié,291420
+29015,Jequié,291430
+29015,Jequié,291510
+29015,Jequié,291520
+29015,Jequié,291570
+29015,Jequié,291670
+29015,Jequié,291690
+29015,Jequié,291760
+29015,Jequié,291800
+29015,Jequié,291830
+29015,Jequié,291870
+29015,Jequié,291905
+29015,Jequié,292040
+29015,Jequié,292050
+29015,Jequié,292490
+29015,Jequié,292790
+29016,Juazeiro,290590
+29016,Juazeiro,290682
+29016,Juazeiro,290720
+29016,Juazeiro,290990
+29016,Juazeiro,291840
+29016,Juazeiro,292440
+29016,Juazeiro,292600
+29016,Juazeiro,293020
+29016,Juazeiro,293077
+29016,Juazeiro,293200
+29017,Paulo Afonso,290020
+29017,Paulo Afonso,290770
+29017,Paulo Afonso,291140
+29017,Paulo Afonso,291810
+29017,Paulo Afonso,291990
+29017,Paulo Afonso,292400
+29017,Paulo Afonso,292420
+29017,Paulo Afonso,292710
+29017,Paulo Afonso,292760
+29018,Porto Seguro,290340
+29018,Porto Seguro,291072
+29018,Porto Seguro,291180
+29018,Porto Seguro,291465
+29018,Porto Seguro,291530
+29018,Porto Seguro,291630
+29018,Porto Seguro,292530
+29018,Porto Seguro,292770
+29019,Ribeira do Pombal,290035
+29019,Ribeira do Pombal,290160
+29019,Ribeira do Pombal,290265
+29019,Ribeira do Pombal,290780
+29019,Ribeira do Pombal,290790
+29019,Ribeira do Pombal,290920
+29019,Ribeira do Pombal,291075
+29019,Ribeira do Pombal,291185
+29019,Ribeira do Pombal,292290
+29019,Ribeira do Pombal,292305
+29019,Ribeira do Pombal,292310
+29019,Ribeira do Pombal,292380
+29019,Ribeira do Pombal,292650
+29019,Ribeira do Pombal,292660
+29019,Ribeira do Pombal,293076
+29020,Salvador,290650
+29020,Salvador,291610
+29020,Salvador,291920
+29020,Salvador,291992
+29020,Salvador,292740
+29020,Salvador,292860
+29020,Salvador,292920
+29020,Salvador,292950
+29020,Salvador,292975
+29020,Salvador,293320
+29021,Santa Maria da Vitória,290390
+29021,Santa Maria da Vitória,290610
+29021,Santa Maria da Vitória,290810
+29021,Santa Maria da Vitória,290910
+29021,Santa Maria da Vitória,290930
+29021,Santa Maria da Vitória,291077
+29021,Santa Maria da Vitória,291735
+29021,Santa Maria da Vitória,292810
+29021,Santa Maria da Vitória,292820
+29021,Santa Maria da Vitória,292905
+29021,Santa Maria da Vitória,293015
+29021,Santa Maria da Vitória,293030
+29021,Santa Maria da Vitória,293075
+29022,Santo Antônio de Jesus,290100
+29022,Santo Antônio de Jesus,290230
+29022,Santo Antônio de Jesus,290730
+29022,Santo Antônio de Jesus,290830
+29022,Santo Antônio de Jesus,291020
+29022,Santo Antônio de Jesus,291030
+29022,Santo Antônio de Jesus,291685
+29022,Santo Antônio de Jesus,291780
+29022,Santo Antônio de Jesus,291820
+29022,Santo Antônio de Jesus,291880
+29022,Santo Antônio de Jesus,292130
+29022,Santo Antônio de Jesus,292220
+29022,Santo Antônio de Jesus,292240
+29022,Santo Antônio de Jesus,292250
+29022,Santo Antônio de Jesus,292280
+29022,Santo Antônio de Jesus,292575
+29022,Santo Antônio de Jesus,292730
+29022,Santo Antônio de Jesus,292850
+29022,Santo Antônio de Jesus,292870
+29022,Santo Antônio de Jesus,292910
+29022,Santo Antônio de Jesus,292940
+29022,Santo Antônio de Jesus,293210
+29022,Santo Antônio de Jesus,293317
+29023,Seabra,290010
+29023,Seabra,290400
+29023,Seabra,291300
+29023,Seabra,291440
+29023,Seabra,291930
+29023,Seabra,292190
+29023,Seabra,292303
+29023,Seabra,292350
+29023,Seabra,292430
+29023,Seabra,292990
+29023,Seabra,293080
+29024,Senhor do Bonfim,290135
+29024,Senhor do Bonfim,290180
+29024,Senhor do Bonfim,290600
+29024,Senhor do Bonfim,291085
+29024,Senhor do Bonfim,291700
+29024,Senhor do Bonfim,291770
+29024,Senhor do Bonfim,292460
+29024,Senhor do Bonfim,292525
+29024,Senhor do Bonfim,293010
+29025,Serrinha,290040
+29025,Serrinha,290210
+29025,Serrinha,290327
+29025,Serrinha,290360
+29025,Serrinha,290680
+29025,Serrinha,290840
+29025,Serrinha,291070
+29025,Serrinha,291910
+29025,Serrinha,292150
+29025,Serrinha,292265
+29025,Serrinha,292580
+29025,Serrinha,292590
+29025,Serrinha,292610
+29025,Serrinha,292800
+29025,Serrinha,292895
+29025,Serrinha,293050
+29025,Serrinha,293150
+29025,Serrinha,293190
+29025,Serrinha,293300
+29026,Teixeira de Freitas,290080
+29026,Teixeira de Freitas,290690
+29026,Teixeira de Freitas,291280
+29026,Teixeira de Freitas,291560
+29026,Teixeira de Freitas,291600
+29026,Teixeira de Freitas,291845
+29026,Teixeira de Freitas,291890
+29026,Teixeira de Freitas,292110
+29026,Teixeira de Freitas,292200
+29026,Teixeira de Freitas,292300
+29026,Teixeira de Freitas,292550
+29026,Teixeira de Freitas,293135
+29026,Teixeira de Freitas,293325
+29027,Valença,290540
+29027,Valença,290580
+29027,Valença,291120
+29027,Valença,291345
+29027,Valença,291730
+29027,Valença,292260
+29027,Valença,292275
+29027,Valença,292467
+29027,Valença,293120
+29027,Valença,293160
+29027,Valença,293290
+29027,Valença,293350
+29028,Vitória da Conquista,290120
+29028,Vitória da Conquista,290290
+29028,Vitória da Conquista,290350
+29028,Vitória da Conquista,290395
+29028,Vitória da Conquista,290515
+29028,Vitória da Conquista,290670
+29028,Vitória da Conquista,290689
+29028,Vitória da Conquista,290870
+29028,Vitória da Conquista,290900
+29028,Vitória da Conquista,291040
+29028,Vitória da Conquista,291995
+29028,Vitória da Conquista,292145
+29028,Vitória da Conquista,292470
+29028,Vitória da Conquista,292500
+29028,Vitória da Conquista,292510
+29028,Vitória da Conquista,292570
+29028,Vitória da Conquista,292665
+29028,Vitória da Conquista,293180
+29028,Vitória da Conquista,293330
+29000,Ignorado - BA,290000
+31001,Águas Formosas,310090
+31001,Águas Formosas,310660
+31001,Águas Formosas,312015
+31001,Águas Formosas,312705
+31001,Águas Formosas,313890
+31001,Águas Formosas,314535
+31001,Águas Formosas,314850
+31001,Águas Formosas,315765
+31001,Águas Formosas,317030
+31002,Além Paraíba,310150
+31002,Além Paraíba,312460
+31002,Além Paraíba,315110
+31002,Além Paraíba,316000
+31002,Além Paraíba,317210
+31003,Alfenas Machado,310160
+31003,Alfenas Machado,310200
+31003,Alfenas Machado,310430
+31003,Alfenas Machado,310530
+31003,Alfenas Machado,310840
+31003,Alfenas Machado,311100
+31003,Alfenas Machado,311130
+31003,Alfenas Machado,311160
+31003,Alfenas Machado,311440
+31003,Alfenas Machado,311470
+31003,Alfenas Machado,311710
+31003,Alfenas Machado,312240
+31003,Alfenas Machado,312520
+31003,Alfenas Machado,313900
+31003,Alfenas Machado,314720
+31003,Alfenas Machado,315170
+31003,Alfenas Machado,316690
+31004,Almenara,310170
+31004,Almenara,310520
+31004,Almenara,312245
+31004,Almenara,312560
+31004,Almenara,313470
+31004,Almenara,313580
+31004,Almenara,313600
+31004,Almenara,313650
+31004,Almenara,314055
+31004,Almenara,314315
+31004,Almenara,314675
+31004,Almenara,315510
+31004,Almenara,315660
+31004,Almenara,315710
+31004,Almenara,315810
+31004,Almenara,316030
+31005,Araçuaí,310340
+31005,Araçuaí,310650
+31005,Araçuaí,311950
+31005,Araçuaí,312650
+31005,Araçuaí,313545
+31005,Araçuaí,317160
+31006,Araxá,310400
+31006,Araxá,311150
+31006,Araxá,312950
+31006,Araxá,314920
+31006,Araxá,314980
+31006,Araxá,315300
+31006,Araxá,315770
+31006,Araxá,316810
+31007,Barbacena,310163
+31007,Barbacena,310210
+31007,Barbacena,310290
+31007,Barbacena,310560
+31007,Barbacena,311220
+31007,Barbacena,311320
+31007,Barbacena,311630
+31007,Barbacena,312150
+31007,Barbacena,312940
+31007,Barbacena,314660
+31007,Barbacena,315440
+31007,Barbacena,315730
+31007,Barbacena,315870
+31007,Barbacena,315940
+31007,Barbacena,316620
+31008,B.Horizonte/N.Lima/Caeté,310620
+31008,B.Horizonte/N.Lima/Caeté,310640
+31008,B.Horizonte/N.Lima/Caeté,311000
+31008,B.Horizonte/N.Lima/Caeté,313460
+31008,B.Horizonte/N.Lima/Caeté,313660
+31008,B.Horizonte/N.Lima/Caeté,314230
+31008,B.Horizonte/N.Lima/Caeté,314480
+31008,B.Horizonte/N.Lima/Caeté,315390
+31008,B.Horizonte/N.Lima/Caeté,315460
+31008,B.Horizonte/N.Lima/Caeté,315480
+31008,B.Horizonte/N.Lima/Caeté,315670
+31008,B.Horizonte/N.Lima/Caeté,315780
+31008,B.Horizonte/N.Lima/Caeté,316830
+31009,Betim,310670
+31009,Betim,310810
+31009,Betim,310900
+31009,Betim,312060
+31009,Betim,312410
+31009,Betim,312600
+31009,Betim,313010
+31009,Betim,313665
+31009,Betim,314015
+31009,Betim,314070
+31009,Betim,315040
+31009,Betim,315530
+31009,Betim,316292
+31010,Bom Despacho,310740
+31010,Bom Despacho,312320
+31010,Bom Despacho,312470
+31010,Bom Despacho,313880
+31010,Bom Despacho,314050
+31010,Bom Despacho,314240
+31010,Bom Despacho,316660
+31011,Brasília MG/S.Francisco,310860
+31011,Brasília MG/S.Francisco,311115
+31011,Brasília MG/S.Francisco,312965
+31011,Brasília MG/S.Francisco,313005
+31011,Brasília MG/S.Francisco,313535
+31011,Brasília MG/S.Francisco,313865
+31011,Brasília MG/S.Francisco,313868
+31011,Brasília MG/S.Francisco,314200
+31011,Brasília MG/S.Francisco,314795
+31011,Brasília MG/S.Francisco,315057
+31011,Brasília MG/S.Francisco,316110
+31011,Brasília MG/S.Francisco,316240
+31011,Brasília MG/S.Francisco,316420
+31011,Brasília MG/S.Francisco,317000
+31011,Brasília MG/S.Francisco,317052
+31011,Brasília MG/S.Francisco,317090
+31012,Carangola,311010
+31012,Carangola,311210
+31012,Carangola,311330
+31012,Carangola,312200
+31012,Carangola,312420
+31012,Carangola,312530
+31012,Carangola,312595
+31012,Carangola,314587
+31012,Carangola,314875
+31012,Carangola,314900
+31012,Carangola,316920
+31013,Caratinga,310780
+31013,Caratinga,311340
+31013,Caratinga,312385
+31013,Caratinga,313055
+31013,Caratinga,313090
+31013,Caratinga,315015
+31013,Caratinga,315725
+31013,Caratinga,315935
+31013,Caratinga,316095
+31013,Caratinga,316447
+31013,Caratinga,317005
+31013,Caratinga,317057
+31013,Caratinga,317115
+31014,Cons.Lafaiete/Congonhas,311310
+31014,Cons.Lafaiete/Congonhas,311490
+31014,Cons.Lafaiete/Congonhas,311540
+31014,Cons.Lafaiete/Congonhas,311800
+31014,Cons.Lafaiete/Congonhas,311830
+31014,Cons.Lafaiete/Congonhas,312040
+31014,Cons.Lafaiete/Congonhas,312140
+31014,Cons.Lafaiete/Congonhas,312390
+31014,Cons.Lafaiete/Congonhas,313390
+31014,Cons.Lafaiete/Congonhas,313540
+31014,Cons.Lafaiete/Congonhas,313790
+31014,Cons.Lafaiete/Congonhas,314590
+31014,Cons.Lafaiete/Congonhas,315080
+31014,Cons.Lafaiete/Congonhas,315380
+31014,Cons.Lafaiete/Congonhas,315520
+31014,Cons.Lafaiete/Congonhas,315910
+31014,Cons.Lafaiete/Congonhas,316090
+31014,Cons.Lafaiete/Congonhas,316600
+31015,Contagem,311860
+31015,Contagem,312980
+31015,Contagem,316553
+31016,Coração de Jesus,311880
+31016,Coração de Jesus,313560
+31016,Coração de Jesus,313730
+31016,Coração de Jesus,316225
+31016,Coração de Jesus,316265
+31017,Cel.Fabriciano/Timóteo,310300
+31017,Cel.Fabriciano/Timóteo,311940
+31017,Cel.Fabriciano/Timóteo,312000
+31017,Cel.Fabriciano/Timóteo,312180
+31017,Cel.Fabriciano/Timóteo,313500
+31017,Cel.Fabriciano/Timóteo,314030
+31017,Cel.Fabriciano/Timóteo,315053
+31017,Cel.Fabriciano/Timóteo,316870
+31018,Curvelo,310480
+31018,Curvelo,310920
+31018,Curvelo,311910
+31018,Curvelo,312090
+31018,Curvelo,312570
+31018,Curvelo,313110
+31018,Curvelo,314250
+31018,Curvelo,314360
+31018,Curvelo,315320
+31018,Curvelo,316060
+31018,Curvelo,316935
+31019,Diamantina,310240
+31019,Diamantina,311350
+31019,Diamantina,311680
+31019,Diamantina,311810
+31019,Diamantina,312010
+31019,Diamantina,312100
+31019,Diamantina,312160
+31019,Diamantina,312540
+31019,Diamantina,312550
+31019,Diamantina,312760
+31019,Diamantina,313250
+31019,Diamantina,315330
+31019,Diamantina,316020
+31019,Diamantina,316590
+31019,Diamantina,316710
+31020,Divinópolis/S.Antº.Monte,310390
+31020,Divinópolis/S.Antº.Monte,310420
+31020,Divinópolis/S.Antº.Monte,311420
+31020,Divinópolis/S.Antº.Monte,311660
+31020,Divinópolis/S.Antº.Monte,312230
+31020,Divinópolis/S.Antº.Monte,313350
+31020,Divinópolis/S.Antº.Monte,313530
+31020,Divinópolis/S.Antº.Monte,313720
+31020,Divinópolis/S.Antº.Monte,314890
+31020,Divinópolis/S.Antº.Monte,314970
+31020,Divinópolis/S.Antº.Monte,316040
+31020,Divinópolis/S.Antº.Monte,316180
+31020,Divinópolis/S.Antº.Monte,316460
+31021,Formiga,310510
+31021,Formiga,311980
+31021,Formiga,311995
+31021,Formiga,312610
+31021,Formiga,313030
+31021,Formiga,314130
+31021,Formiga,314650
+31021,Formiga,315050
+31021,Formiga,316820
+31022,Francisco Sá,310850
+31022,Francisco Sá,311270
+31022,Francisco Sá,312030
+31022,Francisco Sá,312670
+31022,Francisco Sá,312780
+31022,Francisco Sá,313657
+31023,Frutal Iturama,311455
+31023,Frutal Iturama,311690
+31023,Frutal Iturama,312700
+31023,Frutal Iturama,312710
+31023,Frutal Iturama,313340
+31023,Frutal Iturama,313440
+31023,Frutal Iturama,313862
+31023,Frutal Iturama,315070
+31023,Frutal Iturama,315160
+31023,Frutal Iturama,316130
+31023,Frutal Iturama,317043
+31024,Governador Valadares,310180
+31024,Governador Valadares,311265
+31024,Governador Valadares,311920
+31024,Governador Valadares,312220
+31024,Governador Valadares,312370
+31024,Governador Valadares,312580
+31024,Governador Valadares,312690
+31024,Governador Valadares,312730
+31024,Governador Valadares,312750
+31024,Governador Valadares,312770
+31024,Governador Valadares,313320
+31024,Governador Valadares,313507
+31024,Governador Valadares,314010
+31024,Governador Valadares,314420
+31024,Governador Valadares,315750
+31024,Governador Valadares,316160
+31024,Governador Valadares,316165
+31024,Governador Valadares,316300
+31024,Governador Valadares,316550
+31024,Governador Valadares,316770
+31024,Governador Valadares,316840
+31024,Governador Valadares,316950
+31024,Governador Valadares,317150
+31024,Governador Valadares,317190
+31025,Guanhães,311380
+31025,Guanhães,312260
+31025,Guanhães,312310
+31025,Guanhães,312800
+31025,Guanhães,314060
+31025,Guanhães,315600
+31025,Guanhães,315680
+31025,Guanhães,316610
+31025,Guanhães,316650
+31025,Guanhães,317180
+31026,Guaxupé,310410
+31026,Guaxupé,310950
+31026,Guaxupé,312830
+31026,Guaxupé,312870
+31026,Guaxupé,313690
+31026,Guaxupé,314300
+31026,Guaxupé,314410
+31026,Guaxupé,314510
+31026,Guaxupé,316390
+31027,Ipatinga,310050
+31027,Ipatinga,310630
+31027,Ipatinga,310880
+31027,Ipatinga,310925
+31027,Ipatinga,312250
+31027,Ipatinga,312930
+31027,Ipatinga,313115
+31027,Ipatinga,313130
+31027,Ipatinga,313610
+31027,Ipatinga,314170
+31027,Ipatinga,314435
+31027,Ipatinga,314995
+31027,Ipatinga,315895
+31027,Ipatinga,316260
+31028,Itabira,310540
+31028,Itabira,310770
+31028,Itabira,311535
+31028,Itabira,312590
+31028,Itabira,313170
+31028,Itabira,313280
+31028,Itabira,314370
+31028,Itabira,314750
+31028,Itabira,315720
+31028,Itabira,315800
+31028,Itabira,316050
+31028,Itabira,316190
+31028,Itabira,316480
+31029,Itajubá,310890
+31029,Itajubá,311720
+31029,Itajubá,311850
+31029,Itajubá,312110
+31029,Itajubá,312740
+31029,Itajubá,313240
+31029,Itajubá,313990
+31029,Itajubá,314040
+31029,Itajubá,314730
+31029,Itajubá,314910
+31029,Itajubá,315090
+31029,Itajubá,315100
+31029,Itajubá,316320
+31029,Itajubá,316540
+31029,Itajubá,317220
+31030,Itaobim,311700
+31030,Itaobim,313330
+31030,Itaobim,313400
+31030,Itaobim,314140
+31030,Itaobim,315217
+31031,Itaúna,313220
+31031,Itaúna,313370
+31031,Itaúna,313380
+31031,Itaúna,315060
+31032,Ituiutaba,310980
+31032,Ituiutaba,311110
+31032,Ituiutaba,311180
+31032,Ituiutaba,311260
+31032,Ituiutaba,311580
+31032,Ituiutaba,312910
+31032,Ituiutaba,313140
+31032,Ituiutaba,313420
+31032,Ituiutaba,315980
+31033,Janaúba Monte Azul,311547
+31033,Janaúba Monte Azul,312430
+31033,Janaúba Monte Azul,312733
+31033,Janaúba Monte Azul,313505
+31033,Janaúba Monte Azul,313510
+31033,Janaúba Monte Azul,313925
+31033,Janaúba Monte Azul,314085
+31033,Janaúba Monte Azul,314100
+31033,Janaúba Monte Azul,314290
+31033,Janaúba Monte Azul,314505
+31033,Janaúba Monte Azul,314655
+31033,Janaúba Monte Azul,315220
+31033,Janaúba Monte Azul,315450
+31033,Janaúba Monte Azul,316695
+31033,Janaúba Monte Azul,317103
+31034,Januária,310825
+31034,Januária,311783
+31034,Januária,313210
+31034,Januária,313520
+31034,Januária,314915
+31035,João Monlevade,310600
+31035,João Monlevade,313620
+31035,João Monlevade,314470
+31035,João Monlevade,315570
+31035,João Monlevade,316100
+31036,João Pinheiro,310855
+31036,João Pinheiro,313630
+31036,João Pinheiro,313753
+31037,J.Fora/L.Duarte/B.Jardim,310280
+31037,J.Fora/L.Duarte/B.Jardim,310360
+31037,J.Fora/L.Duarte/B.Jardim,310610
+31037,J.Fora/L.Duarte/B.Jardim,310680
+31037,J.Fora/L.Duarte/B.Jardim,310720
+31037,J.Fora/L.Duarte/B.Jardim,310750
+31037,J.Fora/L.Duarte/B.Jardim,311590
+31037,J.Fora/L.Duarte/B.Jardim,311620
+31037,J.Fora/L.Duarte/B.Jardim,311960
+31037,J.Fora/L.Duarte/B.Jardim,312500
+31037,J.Fora/L.Duarte/B.Jardim,312738
+31037,J.Fora/L.Duarte/B.Jardim,313670
+31037,J.Fora/L.Duarte/B.Jardim,313850
+31037,J.Fora/L.Duarte/B.Jardim,313860
+31037,J.Fora/L.Duarte/B.Jardim,314080
+31037,J.Fora/L.Duarte/B.Jardim,314540
+31037,J.Fora/L.Duarte/B.Jardim,314780
+31037,J.Fora/L.Duarte/B.Jardim,314940
+31037,J.Fora/L.Duarte/B.Jardim,315010
+31037,J.Fora/L.Duarte/B.Jardim,315540
+31037,J.Fora/L.Duarte/B.Jardim,315590
+31037,J.Fora/L.Duarte/B.Jardim,315727
+31037,J.Fora/L.Duarte/B.Jardim,315860
+31037,J.Fora/L.Duarte/B.Jardim,315930
+31037,J.Fora/L.Duarte/B.Jardim,316750
+31038,Lavras,311460
+31038,Lavras,313040
+31038,Lavras,313080
+31038,Lavras,313430
+31038,Lavras,313450
+31038,Lavras,313820
+31038,Lavras,313870
+31038,Lavras,314460
+31038,Lavras,314990
+31038,Lavras,315470
+31039,Leopoldina Cataguases,310440
+31039,Leopoldina Cataguases,310460
+31039,Leopoldina Cataguases,311530
+31039,Leopoldina Cataguases,312290
+31039,Leopoldina Cataguases,313260
+31039,Leopoldina Cataguases,313800
+31039,Leopoldina Cataguases,313840
+31039,Leopoldina Cataguases,314670
+31039,Leopoldina Cataguases,315410
+31039,Leopoldina Cataguases,315840
+31040,Manga,313695
+31040,Manga,313930
+31040,Manga,314225
+31040,Manga,314270
+31040,Manga,316245
+31041,Manhuaçu,310030
+31041,Manhuaçu,310205
+31041,Manhuaçu,311290
+31041,Manhuaçu,311600
+31041,Manhuaçu,311740
+31041,Manhuaçu,312352
+31041,Manhuaçu,313120
+31041,Manhuaçu,313770
+31041,Manhuaçu,313867
+31041,Manhuaçu,313940
+31041,Manhuaçu,313950
+31041,Manhuaçu,314053
+31041,Manhuaçu,314090
+31041,Manhuaçu,314400
+31041,Manhuaçu,315190
+31041,Manhuaçu,315350
+31041,Manhuaçu,315415
+31041,Manhuaçu,315790
+31041,Manhuaçu,315890
+31041,Manhuaçu,316255
+31041,Manhuaçu,316360
+31041,Manhuaçu,316760
+31041,Manhuaçu,316805
+31042,Mantena,311570
+31042,Mantena,312083
+31042,Mantena,312210
+31042,Mantena,313180
+31042,Mantena,313960
+31042,Mantena,314150
+31042,Mantena,314467
+31042,Mantena,316105
+31042,Mantena,316257
+31043,M.Novas/Turmalin/Capelin,310445
+31043,M.Novas/Turmalin/Capelin,311230
+31043,M.Novas/Turmalin/Capelin,311610
+31043,M.Novas/Turmalin/Capelin,313652
+31043,M.Novas/Turmalin/Capelin,313835
+31043,M.Novas/Turmalin/Capelin,314180
+31043,M.Novas/Turmalin/Capelin,316970
+31043,M.Novas/Turmalin/Capelin,317107
+31044,Montes Claros Bocaiúva,310730
+31044,Montes Claros Bocaiúva,311650
+31044,Montes Claros Bocaiúva,312380
+31044,Montes Claros Bocaiúva,312660
+31044,Montes Claros Bocaiúva,312735
+31044,Montes Claros Bocaiúva,312825
+31044,Montes Claros Bocaiúva,313200
+31044,Montes Claros Bocaiúva,313640
+31044,Montes Claros Bocaiúva,313680
+31044,Montes Claros Bocaiúva,314330
+31044,Montes Claros Bocaiúva,314545
+31045,Muriaé,310310
+31045,Muriaé,310550
+31045,Muriaé,312490
+31045,Muriaé,314210
+31045,Muriaé,314220
+31045,Muriaé,314390
+31045,Muriaé,314820
+31045,Muriaé,315645
+31045,Muriaé,316140
+31045,Muriaé,316443
+31045,Muriaé,317140
+31046,Nanuque,311370
+31046,Nanuque,314430
+31046,Nanuque,316670
+31047,Ouro Preto,313190
+31047,Ouro Preto,314000
+31047,Ouro Preto,314610
+31048,Padre Paraíso,311300
+31048,Padre Paraíso,311545
+31048,Padre Paraíso,313230
+31048,Padre Paraíso,314630
+31049,Pará de Minas,311760
+31049,Pará de Minas,313020
+31049,Pará de Minas,313830
+31049,Pará de Minas,314520
+31049,Pará de Minas,314580
+31049,Pará de Minas,314710
+31049,Pará de Minas,315140
+31049,Pará de Minas,316310
+31050,Passos Piumhi,310190
+31050,Passos Piumhi,310760
+31050,Passos Piumhi,311240
+31050,Passos Piumhi,311280
+31050,Passos Piumhi,311510
+31050,Passos Piumhi,311640
+31050,Passos Piumhi,312120
+31050,Passos Piumhi,312340
+31050,Passos Piumhi,312630
+31050,Passos Piumhi,312810
+31050,Passos Piumhi,312970
+31050,Passos Piumhi,313375
+31050,Passos Piumhi,314790
+31050,Passos Piumhi,315150
+31050,Passos Piumhi,316220
+31050,Passos Piumhi,316294
+31050,Passos Piumhi,316430
+31050,Passos Piumhi,317060
+31051,Patos de Minas,310380
+31051,Patos de Minas,311430
+31051,Patos de Minas,312070
+31051,Patos de Minas,312860
+31051,Patos de Minas,312890
+31051,Patos de Minas,313710
+31051,Patos de Minas,313750
+31051,Patos de Minas,314120
+31051,Patos de Minas,314800
+31051,Patos de Minas,315340
+31051,Patos de Minas,315550
+31051,Patos de Minas,315970
+31051,Patos de Minas,316170
+31051,Patos de Minas,316210
+31051,Patos de Minas,316680
+31051,Patos de Minas,316890
+31051,Patos de Minas,317075
+31051,Patos de Minas,317100
+31052,Patrocínio Monte Carmelo,310010
+31052,Patrocínio Monte Carmelo,311930
+31052,Patrocínio Monte Carmelo,312350
+31052,Patrocínio Monte Carmelo,312480
+31052,Patrocínio Monte Carmelo,312790
+31052,Patrocínio Monte Carmelo,313160
+31052,Patrocínio Monte Carmelo,314310
+31052,Patrocínio Monte Carmelo,314810
+31052,Patrocínio Monte Carmelo,315640
+31053,Pedra Azul,310100
+31053,Pedra Azul,310270
+31053,Pedra Azul,312235
+31053,Pedra Azul,314870
+31054,Pirapora,310940
+31054,Pirapora,312960
+31054,Pirapora,313810
+31054,Pirapora,315120
+31054,Pirapora,315213
+31054,Pirapora,315760
+31054,Pirapora,317080
+31055,Poços de Caldas,310260
+31055,Poços de Caldas,311030
+31055,Poços de Caldas,312990
+31055,Poços de Caldas,315180
+31055,Poços de Caldas,315920
+31056,Ponte Nova,310040
+31056,Ponte Nova,310230
+31056,Ponte Nova,310250
+31056,Ponte Nova,310570
+31056,Ponte Nova,312170
+31056,Ponte Nova,312270
+31056,Ponte Nova,312820
+31056,Ponte Nova,313550
+31056,Ponte Nova,314585
+31056,Ponte Nova,315020
+31056,Ponte Nova,315210
+31056,Ponte Nova,315400
+31056,Ponte Nova,315490
+31056,Ponte Nova,315500
+31056,Ponte Nova,315740
+31056,Ponte Nova,316010
+31056,Ponte Nova,316340
+31056,Ponte Nova,316400
+31056,Ponte Nova,316556
+31056,Ponte Nova,316630
+31056,Ponte Nova,317050
+31057,Pouso Alegre,310140
+31057,Pouso Alegre,310790
+31057,Pouso Alegre,310830
+31057,Pouso Alegre,310910
+31057,Pouso Alegre,310970
+31057,Pouso Alegre,311050
+31057,Pouso Alegre,311060
+31057,Pouso Alegre,311360
+31057,Pouso Alegre,311780
+31057,Pouso Alegre,311790
+31057,Pouso Alegre,311990
+31057,Pouso Alegre,312440
+31057,Pouso Alegre,312450
+31057,Pouso Alegre,312510
+31057,Pouso Alegre,312920
+31057,Pouso Alegre,313060
+31057,Pouso Alegre,313150
+31057,Pouso Alegre,313360
+31057,Pouso Alegre,313490
+31057,Pouso Alegre,314340
+31057,Pouso Alegre,314380
+31057,Pouso Alegre,314440
+31057,Pouso Alegre,314600
+31057,Pouso Alegre,315250
+31057,Pouso Alegre,315960
+31057,Pouso Alegre,316230
+31057,Pouso Alegre,316440
+31057,Pouso Alegre,316557
+31057,Pouso Alegre,316580
+31057,Pouso Alegre,316740
+31057,Pouso Alegre,316905
+31057,Pouso Alegre,316910
+31057,Pouso Alegre,316980
+31058,Resplendor,310110
+31058,Resplendor,310220
+31058,Resplendor,311840
+31058,Resplendor,312737
+31058,Resplendor,313410
+31058,Resplendor,315430
+31058,Resplendor,315950
+31059,Salinas Taiobeiras,310665
+31059,Salinas Taiobeiras,312087
+31059,Salinas Taiobeiras,312707
+31059,Salinas Taiobeiras,313065
+31059,Salinas Taiobeiras,314345
+31059,Salinas Taiobeiras,314465
+31059,Salinas Taiobeiras,314537
+31059,Salinas Taiobeiras,314625
+31059,Salinas Taiobeiras,315560
+31059,Salinas Taiobeiras,315650
+31059,Salinas Taiobeiras,315700
+31059,Salinas Taiobeiras,315737
+31059,Salinas Taiobeiras,316045
+31059,Salinas Taiobeiras,316270
+31059,Salinas Taiobeiras,316800
+31059,Salinas Taiobeiras,317065
+31060,S.Maria Suaçuí/S.João Ev,310060
+31060,S.Maria Suaçuí/S.João Ev,311205
+31060,S.Maria Suaçuí/S.João Ev,312695
+31060,S.Maria Suaçuí/S.João Ev,313655
+31060,S.Maria Suaçuí/S.João Ev,314840
+31060,S.Maria Suaçuí/S.João Ev,314860
+31060,S.Maria Suaçuí/S.João Ev,315820
+31060,S.Maria Suaçuí/S.João Ev,316280
+31060,S.Maria Suaçuí/S.João Ev,316350
+31060,S.Maria Suaçuí/S.João Ev,316410
+31060,S.Maria Suaçuí/S.João Ev,316450
+31061,S.Antôn.Amparo/Cpo.Belo,310080
+31061,S.Antôn.Amparo/Cpo.Belo,310800
+31061,S.Antôn.Amparo/Cpo.Belo,311040
+31061,S.Antôn.Amparo/Cpo.Belo,311120
+31061,S.Antôn.Amparo/Cpo.Belo,311190
+31061,S.Antôn.Amparo/Cpo.Belo,311200
+31061,S.Antôn.Amparo/Cpo.Belo,311400
+31061,S.Antôn.Amparo/Cpo.Belo,311450
+31061,S.Antôn.Amparo/Cpo.Belo,312020
+31061,S.Antôn.Amparo/Cpo.Belo,314560
+31061,S.Antôn.Amparo/Cpo.Belo,314770
+31061,S.Antôn.Amparo/Cpo.Belo,315880
+31061,S.Antôn.Amparo/Cpo.Belo,315990
+31061,S.Antôn.Amparo/Cpo.Belo,316120
+31062,Santos Dumont,310330
+31062,Santos Dumont,314570
+31062,Santos Dumont,316070
+31063,São João del Rei,310590
+31063,São João del Rei,311520
+31063,São João del Rei,311970
+31063,São João del Rei,312300
+31063,São João del Rei,313000
+31063,São João del Rei,313740
+31063,São João del Rei,313910
+31063,São João del Rei,314450
+31063,São João del Rei,315030
+31063,São João del Rei,315270
+31063,São João del Rei,315420
+31063,São João del Rei,315610
+31063,São João del Rei,315733
+31063,São João del Rei,316250
+31063,São João del Rei,316500
+31063,São João del Rei,316530
+31063,São João del Rei,316880
+31064,S.João Nepomuceno/Bicas,310690
+31064,S.João Nepomuceno/Bicas,312130
+31064,S.João Nepomuceno/Bicas,312850
+31064,S.João Nepomuceno/Bicas,313980
+31064,S.João Nepomuceno/Bicas,314020
+31064,S.João Nepomuceno/Bicas,314950
+31064,S.João Nepomuceno/Bicas,315620
+31064,S.João Nepomuceno/Bicas,316290
+31064,S.João Nepomuceno/Bicas,316560
+31065,São Lourenço,310120
+31065,São Lourenço,310130
+31065,São Lourenço,310490
+31065,São Lourenço,311410
+31065,São Lourenço,311480
+31065,São Lourenço,311550
+31065,São Lourenço,311770
+31065,São Lourenço,312050
+31065,São Lourenço,312080
+31065,São Lourenço,312280
+31065,São Lourenço,313300
+31065,São Lourenço,313310
+31065,São Lourenço,313590
+31065,São Lourenço,313780
+31065,São Lourenço,314190
+31065,São Lourenço,314550
+31065,São Lourenço,314760
+31065,São Lourenço,315260
+31065,São Lourenço,316370
+31065,São Lourenço,316490
+31065,São Lourenço,316640
+31065,São Lourenço,316700
+31065,São Lourenço,316780
+31065,São Lourenço,317170
+31066,São Sebastião do Paraíso,313290
+31066,São Sebastião do Paraíso,313480
+31066,São Sebastião do Paraíso,314320
+31066,São Sebastião do Paraíso,315290
+31066,São Sebastião do Paraíso,316470
+31066,São Sebastião do Paraíso,316510
+31067,Sete Lagoas,310020
+31067,Sete Lagoas,310320
+31067,Sete Lagoas,310500
+31067,Sete Lagoas,310700
+31067,Sete Lagoas,310960
+31067,Sete Lagoas,310990
+31067,Sete Lagoas,311250
+31067,Sete Lagoas,311560
+31067,Sete Lagoas,311890
+31067,Sete Lagoas,312640
+31067,Sete Lagoas,312720
+31067,Sete Lagoas,313100
+31067,Sete Lagoas,313570
+31067,Sete Lagoas,313970
+31067,Sete Lagoas,314350
+31067,Sete Lagoas,314640
+31067,Sete Lagoas,314690
+31067,Sete Lagoas,314740
+31067,Sete Lagoas,314960
+31067,Sete Lagoas,315200
+31067,Sete Lagoas,315360
+31067,Sete Lagoas,315370
+31067,Sete Lagoas,315850
+31067,Sete Lagoas,316720
+31068,T.Otoni/Malacac/Itambac.,310285
+31068,T.Otoni/Malacac/Itambac.,310470
+31068,T.Otoni/Malacac/Itambac.,311080
+31068,T.Otoni/Malacac/Itambac.,312675
+31068,T.Otoni/Malacac/Itambac.,312680
+31068,T.Otoni/Malacac/Itambac.,313270
+31068,T.Otoni/Malacac/Itambac.,313700
+31068,T.Otoni/Malacac/Itambac.,313920
+31068,T.Otoni/Malacac/Itambac.,314490
+31068,T.Otoni/Malacac/Itambac.,314530
+31068,T.Otoni/Malacac/Itambac.,314620
+31068,T.Otoni/Malacac/Itambac.,315000
+31068,T.Otoni/Malacac/Itambac.,315240
+31068,T.Otoni/Malacac/Itambac.,316330
+31068,T.Otoni/Malacac/Itambac.,316555
+31068,T.Otoni/Malacac/Itambac.,316860
+31069,Três Corações,311070
+31069,Três Corações,311090
+31069,Três Corações,311390
+31069,Três Corações,316080
+31069,Três Corações,316520
+31069,Três Corações,316930
+31070,Três Pontas,310710
+31070,Três Pontas,311870
+31070,Três Pontas,313050
+31070,Três Pontas,315830
+31070,Três Pontas,316940
+31071,Ubá,310870
+31071,Ubá,311670
+31071,Ubá,312190
+31071,Ubá,312330
+31071,Ubá,312400
+31071,Ubá,312840
+31071,Ubá,312880
+31071,Ubá,312900
+31071,Ubá,314160
+31071,Ubá,315130
+31071,Ubá,315310
+31071,Ubá,315580
+31071,Ubá,315630
+31071,Ubá,316150
+31071,Ubá,316570
+31071,Ubá,316730
+31071,Ubá,316790
+31071,Ubá,316900
+31071,Ubá,316990
+31071,Ubá,317200
+31072,Uberaba,310070
+31072,Uberaba,311140
+31072,Uberaba,311730
+31072,Uberaba,311820
+31072,Uberaba,312125
+31072,Uberaba,315690
+31072,Uberaba,317010
+31072,Uberaba,317110
+31073,Uberlândia Araguari,310350
+31073,Uberlândia Araguari,310375
+31073,Uberlândia Araguari,311500
+31073,Uberlândia Araguari,313070
+31073,Uberlândia Araguari,314280
+31073,Uberlândia Araguari,314500
+31073,Uberlândia Araguari,315280
+31073,Uberlândia Araguari,316960
+31073,Uberlândia Araguari,317020
+31074,Unaí,310450
+31074,Unaí,310820
+31074,Unaí,310930
+31074,Unaí,310945
+31074,Unaí,311615
+31074,Unaí,312247
+31074,Unaí,312620
+31074,Unaí,314437
+31074,Unaí,314700
+31074,Unaí,315445
+31074,Unaí,317040
+31074,Unaí,317047
+31075,Varginha,311900
+31075,Varginha,312360
+31075,Varginha,314260
+31075,Varginha,316200
+31075,Varginha,317070
+31076,Vespasiano,311750
+31076,Vespasiano,311787
+31076,Vespasiano,313760
+31076,Vespasiano,314110
+31076,Vespasiano,314930
+31076,Vespasiano,315900
+31076,Vespasiano,316295
+31076,Vespasiano,317120
+31077,Viçosa,310370
+31077,Viçosa,311020
+31077,Viçosa,311170
+31077,Viçosa,314830
+31077,Viçosa,314880
+31077,Viçosa,315230
+31077,Viçosa,316380
+31077,Viçosa,316850
+31077,Viçosa,317130
+31000,Ignorado - MG,310000
+32001,Central,320013
+32001,Central,320035
+32001,Central,320060
+32001,Central,320080
+32001,Central,320150
+32001,Central,320225
+32001,Central,320250
+32001,Central,320313
+32001,Central,320320
+32001,Central,320330
+32001,Central,320335
+32001,Central,320400
+32001,Central,320435
+32001,Central,320465
+32001,Central,320470
+32001,Central,320495
+32001,Central,320501
+32001,Central,320517
+32002,Metropolitana,320010
+32002,Metropolitana,320115
+32002,Metropolitana,320130
+32002,Metropolitana,320170
+32002,Metropolitana,320190
+32002,Metropolitana,320220
+32002,Metropolitana,320240
+32002,Metropolitana,320245
+32002,Metropolitana,320270
+32002,Metropolitana,320290
+32002,Metropolitana,320316
+32002,Metropolitana,320334
+32002,Metropolitana,320450
+32002,Metropolitana,320455
+32002,Metropolitana,320460
+32002,Metropolitana,320500
+32002,Metropolitana,320506
+32002,Metropolitana,320510
+32002,Metropolitana,320520
+32002,Metropolitana,320530
+32003,Norte,320016
+32003,Norte,320090
+32003,Norte,320100
+32003,Norte,320160
+32003,Norte,320210
+32003,Norte,320305
+32003,Norte,320350
+32003,Norte,320360
+32003,Norte,320390
+32003,Norte,320405
+32003,Norte,320410
+32003,Norte,320425
+32003,Norte,320490
+32003,Norte,320515
+32004,Sul,320020
+32004,Sul,320030
+32004,Sul,320040
+32004,Sul,320050
+32004,Sul,320070
+32004,Sul,320110
+32004,Sul,320120
+32004,Sul,320140
+32004,Sul,320180
+32004,Sul,320200
+32004,Sul,320230
+32004,Sul,320255
+32004,Sul,320260
+32004,Sul,320265
+32004,Sul,320280
+32004,Sul,320300
+32004,Sul,320310
+32004,Sul,320332
+32004,Sul,320340
+32004,Sul,320370
+32004,Sul,320380
+32004,Sul,320420
+32004,Sul,320430
+32004,Sul,320440
+32004,Sul,320480
+32004,Sul,320503
+32000,Ignorado - ES,320000
+33001,Baia da Ilha Grande,330010
+33001,Baia da Ilha Grande,330260
+33001,Baia da Ilha Grande,330380
+33002,Baixada Litorânea,330020
+33002,Baixada Litorânea,330023
+33002,Baixada Litorânea,330025
+33002,Baixada Litorânea,330070
+33002,Baixada Litorânea,330130
+33002,Baixada Litorânea,330187
+33002,Baixada Litorânea,330452
+33002,Baixada Litorânea,330520
+33002,Baixada Litorânea,330550
+33003,Centro-Sul,330022
+33003,Centro-Sul,330095
+33003,Centro-Sul,330180
+33003,Centro-Sul,330280
+33003,Centro-Sul,330290
+33003,Centro-Sul,330360
+33003,Centro-Sul,330370
+33003,Centro-Sul,330385
+33003,Centro-Sul,330540
+33003,Centro-Sul,330600
+33003,Centro-Sul,330620
+33004,Médio Paraíba,330030
+33004,Médio Paraíba,330040
+33004,Médio Paraíba,330225
+33004,Médio Paraíba,330395
+33004,Médio Paraíba,330400
+33004,Médio Paraíba,330411
+33004,Médio Paraíba,330412
+33004,Médio Paraíba,330420
+33004,Médio Paraíba,330440
+33004,Médio Paraíba,330450
+33004,Médio Paraíba,330610
+33004,Médio Paraíba,330630
+33005,Metropolitana I,330045
+33005,Metropolitana I,330170
+33005,Metropolitana I,330200
+33005,Metropolitana I,330227
+33005,Metropolitana I,330250
+33005,Metropolitana I,330285
+33005,Metropolitana I,330320
+33005,Metropolitana I,330350
+33005,Metropolitana I,330414
+33005,Metropolitana I,330455
+33005,Metropolitana I,330510
+33005,Metropolitana I,330555
+33006,Metropolitana II,330190
+33006,Metropolitana II,330270
+33006,Metropolitana II,330330
+33006,Metropolitana II,330430
+33006,Metropolitana II,330490
+33006,Metropolitana II,330560
+33006,Metropolitana II,330575
+33007,Noroeste,330015
+33007,Noroeste,330060
+33007,Noroeste,330090
+33007,Noroeste,330115
+33007,Noroeste,330205
+33007,Noroeste,330210
+33007,Noroeste,330220
+33007,Noroeste,330230
+33007,Noroeste,330300
+33007,Noroeste,330310
+33007,Noroeste,330410
+33007,Noroeste,330470
+33007,Noroeste,330513
+33007,Noroeste,330615
+33008,Norte,330093
+33008,Norte,330100
+33008,Norte,330140
+33008,Norte,330240
+33008,Norte,330415
+33008,Norte,330475
+33008,Norte,330480
+33008,Norte,330500
+33009,Serrana,330050
+33009,Serrana,330080
+33009,Serrana,330110
+33009,Serrana,330120
+33009,Serrana,330150
+33009,Serrana,330160
+33009,Serrana,330185
+33009,Serrana,330245
+33009,Serrana,330340
+33009,Serrana,330390
+33009,Serrana,330460
+33009,Serrana,330515
+33009,Serrana,330530
+33009,Serrana,330570
+33009,Serrana,330580
+33009,Serrana,330590
+33000,Ignorado - RJ,330000
+35001,Adamantina,350010
+35001,Adamantina,351600
+35001,Adamantina,352080
+35001,Adamantina,352740
+35001,Adamantina,352890
+35001,Adamantina,353460
+35001,Adamantina,353490
+35001,Adamantina,354085
+35001,Adamantina,354470
+35001,Adamantina,354510
+35002,Alta Anhanguera,352130
+35002,Alta Anhanguera,353190
+35002,Alta Anhanguera,353360
+35002,Alta Anhanguera,353430
+35002,Alta Anhanguera,354490
+35002,Alta Anhanguera,354940
+35003,Alta Mogiana,350300
+35003,Alta Mogiana,350820
+35003,Alta Mogiana,351770
+35003,Alta Mogiana,352010
+35003,Alta Mogiana,352410
+35003,Alta Mogiana,352970
+35004,Alta Paulista,351440
+35004,Alta Paulista,351580
+35004,Alta Paulista,352160
+35004,Alta Paulista,352600
+35004,Alta Paulista,353160
+35004,Alta Paulista,353310
+35004,Alta Paulista,353480
+35004,Alta Paulista,353540
+35004,Alta Paulista,353640
+35004,Alta Paulista,354710
+35004,Alta Paulista,354930
+35004,Alta Paulista,355510
+35005,Alta Sorocabana,350080
+35005,Alta Sorocabana,350130
+35005,Alta Sorocabana,350240
+35005,Alta Sorocabana,350890
+35005,Alta Sorocabana,351512
+35005,Alta Sorocabana,351530
+35005,Alta Sorocabana,352060
+35005,Alta Sorocabana,352920
+35005,Alta Sorocabana,353220
+35005,Alta Sorocabana,353920
+35005,Alta Sorocabana,354120
+35005,Alta Sorocabana,354140
+35005,Alta Sorocabana,354240
+35005,Alta Sorocabana,354323
+35005,Alta Sorocabana,354550
+35005,Alta Sorocabana,354770
+35005,Alta Sorocabana,354830
+35005,Alta Sorocabana,355290
+35005,Alta Sorocabana,355390
+35006,Alto Capivari,351990
+35006,Alto Capivari,352560
+35006,Alto Capivari,353215
+35006,Alto Capivari,354170
+35006,Alto Capivari,354220
+35007,Alto do Tietê,350390
+35007,Alto do Tietê,350660
+35007,Alto do Tietê,351570
+35007,Alto do Tietê,351830
+35007,Alto do Tietê,351880
+35007,Alto do Tietê,352310
+35007,Alto do Tietê,353060
+35007,Alto do Tietê,353980
+35007,Alto do Tietê,354500
+35007,Alto do Tietê,354680
+35007,Alto do Tietê,355250
+35008,Alto Vale do Paraíba,350850
+35008,Alto Vale do Paraíba,352020
+35008,Alto Vale do Paraíba,352440
+35008,Alto Vale do Paraíba,352490
+35008,Alto Vale do Paraíba,353170
+35008,Alto Vale do Paraíba,353560
+35008,Alto Vale do Paraíba,354600
+35008,Alto Vale do Paraíba,354990
+35009,Aquífero Guarani,351310
+35009,Aquífero Guarani,351885
+35009,Aquífero Guarani,352510
+35009,Aquífero Guarani,352760
+35009,Aquífero Guarani,354340
+35009,Aquífero Guarani,354750
+35009,Aquífero Guarani,354760
+35009,Aquífero Guarani,355090
+35009,Aquífero Guarani,355140
+35009,Aquífero Guarani,355150
+35010,Araras,350330
+35010,Araras,351220
+35010,Araras,352670
+35010,Araras,353930
+35010,Araras,354620
+35011,Assis,350400
+35011,Assis,350720
+35011,Assis,351000
+35011,Assis,351330
+35011,Assis,351610
+35011,Assis,351950
+35011,Assis,352790
+35011,Assis,352880
+35011,Assis,353530
+35011,Assis,353550
+35011,Assis,353715
+35011,Assis,353970
+35011,Assis,355395
+35012,Baixa Mogiana,352260
+35012,Baixa Mogiana,353070
+35012,Baixa Mogiana,353080
+35012,Baixa Mogiana,355730
+35013,Baixada Santista,350635
+35013,Baixada Santista,351350
+35013,Baixada Santista,351870
+35013,Baixada Santista,352210
+35013,Baixada Santista,353110
+35013,Baixada Santista,353760
+35013,Baixada Santista,354100
+35013,Baixada Santista,354850
+35013,Baixada Santista,355100
+35014,Bauru,350070
+35014,Bauru,350340
+35014,Bauru,350430
+35014,Bauru,350470
+35014,Bauru,350600
+35014,Bauru,350745
+35014,Bauru,350830
+35014,Bauru,351450
+35014,Bauru,351910
+35014,Bauru,352680
+35014,Bauru,352750
+35014,Bauru,352800
+35014,Bauru,353657
+35014,Bauru,353670
+35014,Bauru,353890
+35014,Bauru,353940
+35014,Bauru,354110
+35014,Bauru,354250
+35017,Catanduva,350370
+35017,Catanduva,351110
+35017,Catanduva,351120
+35017,Catanduva,351492
+35017,Catanduva,351495
+35017,Catanduva,351560
+35017,Catanduva,352150
+35017,Catanduva,352190
+35017,Catanduva,352885
+35017,Catanduva,353325
+35017,Catanduva,353350
+35017,Catanduva,353510
+35017,Catanduva,353570
+35017,Catanduva,353810
+35017,Catanduva,353900
+35017,Catanduva,354480
+35017,Catanduva,354560
+35017,Catanduva,355260
+35017,Catanduva,355600
+35018,Central do DRS II,350280
+35018,Central do DRS II,350420
+35018,Central do DRS II,350620
+35018,Central do DRS II,350640
+35018,Central do DRS II,351820
+35018,Central do DRS II,351890
+35018,Central do DRS II,353286
+35018,Central do DRS II,353330
+35018,Central do DRS II,354440
+35018,Central do DRS II,354805
+35018,Central do DRS II,355630
+35019,Central do DRS III,350170
+35019,Central do DRS III,350320
+35019,Central do DRS III,350670
+35019,Central do DRS III,351685
+35019,Central do DRS III,353205
+35019,Central do DRS III,354370
+35019,Central do DRS III,354690
+35019,Central do DRS III,355475
+35020,Centro Oeste do DRS III,350740
+35020,Centro Oeste do DRS III,351960
+35020,Centro Oeste do DRS III,352270
+35020,Centro Oeste do DRS III,353290
+35020,Centro Oeste do DRS III,355270
+35021,Circ.Fé Vale/Histórico,350250
+35021,Circ.Fé Vale/Histórico,350315
+35021,Circ.Fé Vale/Histórico,350350
+35021,Circ.Fé Vale/Histórico,350490
+35021,Circ.Fé Vale/Histórico,350860
+35021,Circ.Fé Vale/Histórico,350995
+35021,Circ.Fé Vale/Histórico,351340
+35021,Circ.Fé Vale/Histórico,351360
+35021,Circ.Fé Vale/Histórico,351840
+35021,Circ.Fé Vale/Histórico,352660
+35021,Circ.Fé Vale/Histórico,352720
+35021,Circ.Fé Vale/Histórico,353850
+35021,Circ.Fé Vale/Histórico,354075
+35021,Circ.Fé Vale/Histórico,354190
+35021,Circ.Fé Vale/Histórico,354430
+35021,Circ.Fé Vale/Histórico,354960
+35021,Circ.Fé Vale/Histórico,355200
+35022,Consórcios do DRS II,350110
+35022,Consórcios do DRS II,350440
+35022,Consórcios do DRS II,350510
+35022,Consórcios do DRS II,350650
+35022,Consórcios do DRS II,350770
+35022,Consórcios do DRS II,350775
+35022,Consórcios do DRS II,350810
+35022,Consórcios do DRS II,351190
+35022,Consórcios do DRS II,351250
+35022,Consórcios do DRS II,351650
+35022,Consórcios do DRS II,351710
+35022,Consórcios do DRS II,352725
+35022,Consórcios do DRS II,352770
+35022,Consórcios do DRS II,353730
+35022,Consórcios do DRS II,353770
+35022,Consórcios do DRS II,354840
+35022,Consórcios do DRS II,355520
+35023,Coração do DRS III,351370
+35023,Coração do DRS III,351430
+35023,Coração do DRS III,351930
+35023,Coração do DRS III,354070
+35023,Coração do DRS III,354290
+35023,Coração do DRS III,354890
+35024,Extremo Oeste Paulista,350910
+35024,Extremo Oeste Paulista,352870
+35024,Extremo Oeste Paulista,353830
+35024,Extremo Oeste Paulista,354130
+35024,Extremo Oeste Paulista,354150
+35025,Fernandópolis,351520
+35025,Fernandópolis,351550
+35025,Fernandópolis,351800
+35025,Fernandópolis,352070
+35025,Fernandópolis,352820
+35025,Fernandópolis,352960
+35025,Fernandópolis,353000
+35025,Fernandópolis,353475
+35025,Fernandópolis,353690
+35025,Fernandópolis,354040
+35025,Fernandópolis,354920
+35025,Fernandópolis,354925
+35025,Fernandópolis,355530
+35026,Franco da Rocha,350900
+35026,Franco da Rocha,350920
+35026,Franco da Rocha,351630
+35026,Franco da Rocha,351640
+35026,Franco da Rocha,352850
+35027,Grande ABC,351380
+35027,Grande ABC,352940
+35027,Grande ABC,354330
+35027,Grande ABC,354410
+35027,Grande ABC,354780
+35027,Grande ABC,354870
+35027,Grande ABC,354880
+35028,Horizonte Verde,350560
+35028,Horizonte Verde,351460
+35028,Horizonte Verde,351860
+35028,Horizonte Verde,352430
+35028,Horizonte Verde,353130
+35028,Horizonte Verde,353950
+35028,Horizonte Verde,354020
+35028,Horizonte Verde,354090
+35028,Horizonte Verde,355170
+35029,Itapetininga,350075
+35029,Itapetininga,350220
+35029,Itapetininga,350945
+35029,Itapetininga,351150
+35029,Itapetininga,351160
+35029,Itapetininga,351850
+35029,Itapetininga,352230
+35029,Itapetininga,354165
+35029,Itapetininga,355020
+35029,Itapetininga,355110
+35029,Itapetininga,355400
+35030,Itapeva,350270
+35030,Itapeva,350535
+35030,Itapeva,350715
+35030,Itapeva,350800
+35030,Itapeva,351020
+35030,Itapeva,351760
+35030,Itapeva,352170
+35030,Itapeva,352215
+35030,Itapeva,352240
+35030,Itapeva,352265
+35030,Itapeva,352320
+35030,Itapeva,353282
+35030,Itapeva,354280
+35030,Itapeva,354300
+35030,Itapeva,354325
+35030,Itapeva,354350
+35030,Itapeva,355385
+35031,Jales,350260
+35031,Jales,350395
+35031,Jales,351385
+35031,Jales,351420
+35031,Jales,352480
+35031,Jales,352910
+35031,Jales,352965
+35031,Jales,353520
+35031,Jales,353590
+35031,Jales,354025
+35031,Jales,354570
+35031,Jales,354720
+35031,Jales,354765
+35031,Jales,354900
+35031,Jales,355580
+35031,Jales,355695
+35032,Jaú,350520
+35032,Jaú,350530
+35032,Jaú,350680
+35032,Jaú,350730
+35032,Jaú,350790
+35032,Jaú,351410
+35032,Jaú,352000
+35032,Jaú,352200
+35032,Jaú,352290
+35032,Jaú,352530
+35032,Jaú,352980
+35032,Jaú,355470
+35033,José Bonifácio,350020
+35033,José Bonifácio,352450
+35033,José Bonifácio,352570
+35033,José Bonifácio,352950
+35033,José Bonifácio,353140
+35033,José Bonifácio,353270
+35033,José Bonifácio,353960
+35033,José Bonifácio,353990
+35033,José Bonifácio,355535
+35033,José Bonifácio,355570
+35033,José Bonifácio,355715
+35035,Lagos do DRS II,350210
+35035,Lagos do DRS II,351100
+35035,Lagos do DRS II,351780
+35035,Lagos do DRS II,352044
+35035,Lagos do DRS II,352300
+35035,Lagos do DRS II,352650
+35035,Lagos do DRS II,353010
+35035,Lagos do DRS II,353210
+35035,Lagos do DRS II,353320
+35035,Lagos do DRS II,353740
+35035,Lagos do DRS II,355230
+35035,Lagos do DRS II,355255
+35036,Limeira,351240
+35036,Limeira,351515
+35036,Limeira,352140
+35036,Limeira,352690
+35037,Lins,350880
+35037,Lins,351700
+35037,Lins,351720
+35037,Lins,352710
+35037,Lins,354010
+35037,Lins,354160
+35037,Lins,354460
+35037,Lins,355590
+35038,Litoral Norte,351050
+35038,Litoral Norte,352040
+35038,Litoral Norte,355070
+35038,Litoral Norte,355540
+35039,Mananciais,351300
+35039,Mananciais,351500
+35039,Mananciais,351510
+35039,Mananciais,352220
+35039,Mananciais,352620
+35039,Mananciais,354995
+35039,Mananciais,355280
+35039,Mananciais,355645
+35040,Mantiqueira,350030
+35040,Mantiqueira,350040
+35040,Mantiqueira,351518
+35040,Mantiqueira,354630
+35040,Mantiqueira,354810
+35040,Mantiqueira,354910
+35040,Mantiqueira,355330
+35040,Mantiqueira,355640
+35041,Marília,350140
+35041,Marília,350150
+35041,Marília,350980
+35041,Marília,351470
+35041,Marília,351565
+35041,Marília,351660
+35041,Marília,351670
+35041,Marília,351730
+35041,Marília,351810
+35041,Marília,352580
+35041,Marília,352780
+35041,Marília,352900
+35041,Marília,353370
+35041,Marília,353410
+35041,Marília,353450
+35041,Marília,354000
+35041,Marília,354200
+35041,Marília,355550
+35041,Marília,355660
+35042,Norte - Barretos,350090
+35042,Norte - Barretos,350550
+35042,Norte - Barretos,350930
+35042,Norte - Barretos,351200
+35042,Norte - Barretos,351210
+35042,Norte - Barretos,351740
+35042,Norte - Barretos,351790
+35042,Norte - Barretos,352420
+35042,Norte - Barretos,353390
+35042,Norte - Barretos,355190
+35043,Norte do DRS III,351010
+35043,Norte do DRS III,351400
+35043,Norte do DRS III,352930
+35043,Norte do DRS III,354650
+35043,Norte do DRS III,355370
+35045,Ourinhos,350630
+35045,Ourinhos,351015
+35045,Ourinhos,351519
+35045,Ourinhos,352090
+35045,Ourinhos,353380
+35045,Ourinhos,353470
+35045,Ourinhos,354320
+35045,Ourinhos,354540
+35045,Ourinhos,354640
+35045,Ourinhos,355050
+35045,Ourinhos,355460
+35045,Ourinhos,355720
+35046,Polo Cuesta,350230
+35046,Polo Cuesta,350360
+35046,Polo Cuesta,350690
+35046,Polo Cuesta,350750
+35046,Polo Cuesta,351230
+35046,Polo Cuesta,352350
+35046,Polo Cuesta,352640
+35046,Polo Cuesta,353610
+35046,Polo Cuesta,353750
+35046,Polo Cuesta,354050
+35046,Polo Cuesta,354105
+35046,Polo Cuesta,355010
+35046,Polo Cuesta,355465
+35047,Piracicaba,350060
+35047,Piracicaba,351040
+35047,Piracicaba,351170
+35047,Piracicaba,351490
+35047,Piracicaba,353090
+35047,Piracicaba,353870
+35047,Piracicaba,354210
+35047,Piracicaba,354400
+35047,Piracicaba,354515
+35047,Piracicaba,354700
+35047,Piracicaba,355040
+35048,Pontal do Paranapanema,351535
+35048,Pontal do Paranapanema,353020
+35048,Pontal do Paranapanema,354425
+35048,Pontal do Paranapanema,355430
+35049,Rio Claro,350200
+35049,Rio Claro,351270
+35049,Rio Claro,352110
+35049,Rio Claro,352360
+35049,Rio Claro,354390
+35049,Rio Claro,354670
+35050,Rio Pardo,350870
+35050,Rio Pardo,351080
+35050,Rio Pardo,351390
+35050,Rio Pardo,352380
+35050,Rio Pardo,353050
+35050,Rio Pardo,354970
+35050,Rio Pardo,355080
+35050,Rio Pardo,355360
+35051,Rota dos Bandeirantes,350570
+35051,Rota dos Bandeirantes,351060
+35051,Rota dos Bandeirantes,352250
+35051,Rota dos Bandeirantes,352500
+35051,Rota dos Bandeirantes,353440
+35051,Rota dos Bandeirantes,353910
+35051,Rota dos Bandeirantes,354730
+35052,Santa Fé do Sul,353284
+35052,Santa Fé do Sul,354450
+35052,Santa Fé do Sul,354610
+35052,Santa Fé do Sul,354660
+35052,Santa Fé do Sul,354740
+35052,Santa Fé do Sul,355490
+35053,São José do Rio Preto,350460
+35053,São José do Rio Preto,350480
+35053,São José do Rio Preto,351130
+35053,São José do Rio Preto,351750
+35053,São José do Rio Preto,351940
+35053,São José do Rio Preto,351980
+35053,São José do Rio Preto,352115
+35053,São José do Rio Preto,353030
+35053,São José do Rio Preto,353040
+35053,São José do Rio Preto,353250
+35053,São José do Rio Preto,353280
+35053,São José do Rio Preto,353300
+35053,São José do Rio Preto,353400
+35053,São José do Rio Preto,353420
+35053,São José do Rio Preto,353500
+35053,São José do Rio Preto,353660
+35053,São José do Rio Preto,354080
+35053,São José do Rio Preto,354980
+35053,São José do Rio Preto,355340
+35053,São José do Rio Preto,355560
+35054,São Paulo,355030
+35055,Sorocaba,350115
+35055,Sorocaba,350275
+35055,Sorocaba,350290
+35055,Sorocaba,350700
+35055,Sorocaba,351030
+35055,Sorocaba,351970
+35055,Sorocaba,352100
+35055,Sorocaba,352390
+35055,Sorocaba,352585
+35055,Sorocaba,352840
+35055,Sorocaba,353780
+35055,Sorocaba,353790
+35055,Sorocaba,354060
+35055,Sorocaba,354520
+35055,Sorocaba,354530
+35055,Sorocaba,355060
+35055,Sorocaba,355220
+35055,Sorocaba,355350
+35055,Sorocaba,355450
+35055,Sorocaba,355700
+35056,Sul - Barretos,350610
+35056,Sul - Barretos,353150
+35056,Sul - Barretos,355310
+35056,Sul - Barretos,355320
+35056,Sul - Barretos,355365
+35056,Sul - Barretos,355440
+35056,Sul - Barretos,355680
+35056,Sul - Barretos,355690
+35057,Três Colinas,351320
+35057,Três Colinas,351620
+35057,Três Colinas,352370
+35057,Três Colinas,352540
+35057,Três Colinas,353630
+35057,Três Colinas,353700
+35057,Três Colinas,354270
+35057,Três Colinas,354310
+35057,Três Colinas,354360
+35057,Três Colinas,354950
+35058,Tupã,350335
+35058,Tupã,350580
+35058,Tupã,351900
+35058,Tupã,351920
+35058,Tupã,353600
+35058,Tupã,354180
+35058,Tupã,354380
+35058,Tupã,355500
+35059,Vale das Cachoeiras,350100
+35059,Vale das Cachoeiras,350590
+35059,Vale das Cachoeiras,350780
+35059,Vale das Cachoeiras,350940
+35059,Vale das Cachoeiras,351090
+35059,Vale das Cachoeiras,354625
+35059,Vale das Cachoeiras,354790
+35060,Vale do Jurumirim,350055
+35060,Vale do Jurumirim,350310
+35060,Vale do Jurumirim,350450
+35060,Vale do Jurumirim,350500
+35060,Vale do Jurumirim,351140
+35060,Vale do Jurumirim,351260
+35060,Vale do Jurumirim,351540
+35060,Vale do Jurumirim,351925
+35060,Vale do Jurumirim,352180
+35060,Vale do Jurumirim,352280
+35060,Vale do Jurumirim,352860
+35060,Vale do Jurumirim,353580
+35060,Vale do Jurumirim,353880
+35060,Vale do Jurumirim,355120
+35060,Vale do Jurumirim,355300
+35060,Vale do Jurumirim,355380
+35060,Vale do Jurumirim,355420
+35061,Vale Paraíba/Reg.Serrana,350970
+35061,Vale Paraíba/Reg.Serrana,352630
+35061,Vale Paraíba/Reg.Serrana,353230
+35061,Vale Paraíba/Reg.Serrana,353800
+35061,Vale Paraíba/Reg.Serrana,354230
+35061,Vale Paraíba/Reg.Serrana,354820
+35061,Vale Paraíba/Reg.Serrana,354860
+35061,Vale Paraíba/Reg.Serrana,355000
+35061,Vale Paraíba/Reg.Serrana,355410
+35061,Vale Paraíba/Reg.Serrana,355480
+35062,Vale do Ribeira,350540
+35062,Vale do Ribeira,350925
+35062,Vale do Ribeira,350990
+35062,Vale do Ribeira,351480
+35062,Vale do Ribeira,352030
+35062,Vale do Ribeira,352042
+35062,Vale do Ribeira,352120
+35062,Vale do Ribeira,352330
+35062,Vale do Ribeira,352460
+35062,Vale do Ribeira,352610
+35062,Vale do Ribeira,352990
+35062,Vale do Ribeira,353620
+35062,Vale do Ribeira,353720
+35062,Vale do Ribeira,354260
+35062,Vale do Ribeira,355180
+35063,Votuporanga,350120
+35063,Votuporanga,350180
+35063,Votuporanga,351070
+35063,Votuporanga,351290
+35063,Votuporanga,351590
+35063,Votuporanga,351680
+35063,Votuporanga,351690
+35063,Votuporanga,352810
+35063,Votuporanga,352830
+35063,Votuporanga,353100
+35063,Votuporanga,353260
+35063,Votuporanga,353625
+35063,Votuporanga,354030
+35063,Votuporanga,354420
+35063,Votuporanga,355130
+35063,Votuporanga,355610
+35063,Votuporanga,355710
+35064,Bragança,350410
+35064,Bragança,350710
+35064,Bragança,350760
+35064,Bragança,352550
+35064,Bragança,353200
+35064,Bragança,353240
+35064,Bragança,353680
+35064,Bragança,353820
+35064,Bragança,353860
+35064,Bragança,355210
+35064,Bragança,355495
+35064,Bragança,355635
+35065,Campinas,350160
+35065,Campinas,350380
+35065,Campinas,350950
+35065,Campinas,351280
+35065,Campinas,351905
+35065,Campinas,351907
+35065,Campinas,352050
+35065,Campinas,352340
+35065,Campinas,352470
+35065,Campinas,353180
+35065,Campinas,353340
+35065,Campinas,353650
+35065,Campinas,353710
+35065,Campinas,354580
+35065,Campinas,354800
+35065,Campinas,355240
+35065,Campinas,355620
+35065,Campinas,355670
+35066,Jundiaí,350840
+35066,Jundiaí,350960
+35066,Jundiaí,352400
+35066,Jundiaí,352520
+35066,Jundiaí,352590
+35066,Jundiaí,352730
+35066,Jundiaí,355650
+35067,Circuito das Águas,350050
+35067,Circuito das Águas,350190
+35067,Circuito das Águas,352700
+35067,Circuito das Águas,353120
+35067,Circuito das Águas,355160
+35000,Município ignorado - SP,350000
+41001,1ª RS Paranaguá,410120
+41001,1ª RS Paranaguá,410950
+41001,1ª RS Paranaguá,410960
+41001,1ª RS Paranaguá,411570
+41001,1ª RS Paranaguá,411620
+41001,1ª RS Paranaguá,411820
+41001,1ª RS Paranaguá,411995
+41002,2ª RS Metropolitana,410020
+41002,2ª RS Metropolitana,410030
+41002,2ª RS Metropolitana,410040
+41002,2ª RS Metropolitana,410180
+41002,2ª RS Metropolitana,410230
+41002,2ª RS Metropolitana,410310
+41002,2ª RS Metropolitana,410400
+41002,2ª RS Metropolitana,410410
+41002,2ª RS Metropolitana,410420
+41002,2ª RS Metropolitana,410425
+41002,2ª RS Metropolitana,410520
+41002,2ª RS Metropolitana,410580
+41002,2ª RS Metropolitana,410620
+41002,2ª RS Metropolitana,410690
+41002,2ª RS Metropolitana,410765
+41002,2ª RS Metropolitana,411125
+41002,2ª RS Metropolitana,411320
+41002,2ª RS Metropolitana,411430
+41002,2ª RS Metropolitana,411910
+41002,2ª RS Metropolitana,411915
+41002,2ª RS Metropolitana,411950
+41002,2ª RS Metropolitana,412080
+41002,2ª RS Metropolitana,412120
+41002,2ª RS Metropolitana,412220
+41002,2ª RS Metropolitana,412230
+41002,2ª RS Metropolitana,412550
+41002,2ª RS Metropolitana,412760
+41002,2ª RS Metropolitana,412788
+41002,2ª RS Metropolitana,412863
+41003,3ª RS Ponta Grossa,410160
+41003,3ª RS Ponta Grossa,410465
+41003,3ª RS Ponta Grossa,410490
+41003,3ª RS Ponta Grossa,411050
+41003,3ª RS Ponta Grossa,411140
+41003,3ª RS Ponta Grossa,411200
+41003,3ª RS Ponta Grossa,411770
+41003,3ª RS Ponta Grossa,411940
+41003,3ª RS Ponta Grossa,411990
+41003,3ª RS Ponta Grossa,412010
+41003,3ª RS Ponta Grossa,412510
+41003,3ª RS Ponta Grossa,412630
+41004,4ª RS Irati,410773
+41004,4ª RS Irati,410895
+41004,4ª RS Irati,411010
+41004,4ª RS Irati,411020
+41004,4ª RS Irati,411070
+41004,4ª RS Irati,411390
+41004,4ª RS Irati,412150
+41004,4ª RS Irati,412200
+41004,4ª RS Irati,412700
+41005,5ª RS Guarapuava,410304
+41005,5ª RS Guarapuava,410395
+41005,5ª RS Guarapuava,410442
+41005,5ª RS Guarapuava,410445
+41005,5ª RS Guarapuava,410845
+41005,5ª RS Guarapuava,410865
+41005,5ª RS Guarapuava,410940
+41005,5ª RS Guarapuava,411325
+41005,5ª RS Guarapuava,411330
+41005,5ª RS Guarapuava,411545
+41005,5ª RS Guarapuava,411705
+41005,5ª RS Guarapuava,411780
+41005,5ª RS Guarapuava,411930
+41005,5ª RS Guarapuava,411960
+41005,5ª RS Guarapuava,412015
+41005,5ª RS Guarapuava,412060
+41005,5ª RS Guarapuava,412175
+41005,5ª RS Guarapuava,412215
+41005,5ª RS Guarapuava,412796
+41005,5ª RS Guarapuava,412865
+41006,6ª RS União da Vitória,410130
+41006,6ª RS União da Vitória,410290
+41006,6ª RS União da Vitória,410680
+41006,6ª RS União da Vitória,410850
+41006,6ª RS União da Vitória,411860
+41006,6ª RS União da Vitória,411870
+41006,6ª RS União da Vitória,412030
+41006,6ª RS União da Vitória,412560
+41006,6ª RS União da Vitória,412820
+41007,7ª RS Pato Branco,410322
+41007,7ª RS Pato Branco,410540
+41007,7ª RS Pato Branco,410570
+41007,7ª RS Pato Branco,410645
+41007,7ª RS Pato Branco,410650
+41007,7ª RS Pato Branco,410965
+41007,7ª RS Pato Branco,411120
+41007,7ª RS Pato Branco,411440
+41007,7ª RS Pato Branco,411530
+41007,7ª RS Pato Branco,411760
+41007,7ª RS Pato Branco,411850
+41007,7ª RS Pato Branco,412480
+41007,7ª RS Pato Branco,412627
+41007,7ª RS Pato Branco,412665
+41007,7ª RS Pato Branco,412870
+41008,8ª RS Francisco Beltrão,410100
+41008,8ª RS Francisco Beltrão,410260
+41008,8ª RS Francisco Beltrão,410275
+41008,8ª RS Francisco Beltrão,410302
+41008,8ª RS Francisco Beltrão,410315
+41008,8ª RS Francisco Beltrão,410450
+41008,8ª RS Francisco Beltrão,410657
+41008,8ª RS Francisco Beltrão,410720
+41008,8ª RS Francisco Beltrão,410740
+41008,8ª RS Francisco Beltrão,410785
+41008,8ª RS Francisco Beltrão,410840
+41008,8ª RS Francisco Beltrão,411435
+41008,8ª RS Francisco Beltrão,411540
+41008,8ª RS Francisco Beltrão,411695
+41008,8ª RS Francisco Beltrão,411725
+41008,8ª RS Francisco Beltrão,411900
+41008,8ª RS Francisco Beltrão,411925
+41008,8ª RS Francisco Beltrão,411980
+41008,8ª RS Francisco Beltrão,412035
+41008,8ª RS Francisco Beltrão,412140
+41008,8ª RS Francisco Beltrão,412160
+41008,8ª RS Francisco Beltrão,412280
+41008,8ª RS Francisco Beltrão,412300
+41008,8ª RS Francisco Beltrão,412380
+41008,8ª RS Francisco Beltrão,412440
+41008,8ª RS Francisco Beltrão,412520
+41008,8ª RS Francisco Beltrão,412860
+41009,9ª RS Foz do Iguaçu,410830
+41009,9ª RS Foz do Iguaçu,411095
+41009,9ª RS Foz do Iguaçu,411560
+41009,9ª RS Foz do Iguaçu,411580
+41009,9ª RS Foz do Iguaçu,411605
+41009,9ª RS Foz do Iguaçu,412125
+41009,9ª RS Foz do Iguaçu,412405
+41009,9ª RS Foz do Iguaçu,412570
+41009,9ª RS Foz do Iguaçu,412635
+41010,10ª RS Cascavel,410105
+41010,10ª RS Cascavel,410305
+41010,10ª RS Cascavel,410335
+41010,10ª RS Cascavel,410345
+41010,10ª RS Cascavel,410405
+41010,10ª RS Cascavel,410460
+41010,10ª RS Cascavel,410480
+41010,10ª RS Cascavel,410500
+41010,10ª RS Cascavel,410530
+41010,10ª RS Cascavel,410630
+41010,10ª RS Cascavel,410712
+41010,10ª RS Cascavel,410754
+41010,10ª RS Cascavel,410820
+41010,10ª RS Cascavel,410930
+41010,10ª RS Cascavel,410975
+41010,10ª RS Cascavel,411005
+41010,10ª RS Cascavel,411065
+41010,10ª RS Cascavel,411275
+41010,10ª RS Cascavel,411345
+41010,10ª RS Cascavel,411670
+41010,10ª RS Cascavel,412090
+41010,10ª RS Cascavel,412382
+41010,10ª RS Cascavel,412402
+41010,10ª RS Cascavel,412785
+41010,10ª RS Cascavel,412855
+41011,11ª RS Campo Mourão,410045
+41011,11ª RS Campo Mourão,410170
+41011,11ª RS Campo Mourão,410250
+41011,11ª RS Campo Mourão,410300
+41011,11ª RS Campo Mourão,410390
+41011,11ª RS Campo Mourão,410430
+41011,11ª RS Campo Mourão,410655
+41011,11ª RS Campo Mourão,410750
+41011,11ª RS Campo Mourão,410755
+41011,11ª RS Campo Mourão,410770
+41011,11ª RS Campo Mourão,410860
+41011,11ª RS Campo Mourão,411080
+41011,11ª RS Campo Mourão,411220
+41011,11ª RS Campo Mourão,411295
+41011,11ª RS Campo Mourão,411373
+41011,11ª RS Campo Mourão,411400
+41011,11ª RS Campo Mourão,411610
+41011,11ª RS Campo Mourão,411680
+41011,11ª RS Campo Mourão,411880
+41011,11ª RS Campo Mourão,412065
+41011,11ª RS Campo Mourão,412110
+41011,11ª RS Campo Mourão,412135
+41011,11ª RS Campo Mourão,412250
+41011,11ª RS Campo Mourão,412720
+41011,11ª RS Campo Mourão,412800
+41012,12ª RS Umuarama,410050
+41012,12ª RS Umuarama,410070
+41012,12ª RS Umuarama,410337
+41012,12ª RS Umuarama,410347
+41012,12ª RS Umuarama,410660
+41012,12ª RS Umuarama,410725
+41012,12ª RS Umuarama,410752
+41012,12ª RS Umuarama,410832
+41012,12ª RS Umuarama,410990
+41012,12ª RS Umuarama,411060
+41012,12ª RS Umuarama,411155
+41012,12ª RS Umuarama,411470
+41012,12ª RS Umuarama,411510
+41012,12ª RS Umuarama,411720
+41012,12ª RS Umuarama,411885
+41012,12ª RS Umuarama,411890
+41012,12ª RS Umuarama,412535
+41012,12ª RS Umuarama,412690
+41012,12ª RS Umuarama,412810
+41012,12ª RS Umuarama,412862
+41012,12ª RS Umuarama,412880
+41013,13ª RS Cianorte,410550
+41013,13ª RS Cianorte,410560
+41013,13ª RS Cianorte,410910
+41013,13ª RS Cianorte,411040
+41013,13ª RS Cianorte,411240
+41013,13ª RS Cianorte,411300
+41013,13ª RS Cianorte,412260
+41013,13ª RS Cianorte,412555
+41013,13ª RS Cianorte,412610
+41013,13ª RS Cianorte,412680
+41013,13ª RS Cianorte,412790
+41014,14ª RS Paranavaí,410060
+41014,14ª RS Paranavaí,410090
+41014,14ª RS Paranavaí,410670
+41014,14ª RS Paranavaí,410710
+41014,14ª RS Paranavaí,410890
+41014,14ª RS Paranavaí,411030
+41014,14ª RS Paranavaí,411130
+41014,14ª RS Paranavaí,411260
+41014,14ª RS Paranavaí,411350
+41014,14ª RS Paranavaí,411500
+41014,14ª RS Paranavaí,411590
+41014,14ª RS Paranavaí,411650
+41014,14ª RS Paranavaí,411710
+41014,14ª RS Paranavaí,411800
+41014,14ª RS Paranavaí,411830
+41014,14ª RS Paranavaí,411840
+41014,14ª RS Paranavaí,411970
+41014,14ª RS Paranavaí,412020
+41014,14ª RS Paranavaí,412100
+41014,14ª RS Paranavaí,412330
+41014,14ª RS Paranavaí,412370
+41014,14ª RS Paranavaí,412395
+41014,14ª RS Paranavaí,412420
+41014,14ª RS Paranavaí,412460
+41014,14ª RS Paranavaí,412490
+41014,14ª RS Paranavaí,412590
+41014,14ª RS Paranavaí,412670
+41014,14ª RS Paranavaí,412730
+41015,15ª RS Maringá,410115
+41015,15ª RS Maringá,410210
+41015,15ª RS Maringá,410220
+41015,15ª RS Maringá,410590
+41015,15ª RS Maringá,410730
+41015,15ª RS Maringá,410780
+41015,15ª RS Maringá,410790
+41015,15ª RS Maringá,410810
+41015,15ª RS Maringá,411000
+41015,15ª RS Maringá,411090
+41015,15ª RS Maringá,411110
+41015,15ª RS Maringá,411160
+41015,15ª RS Maringá,411360
+41015,15ª RS Maringá,411410
+41015,15ª RS Maringá,411420
+41015,15ª RS Maringá,411480
+41015,15ª RS Maringá,411520
+41015,15ª RS Maringá,411630
+41015,15ª RS Maringá,411640
+41015,15ª RS Maringá,411690
+41015,15ª RS Maringá,411740
+41015,15ª RS Maringá,411750
+41015,15ª RS Maringá,411810
+41015,15ª RS Maringá,412040
+41015,15ª RS Maringá,412340
+41015,15ª RS Maringá,412360
+41015,15ª RS Maringá,412450
+41015,15ª RS Maringá,412530
+41015,15ª RS Maringá,412625
+41015,15ª RS Maringá,412830
+41016,16ª RS Apucarana,410140
+41016,16ª RS Apucarana,410150
+41016,16ª RS Apucarana,410320
+41016,16ª RS Apucarana,410330
+41016,16ª RS Apucarana,410350
+41016,16ª RS Apucarana,410380
+41016,16ª RS Apucarana,410760
+41016,16ª RS Apucarana,410870
+41016,16ª RS Apucarana,411210
+41016,16ª RS Apucarana,411310
+41016,16ª RS Apucarana,411490
+41016,16ª RS Apucarana,411550
+41016,16ª RS Apucarana,411575
+41016,16ª RS Apucarana,411729
+41016,16ª RS Apucarana,412210
+41016,16ª RS Apucarana,412270
+41016,16ª RS Apucarana,412580
+41017,17ª RS Londrina,410080
+41017,17ª RS Londrina,410190
+41017,17ª RS Londrina,410280
+41017,17ª RS Londrina,410340
+41017,17ª RS Londrina,410370
+41017,17ª RS Londrina,410510
+41017,17ª RS Londrina,410800
+41017,17ª RS Londrina,410920
+41017,17ª RS Londrina,410980
+41017,17ª RS Londrina,411190
+41017,17ª RS Londrina,411270
+41017,17ª RS Londrina,411370
+41017,17ª RS Londrina,411380
+41017,17ª RS Londrina,411600
+41017,17ª RS Londrina,411965
+41017,17ª RS Londrina,412000
+41017,17ª RS Londrina,412033
+41017,17ª RS Londrina,412050
+41017,17ª RS Londrina,412240
+41017,17ª RS Londrina,412650
+41017,17ª RS Londrina,412667
+41018,18ª RS Cornélio Procópio,410010
+41018,18ª RS Cornélio Procópio,410110
+41018,18ª RS Cornélio Procópio,410240
+41018,18ª RS Cornélio Procópio,410600
+41018,18ª RS Cornélio Procópio,410640
+41018,18ª RS Cornélio Procópio,411100
+41018,18ª RS Cornélio Procópio,411340
+41018,18ª RS Cornélio Procópio,411660
+41018,18ª RS Cornélio Procópio,411700
+41018,18ª RS Cornélio Procópio,411721
+41018,18ª RS Cornélio Procópio,412130
+41018,18ª RS Cornélio Procópio,412190
+41018,18ª RS Cornélio Procópio,412310
+41018,18ª RS Cornélio Procópio,412320
+41018,18ª RS Cornélio Procópio,412390
+41018,18ª RS Cornélio Procópio,412430
+41018,18ª RS Cornélio Procópio,412470
+41018,18ª RS Cornélio Procópio,412600
+41018,18ª RS Cornélio Procópio,412620
+41018,18ª RS Cornélio Procópio,412640
+41018,18ª RS Cornélio Procópio,412840
+41019,19ª RS Jacarezinho,410270
+41019,19ª RS Jacarezinho,410360
+41019,19ª RS Jacarezinho,410470
+41019,19ª RS Jacarezinho,410610
+41019,19ª RS Jacarezinho,410775
+41019,19ª RS Jacarezinho,410900
+41019,19ª RS Jacarezinho,410970
+41019,19ª RS Jacarezinho,411170
+41019,19ª RS Jacarezinho,411180
+41019,19ª RS Jacarezinho,411230
+41019,19ª RS Jacarezinho,411280
+41019,19ª RS Jacarezinho,411290
+41019,19ª RS Jacarezinho,411920
+41019,19ª RS Jacarezinho,412070
+41019,19ª RS Jacarezinho,412180
+41019,19ª RS Jacarezinho,412290
+41019,19ª RS Jacarezinho,412400
+41019,19ª RS Jacarezinho,412410
+41019,19ª RS Jacarezinho,412540
+41019,19ª RS Jacarezinho,412660
+41019,19ª RS Jacarezinho,412780
+41019,19ª RS Jacarezinho,412850
+41020,20ª RS Toledo,410200
+41020,20ª RS Toledo,410715
+41020,20ª RS Toledo,410753
+41020,20ª RS Toledo,410880
+41020,20ª RS Toledo,411460
+41020,20ª RS Toledo,411535
+41020,20ª RS Toledo,411585
+41020,20ª RS Toledo,411722
+41020,20ª RS Toledo,411745
+41020,20ª RS Toledo,411790
+41020,20ª RS Toledo,411845
+41020,20ª RS Toledo,412085
+41020,20ª RS Toledo,412350
+41020,20ª RS Toledo,412545
+41020,20ª RS Toledo,412575
+41020,20ª RS Toledo,412740
+41020,20ª RS Toledo,412770
+41020,20ª RS Toledo,412795
+41021,21ª RS Telêmaco Borba,410700
+41021,21ª RS Telêmaco Borba,411007
+41021,21ª RS Telêmaco Borba,411730
+41021,21ª RS Telêmaco Borba,412170
+41021,21ª RS Telêmaco Borba,412710
+41021,21ª RS Telêmaco Borba,412750
+41021,21ª RS Telêmaco Borba,412853
+41022,22ª RS Ivaiporã,410165
+41022,22ª RS Ivaiporã,410185
+41022,22ª RS Ivaiporã,410440
+41022,22ª RS Ivaiporã,410685
+41022,22ª RS Ivaiporã,410855
+41022,22ª RS Ivaiporã,411150
+41022,22ª RS Ivaiporã,411250
+41022,22ª RS Ivaiporã,411342
+41022,22ª RS Ivaiporã,411375
+41022,22ª RS Ivaiporã,411450
+41022,22ª RS Ivaiporã,411573
+41022,22ª RS Ivaiporã,411727
+41022,22ª RS Ivaiporã,412217
+41022,22ª RS Ivaiporã,412265
+41022,22ª RS Ivaiporã,412385
+41022,22ª RS Ivaiporã,412500
+41000,Ignorado - PR,410000
+42001,Extremo Oeste,420080
+42001,Extremo Oeste,420208
+42001,Extremo Oeste,420209
+42001,Extremo Oeste,420215
+42001,Extremo Oeste,420257
+42001,Extremo Oeste,420490
+42001,Extremo Oeste,420500
+42001,Extremo Oeste,420535
+42001,Extremo Oeste,420640
+42001,Extremo Oeste,420660
+42001,Extremo Oeste,420765
+42001,Extremo Oeste,420775
+42001,Extremo Oeste,420840
+42001,Extremo Oeste,421050
+42001,Extremo Oeste,421090
+42001,Extremo Oeste,421100
+42001,Extremo Oeste,421200
+42001,Extremo Oeste,421223
+42001,Extremo Oeste,421415
+42001,Extremo Oeste,421520
+42001,Extremo Oeste,421535
+42001,Extremo Oeste,421555
+42001,Extremo Oeste,421568
+42001,Extremo Oeste,421625
+42001,Extremo Oeste,421670
+42001,Extremo Oeste,421715
+42001,Extremo Oeste,421720
+42001,Extremo Oeste,421730
+42001,Extremo Oeste,421795
+42001,Extremo Oeste,421875
+42002,Oeste,420050
+42002,Oeste,420055
+42002,Oeste,420310
+42002,Oeste,420410
+42002,Oeste,420420
+42002,Oeste,420435
+42002,Oeste,420440
+42002,Oeste,420470
+42002,Oeste,420475
+42002,Oeste,420543
+42002,Oeste,420665
+42002,Oeste,420785
+42002,Oeste,420895
+42002,Oeste,421140
+42002,Oeste,421145
+42002,Oeste,421210
+42002,Oeste,421290
+42002,Oeste,421315
+42002,Oeste,421420
+42002,Oeste,421507
+42002,Oeste,421569
+42002,Oeste,421600
+42002,Oeste,421755
+42002,Oeste,421775
+42002,Oeste,421885
+42003,Xanxerê,420010
+42003,Xanxerê,420253
+42003,Xanxerê,420350
+42003,Xanxerê,420445
+42003,Xanxerê,420517
+42003,Xanxerê,420530
+42003,Xanxerê,420560
+42003,Xanxerê,420768
+42003,Xanxerê,420917
+42003,Xanxerê,420945
+42003,Xanxerê,421055
+42003,Xanxerê,421165
+42003,Xanxerê,421185
+42003,Xanxerê,421227
+42003,Xanxerê,421340
+42003,Xanxerê,421575
+42003,Xanxerê,421610
+42003,Xanxerê,421690
+42003,Xanxerê,421910
+42003,Xanxerê,421950
+42003,Xanxerê,421970
+42004,Alto Vale do Itajaí,420020
+42004,Alto Vale do Itajaí,420030
+42004,Alto Vale do Itajaí,420180
+42004,Alto Vale do Itajaí,420190
+42004,Alto Vale do Itajaí,420285
+42004,Alto Vale do Itajaí,420419
+42004,Alto Vale do Itajaí,420510
+42004,Alto Vale do Itajaí,420690
+42004,Alto Vale do Itajaí,420740
+42004,Alto Vale do Itajaí,420850
+42004,Alto Vale do Itajaí,420915
+42004,Alto Vale do Itajaí,420950
+42004,Alto Vale do Itajaí,420990
+42004,Alto Vale do Itajaí,421085
+42004,Alto Vale do Itajaí,421270
+42004,Alto Vale do Itajaí,421370
+42004,Alto Vale do Itajaí,421400
+42004,Alto Vale do Itajaí,421410
+42004,Alto Vale do Itajaí,421450
+42004,Alto Vale do Itajaí,421460
+42004,Alto Vale do Itajaí,421480
+42004,Alto Vale do Itajaí,421530
+42004,Alto Vale do Itajaí,421567
+42004,Alto Vale do Itajaí,421780
+42004,Alto Vale do Itajaí,421860
+42004,Alto Vale do Itajaí,421920
+42004,Alto Vale do Itajaí,421935
+42004,Alto Vale do Itajaí,421940
+42005,Foz do Rio Itajaí,420200
+42005,Foz do Rio Itajaí,420245
+42005,Foz do Rio Itajaí,420320
+42005,Foz do Rio Itajaí,420710
+42005,Foz do Rio Itajaí,420820
+42005,Foz do Rio Itajaí,420830
+42005,Foz do Rio Itajaí,421000
+42005,Foz do Rio Itajaí,421130
+42005,Foz do Rio Itajaí,421250
+42005,Foz do Rio Itajaí,421280
+42005,Foz do Rio Itajaí,421350
+42006,Médio Vale do Itajaí,420125
+42006,Médio Vale do Itajaí,420170
+42006,Médio Vale do Itajaí,420220
+42006,Médio Vale do Itajaí,420240
+42006,Médio Vale do Itajaí,420270
+42006,Médio Vale do Itajaí,420290
+42006,Médio Vale do Itajaí,420515
+42006,Médio Vale do Itajaí,420590
+42006,Médio Vale do Itajaí,420630
+42006,Médio Vale do Itajaí,420750
+42006,Médio Vale do Itajaí,421320
+42006,Médio Vale do Itajaí,421470
+42006,Médio Vale do Itajaí,421510
+42006,Médio Vale do Itajaí,421820
+42007,Grande Florianópolis,420060
+42007,Grande Florianópolis,420070
+42007,Grande Florianópolis,420090
+42007,Grande Florianópolis,420110
+42007,Grande Florianópolis,420120
+42007,Grande Florianópolis,420230
+42007,Grande Florianópolis,420370
+42007,Grande Florianópolis,420540
+42007,Grande Florianópolis,420570
+42007,Grande Florianópolis,420600
+42007,Grande Florianópolis,420980
+42007,Grande Florianópolis,421020
+42007,Grande Florianópolis,421150
+42007,Grande Florianópolis,421190
+42007,Grande Florianópolis,421230
+42007,Grande Florianópolis,421430
+42007,Grande Florianópolis,421570
+42007,Grande Florianópolis,421590
+42007,Grande Florianópolis,421630
+42007,Grande Florianópolis,421660
+42007,Grande Florianópolis,421725
+42007,Grande Florianópolis,421800
+42008,Meio Oeste,420005
+42008,Meio Oeste,420040
+42008,Meio Oeste,420287
+42008,Meio Oeste,420360
+42008,Meio Oeste,420390
+42008,Meio Oeste,420400
+42008,Meio Oeste,420415
+42008,Meio Oeste,420520
+42008,Meio Oeste,420670
+42008,Meio Oeste,420680
+42008,Meio Oeste,420860
+42008,Meio Oeste,420900
+42008,Meio Oeste,420920
+42008,Meio Oeste,421003
+42008,Meio Oeste,421105
+42008,Meio Oeste,421180
+42008,Meio Oeste,421850
+42008,Meio Oeste,421915
+42008,Meio Oeste,421917
+42008,Meio Oeste,421985
+42009,Alto Vale do R.do Peixe,420160
+42009,Alto Vale do R.do Peixe,420300
+42009,Alto Vale do R.do Peixe,420315
+42009,Alto Vale do R.do Peixe,420480
+42009,Alto Vale do R.do Peixe,420550
+42009,Alto Vale do R.do Peixe,420555
+42009,Alto Vale do R.do Peixe,420675
+42009,Alto Vale do R.do Peixe,420757
+42009,Alto Vale do R.do Peixe,420970
+42009,Alto Vale do R.do Peixe,421005
+42009,Alto Vale do R.do Peixe,421070
+42009,Alto Vale do R.do Peixe,421300
+42009,Alto Vale do R.do Peixe,421335
+42009,Alto Vale do R.do Peixe,421440
+42009,Alto Vale do R.do Peixe,421540
+42009,Alto Vale do R.do Peixe,421550
+42009,Alto Vale do R.do Peixe,421605
+42009,Alto Vale do R.do Peixe,421790
+42009,Alto Vale do R.do Peixe,421825
+42009,Alto Vale do R.do Peixe,421930
+42010,Alto Uruguai Catarinense,420075
+42010,Alto Uruguai Catarinense,420127
+42010,Alto Uruguai Catarinense,420165
+42010,Alto Uruguai Catarinense,420430
+42010,Alto Uruguai Catarinense,420760
+42010,Alto Uruguai Catarinense,420770
+42010,Alto Uruguai Catarinense,420780
+42010,Alto Uruguai Catarinense,420800
+42010,Alto Uruguai Catarinense,420985
+42010,Alto Uruguai Catarinense,421187
+42010,Alto Uruguai Catarinense,421260
+42010,Alto Uruguai Catarinense,421310
+42010,Alto Uruguai Catarinense,421390
+42010,Alto Uruguai Catarinense,421750
+42010,Alto Uruguai Catarinense,421960
+42011,Nordeste,420130
+42011,Nordeste,420205
+42011,Nordeste,420210
+42011,Nordeste,420450
+42011,Nordeste,420580
+42011,Nordeste,420650
+42011,Nordeste,420845
+42011,Nordeste,420890
+42011,Nordeste,420910
+42011,Nordeste,421060
+42011,Nordeste,421620
+42011,Nordeste,421635
+42011,Nordeste,421740
+42012,Planalto Norte,420213
+42012,Planalto Norte,420330
+42012,Planalto Norte,420380
+42012,Planalto Norte,420790
+42012,Planalto Norte,420810
+42012,Planalto Norte,421010
+42012,Planalto Norte,421030
+42012,Planalto Norte,421110
+42012,Planalto Norte,421220
+42012,Planalto Norte,421360
+42012,Planalto Norte,421500
+42012,Planalto Norte,421580
+42012,Planalto Norte,421830
+42013,Serra Catarinense,420100
+42013,Serra Catarinense,420243
+42013,Serra Catarinense,420250
+42013,Serra Catarinense,420260
+42013,Serra Catarinense,420325
+42013,Serra Catarinense,420340
+42013,Serra Catarinense,420417
+42013,Serra Catarinense,420455
+42013,Serra Catarinense,420930
+42013,Serra Catarinense,421175
+42013,Serra Catarinense,421189
+42013,Serra Catarinense,421205
+42013,Serra Catarinense,421330
+42013,Serra Catarinense,421505
+42013,Serra Catarinense,421650
+42013,Serra Catarinense,421680
+42013,Serra Catarinense,421890
+42013,Serra Catarinense,421895
+42014,Extremo Sul Catarinense,420140
+42014,Extremo Sul Catarinense,420195
+42014,Extremo Sul Catarinense,420207
+42014,Extremo Sul Catarinense,420519
+42014,Extremo Sul Catarinense,420870
+42014,Extremo Sul Catarinense,421040
+42014,Extremo Sul Catarinense,421080
+42014,Extremo Sul Catarinense,421125
+42014,Extremo Sul Catarinense,421225
+42014,Extremo Sul Catarinense,421380
+42014,Extremo Sul Catarinense,421565
+42014,Extremo Sul Catarinense,421640
+42014,Extremo Sul Catarinense,421770
+42014,Extremo Sul Catarinense,421810
+42014,Extremo Sul Catarinense,421880
+42015,Carbonífera,420425
+42015,Carbonífera,420460
+42015,Carbonífera,420545
+42015,Carbonífera,420700
+42015,Carbonífera,420960
+42015,Carbonífera,421120
+42015,Carbonífera,421160
+42015,Carbonífera,421170
+42015,Carbonífera,421760
+42015,Carbonífera,421835
+42015,Carbonífera,421900
+42015,Carbonífera,422000
+42016,Laguna,420150
+42016,Laguna,420280
+42016,Laguna,420395
+42016,Laguna,420610
+42016,Laguna,420620
+42016,Laguna,420720
+42016,Laguna,420730
+42016,Laguna,420880
+42016,Laguna,420940
+42016,Laguna,421240
+42016,Laguna,421265
+42016,Laguna,421490
+42016,Laguna,421545
+42016,Laguna,421560
+42016,Laguna,421700
+42016,Laguna,421710
+42016,Laguna,421840
+42016,Laguna,421870
+42000,Município ignorado - SC,420000
+43001,Verdes Campos,430010
+43001,Verdes Campos,430637
+43001,Verdes Campos,430670
+43001,Verdes Campos,430800
+43001,Verdes Campos,430840
+43001,Verdes Campos,431053
+43001,Verdes Campos,431075
+43001,Verdes Campos,431120
+43001,Verdes Campos,431310
+43001,Verdes Campos,431402
+43001,Verdes Campos,431447
+43001,Verdes Campos,431532
+43001,Verdes Campos,431550
+43001,Verdes Campos,431690
+43001,Verdes Campos,431843
+43001,Verdes Campos,431912
+43001,Verdes Campos,431940
+43001,Verdes Campos,431960
+43001,Verdes Campos,432065
+43001,Verdes Campos,432149
+43001,Verdes Campos,432345
+43002,Entre Rios,430290
+43002,Entre Rios,430465
+43002,Entre Rios,431055
+43002,Entre Rios,431110
+43002,Entre Rios,431113
+43002,Entre Rios,431210
+43002,Entre Rios,431303
+43002,Entre Rios,431740
+43002,Entre Rios,431810
+43002,Entre Rios,431980
+43002,Entre Rios,432237
+43003,Fronteira Oeste,430040
+43003,Fronteira Oeste,430187
+43003,Fronteira Oeste,431060
+43003,Fronteira Oeste,431171
+43003,Fronteira Oeste,431175
+43003,Fronteira Oeste,431530
+43003,Fronteira Oeste,431640
+43003,Fronteira Oeste,431697
+43003,Fronteira Oeste,431710
+43003,Fronteira Oeste,431830
+43003,Fronteira Oeste,432240
+43004,Belas Praias,430105
+43004,Belas Praias,430463
+43004,Belas Praias,430655
+43004,Belas Praias,431065
+43004,Belas Praias,431173
+43004,Belas Praias,431177
+43004,Belas Praias,431244
+43004,Belas Praias,432143
+43004,Belas Praias,432150
+43004,Belas Praias,432166
+43004,Belas Praias,432183
+43004,Belas Praias,432380
+43005,Bons Ventos,430163
+43005,Bons Ventos,430467
+43005,Bons Ventos,430471
+43005,Bons Ventos,430545
+43005,Bons Ventos,431033
+43005,Bons Ventos,431250
+43005,Bons Ventos,431350
+43005,Bons Ventos,431365
+43005,Bons Ventos,431760
+43005,Bons Ventos,432135
+43005,Bons Ventos,432160
+43006,V.Paranhana/Costa Serra,430360
+43006,V.Paranhana/Costa Serra,431010
+43006,V.Paranhana/Costa Serra,431405
+43006,V.Paranhana/Costa Serra,431575
+43006,V.Paranhana/Costa Serra,431600
+43006,V.Paranhana/Costa Serra,431820
+43006,V.Paranhana/Costa Serra,432120
+43006,V.Paranhana/Costa Serra,432170
+43007,Vale dos Sinos,430087
+43007,Vale dos Sinos,430390
+43007,Vale dos Sinos,430640
+43007,Vale dos Sinos,430760
+43007,Vale dos Sinos,431080
+43007,Vale dos Sinos,431162
+43007,Vale dos Sinos,431247
+43007,Vale dos Sinos,431306
+43007,Vale dos Sinos,431340
+43007,Vale dos Sinos,431480
+43007,Vale dos Sinos,431514
+43007,Vale dos Sinos,431695
+43007,Vale dos Sinos,431848
+43007,Vale dos Sinos,431870
+43007,Vale dos Sinos,431990
+43008,Vale Caí/Metropolitana,430165
+43008,Vale Caí/Metropolitana,430265
+43008,Vale Caí/Metropolitana,430460
+43008,Vale Caí/Metropolitana,430468
+43008,Vale Caí/Metropolitana,430770
+43008,Vale Caí/Metropolitana,430955
+43008,Vale Caí/Metropolitana,431179
+43008,Vale Caí/Metropolitana,431240
+43008,Vale Caí/Metropolitana,431337
+43008,Vale Caí/Metropolitana,431403
+43008,Vale Caí/Metropolitana,431650
+43008,Vale Caí/Metropolitana,431861
+43008,Vale Caí/Metropolitana,431935
+43008,Vale Caí/Metropolitana,431950
+43008,Vale Caí/Metropolitana,432000
+43008,Vale Caí/Metropolitana,432085
+43008,Vale Caí/Metropolitana,432200
+43008,Vale Caí/Metropolitana,432225
+43009,Carbonífera Costa Doce,430085
+43009,Carbonífera Costa Doce,430110
+43009,Carbonífera Costa Doce,430175
+43009,Carbonífera Costa Doce,430190
+43009,Carbonífera Costa Doce,430270
+43009,Carbonífera Costa Doce,430350
+43009,Carbonífera Costa Doce,430517
+43009,Carbonífera Costa Doce,430535
+43009,Carbonífera Costa Doce,430544
+43009,Carbonífera Costa Doce,430650
+43009,Carbonífera Costa Doce,430676
+43009,Carbonífera Costa Doce,430880
+43009,Carbonífera Costa Doce,430930
+43009,Carbonífera Costa Doce,431198
+43009,Carbonífera Costa Doce,431225
+43009,Carbonífera Costa Doce,431840
+43009,Carbonífera Costa Doce,432035
+43009,Carbonífera Costa Doce,432055
+43009,Carbonífera Costa Doce,432110
+43010,Vale do Gravataí,430060
+43010,Vale do Gravataí,430310
+43010,Vale do Gravataí,430905
+43010,Vale do Gravataí,430920
+43010,Vale do Gravataí,431490
+43010,Vale do Gravataí,432300
+43011,Sete Povos das Missões,430250
+43011,Sete Povos das Missões,430330
+43011,Sete Povos das Missões,430520
+43011,Sete Povos das Missões,430635
+43011,Sete Povos das Missões,430693
+43011,Sete Povos das Missões,430783
+43011,Sete Povos das Missões,430865
+43011,Sete Povos das Missões,430950
+43011,Sete Povos das Missões,431217
+43011,Sete Povos das Missões,431455
+43011,Sete Povos das Missões,431510
+43011,Sete Povos das Missões,431595
+43011,Sete Povos das Missões,431630
+43011,Sete Povos das Missões,431647
+43011,Sete Povos das Missões,431750
+43011,Sete Povos das Missões,431770
+43011,Sete Povos das Missões,431800
+43011,Sete Povos das Missões,431890
+43011,Sete Povos das Missões,431915
+43011,Sete Povos das Missões,431920
+43011,Sete Povos das Missões,431937
+43011,Sete Povos das Missões,432057
+43011,Sete Povos das Missões,432234
+43011,Sete Povos das Missões,432375
+43012,Portal das Missões,430222
+43012,Portal das Missões,430223
+43012,Portal das Missões,430560
+43012,Portal das Missões,430610
+43012,Portal das Missões,430845
+43012,Portal das Missões,431000
+43012,Portal das Missões,431087
+43012,Portal das Missões,431535
+43012,Portal das Missões,431643
+43012,Portal das Missões,431645
+43012,Portal das Missões,431670
+43012,Portal das Missões,432030
+43012,Portal das Missões,432220
+43013,Diversidade,430020
+43013,Diversidade,430150
+43013,Diversidade,430258
+43013,Diversidade,430400
+43013,Diversidade,430500
+43013,Diversidade,430540
+43013,Diversidade,430570
+43013,Diversidade,430587
+43013,Diversidade,430600
+43013,Diversidade,430970
+43013,Diversidade,431020
+43013,Diversidade,431041
+43013,Diversidade,431115
+43013,Diversidade,431333
+43013,Diversidade,431390
+43013,Diversidade,431430
+43013,Diversidade,431780
+43013,Diversidade,431910
+43013,Diversidade,431973
+43013,Diversidade,432023
+43014,Fronteira Noroeste,430030
+43014,Fronteira Noroeste,430045
+43014,Fronteira Noroeste,430220
+43014,Fronteira Noroeste,430370
+43014,Fronteira Noroeste,430430
+43014,Fronteira Noroeste,430673
+43014,Fronteira Noroeste,430900
+43014,Fronteira Noroeste,430960
+43014,Fronteira Noroeste,431040
+43014,Fronteira Noroeste,431301
+43014,Fronteira Noroeste,431342
+43014,Fronteira Noroeste,431500
+43014,Fronteira Noroeste,431505
+43014,Fronteira Noroeste,431507
+43014,Fronteira Noroeste,431720
+43014,Fronteira Noroeste,431790
+43014,Fronteira Noroeste,431849
+43014,Fronteira Noroeste,431930
+43014,Fronteira Noroeste,432032
+43014,Fronteira Noroeste,432180
+43014,Fronteira Noroeste,432210
+43014,Fronteira Noroeste,432230
+43015,Caminho das Águas,430050
+43015,Caminho das Águas,430064
+43015,Caminho das Águas,430185
+43015,Caminho das Águas,430215
+43015,Caminho das Águas,430237
+43015,Caminho das Águas,430260
+43015,Caminho das Águas,430340
+43015,Caminho das Águas,430515
+43015,Caminho das Águas,430590
+43015,Caminho das Águas,430607
+43015,Caminho das Águas,430632
+43015,Caminho das Águas,430642
+43015,Caminho das Águas,430730
+43015,Caminho das Águas,430745
+43015,Caminho das Águas,430850
+43015,Caminho das Águas,431050
+43015,Caminho das Águas,431085
+43015,Caminho das Águas,431142
+43015,Caminho das Águas,431160
+43015,Caminho das Águas,431230
+43015,Caminho das Águas,431344
+43015,Caminho das Águas,431349
+43015,Caminho das Águas,431370
+43015,Caminho das Águas,431380
+43015,Caminho das Águas,431445
+43015,Caminho das Águas,431449
+43015,Caminho das Águas,431470
+43015,Caminho das Águas,431540
+43015,Caminho das Águas,431590
+43015,Caminho das Águas,431642
+43015,Caminho das Águas,431845
+43015,Caminho das Águas,431936
+43015,Caminho das Águas,432020
+43015,Caminho das Águas,432132
+43015,Caminho das Águas,432140
+43015,Caminho das Águas,432147
+43015,Caminho das Águas,432190
+43015,Caminho das Águas,432310
+43015,Caminho das Águas,432350
+43015,Caminho das Águas,432370
+43016,Alto Uruguai Gaúcho,430090
+43016,Alto Uruguai Gaúcho,430155
+43016,Alto Uruguai Gaúcho,430170
+43016,Alto Uruguai Gaúcho,430192
+43016,Alto Uruguai Gaúcho,430205
+43016,Alto Uruguai Gaúcho,430380
+43016,Alto Uruguai Gaúcho,430485
+43016,Alto Uruguai Gaúcho,430511
+43016,Alto Uruguai Gaúcho,430537
+43016,Alto Uruguai Gaúcho,430613
+43016,Alto Uruguai Gaúcho,430695
+43016,Alto Uruguai Gaúcho,430697
+43016,Alto Uruguai Gaúcho,430700
+43016,Alto Uruguai Gaúcho,430720
+43016,Alto Uruguai Gaúcho,430755
+43016,Alto Uruguai Gaúcho,430805
+43016,Alto Uruguai Gaúcho,430825
+43016,Alto Uruguai Gaúcho,430870
+43016,Alto Uruguai Gaúcho,430890
+43016,Alto Uruguai Gaúcho,431046
+43016,Alto Uruguai Gaúcho,431070
+43016,Alto Uruguai Gaúcho,431090
+43016,Alto Uruguai Gaúcho,431190
+43016,Alto Uruguai Gaúcho,431200
+43016,Alto Uruguai Gaúcho,431270
+43016,Alto Uruguai Gaúcho,431413
+43016,Alto Uruguai Gaúcho,431478
+43016,Alto Uruguai Gaúcho,431531
+43016,Alto Uruguai Gaúcho,431555
+43016,Alto Uruguai Gaúcho,431970
+43016,Alto Uruguai Gaúcho,432060
+43016,Alto Uruguai Gaúcho,432163
+43016,Alto Uruguai Gaúcho,432290
+43017,Planalto,430355
+43017,Planalto,430490
+43017,Planalto,430550
+43017,Planalto,430597
+43017,Planalto,430630
+43017,Planalto,430705
+43017,Planalto,430885
+43017,Planalto,431180
+43017,Planalto,431213
+43017,Planalto,431235
+43017,Planalto,431262
+43017,Planalto,431267
+43017,Planalto,431275
+43017,Planalto,431410
+43017,Planalto,431477
+43017,Planalto,431755
+43017,Planalto,431805
+43017,Planalto,432040
+43017,Planalto,432050
+43017,Planalto,432255
+43017,Planalto,432340
+43018,Araucárias,430005
+43018,Araucárias,430066
+43018,Araucárias,430180
+43018,Araucárias,430320
+43018,Araucárias,430462
+43018,Araucárias,430495
+43018,Araucárias,430980
+43018,Araucárias,430990
+43018,Araucárias,431130
+43018,Araucárias,431170
+43018,Araucárias,431220
+43018,Araucárias,431360
+43018,Araucárias,431660
+43018,Araucárias,431673
+43018,Araucárias,431795
+43018,Araucárias,431842
+43018,Araucárias,431860
+43018,Araucárias,432090
+43018,Araucárias,432218
+43018,Araucárias,432335
+43019,Botucaraí,430055
+43019,Botucaraí,430140
+43019,Botucaraí,430200
+43019,Botucaraí,430410
+43019,Botucaraí,430750
+43019,Botucaraí,430830
+43019,Botucaraí,430995
+43019,Botucaraí,431057
+43019,Botucaraí,431125
+43019,Botucaraí,431242
+43019,Botucaraí,432080
+43019,Botucaraí,432100
+43019,Botucaraí,432146
+43019,Botucaraí,432215
+43020,Rota da Produção,430047
+43020,Rota da Produção,430195
+43020,Rota da Produção,430470
+43020,Rota da Produção,430530
+43020,Rota da Produção,430580
+43020,Rota da Produção,430585
+43020,Rota da Produção,430692
+43020,Rota da Produção,430912
+43020,Rota da Produção,431127
+43020,Rota da Produção,431265
+43020,Rota da Produção,431295
+43020,Rota da Produção,431346
+43020,Rota da Produção,431610
+43020,Rota da Produção,431620
+43020,Rota da Produção,431775
+43020,Rota da Produção,432010
+43020,Rota da Produção,432185
+43020,Rota da Produção,432195
+43020,Rota da Produção,432320
+43021,Sul,430063
+43021,Sul,430107
+43021,Sul,430130
+43021,Sul,430450
+43021,Sul,430466
+43021,Sul,430512
+43021,Sul,430543
+43021,Sul,430605
+43021,Sul,430710
+43021,Sul,431100
+43021,Sul,431245
+43021,Sul,431417
+43021,Sul,431420
+43021,Sul,431440
+43021,Sul,431450
+43021,Sul,431460
+43021,Sul,431560
+43021,Sul,431700
+43021,Sul,431730
+43021,Sul,431850
+43021,Sul,431880
+43021,Sul,432232
+43022,Pampa,430003
+43022,Pampa,430160
+43022,Pampa,430435
+43022,Pampa,430660
+43022,Pampa,430965
+43022,Pampa,431150
+43023,Caxias e Hortênsias,430440
+43023,Caxias e Hortênsias,430510
+43023,Caxias e Hortênsias,430910
+43023,Caxias e Hortênsias,431164
+43023,Caxias e Hortênsias,431320
+43023,Caxias e Hortênsias,431442
+43024,Campos de Cima da Serra,430230
+43024,Campos de Cima da Serra,430367
+43024,Campos de Cima da Serra,430740
+43024,Campos de Cima da Serra,431112
+43024,Campos de Cima da Serra,431237
+43024,Campos de Cima da Serra,431261
+43024,Campos de Cima da Serra,431446
+43024,Campos de Cima da Serra,431862
+43024,Campos de Cima da Serra,432250
+43025,Vinhedos e Basalto,430210
+43025,Vinhedos e Basalto,430225
+43025,Vinhedos e Basalto,430480
+43025,Vinhedos e Basalto,430593
+43025,Vinhedos e Basalto,430595
+43025,Vinhedos e Basalto,430786
+43025,Vinhedos e Basalto,430860
+43025,Vinhedos e Basalto,430925
+43025,Vinhedos e Basalto,430940
+43025,Vinhedos e Basalto,431238
+43025,Vinhedos e Basalto,431280
+43025,Vinhedos e Basalto,431290
+43025,Vinhedos e Basalto,431330
+43025,Vinhedos e Basalto,431400
+43025,Vinhedos e Basalto,431454
+43025,Vinhedos e Basalto,431517
+43025,Vinhedos e Basalto,431725
+43025,Vinhedos e Basalto,431844
+43025,Vinhedos e Basalto,432235
+43025,Vinhedos e Basalto,432280
+43025,Vinhedos e Basalto,432330
+43025,Vinhedos e Basalto,432360
+43026,Uva Vale,430057
+43026,Uva Vale,430080
+43026,Uva Vale,430235
+43026,Uva Vale,430790
+43026,Uva Vale,430810
+43026,Uva Vale,430820
+43026,Uva Vale,431043
+43026,Uva Vale,431308
+43026,Uva Vale,431335
+43026,Uva Vale,431900
+43026,Uva Vale,431975
+43026,Uva Vale,432254
+43027,Jacuí Centro,430120
+43027,Jacuí Centro,430280
+43027,Jacuí Centro,430300
+43027,Jacuí Centro,430513
+43027,Jacuí Centro,430690
+43027,Jacuí Centro,430781
+43027,Jacuí Centro,430975
+43027,Jacuí Centro,431123
+43027,Jacuí Centro,431339
+43027,Jacuí Centro,431406
+43027,Jacuí Centro,432026
+43027,Jacuí Centro,432070
+43028,Vinte e Oito,430420
+43028,Vinte e Oito,430915
+43028,Vinte e Oito,430957
+43028,Vinte e Oito,431215
+43028,Vinte e Oito,431395
+43028,Vinte e Oito,431407
+43028,Vinte e Oito,431570
+43028,Vinte e Oito,431680
+43028,Vinte e Oito,432067
+43028,Vinte e Oito,432252
+43028,Vinte e Oito,432253
+43028,Vinte e Oito,432260
+43028,Vinte e Oito,432270
+43029,Vales e Montanhas,430070
+43029,Vales e Montanhas,430100
+43029,Vales e Montanhas,430245
+43029,Vales e Montanhas,430461
+43029,Vales e Montanhas,430469
+43029,Vales e Montanhas,430583
+43029,Vales e Montanhas,430620
+43029,Vales e Montanhas,430645
+43029,Vales e Montanhas,430675
+43029,Vales e Montanhas,430680
+43029,Vales e Montanhas,430843
+43029,Vales e Montanhas,431030
+43029,Vales e Montanhas,431140
+43029,Vales e Montanhas,431205
+43029,Vales e Montanhas,431260
+43029,Vales e Montanhas,431300
+43029,Vales e Montanhas,431513
+43029,Vales e Montanhas,431515
+43029,Vales e Montanhas,431520
+43029,Vales e Montanhas,431545
+43029,Vales e Montanhas,431580
+43029,Vales e Montanhas,431675
+43029,Vales e Montanhas,431846
+43029,Vales e Montanhas,431971
+43029,Vales e Montanhas,432045
+43029,Vales e Montanhas,432162
+43029,Vales e Montanhas,432285
+43030,Vale da Luz,430240
+43030,Vale da Luz,430558
+43030,Vale da Luz,430780
+43030,Vale da Luz,430807
+43030,Vale da Luz,431036
+43030,Vale da Luz,431415
+43030,Vale da Luz,431475
+43030,Vale da Luz,432130
+43030,Vale da Luz,432145
+43030,Vale da Luz,432377
+43000,Ignorado - RS,430000
+50001,Campo Grande,500025
+50001,Campo Grande,500070
+50001,Campo Grande,500110
+50001,Campo Grande,500150
+50001,Campo Grande,500210
+50001,Campo Grande,500215
+50001,Campo Grande,500220
+50001,Campo Grande,500260
+50001,Campo Grande,500270
+50001,Campo Grande,500280
+50001,Campo Grande,500295
+50001,Campo Grande,500310
+50001,Campo Grande,500325
+50001,Campo Grande,500330
+50001,Campo Grande,500348
+50001,Campo Grande,500390
+50001,Campo Grande,500410
+50001,Campo Grande,500490
+50001,Campo Grande,500500
+50001,Campo Grande,500540
+50001,Campo Grande,500560
+50001,Campo Grande,500580
+50001,Campo Grande,500600
+50001,Campo Grande,500627
+50001,Campo Grande,500640
+50001,Campo Grande,500690
+50001,Campo Grande,500710
+50001,Campo Grande,500730
+50001,Campo Grande,500740
+50001,Campo Grande,500750
+50001,Campo Grande,500769
+50001,Campo Grande,500790
+50001,Campo Grande,500793
+50001,Campo Grande,500800
+50002,Corumbá,500320
+50002,Corumbá,500520
+50003,Dourados,500060
+50003,Dourados,500080
+50003,Dourados,500085
+50003,Dourados,500090
+50003,Dourados,500124
+50003,Dourados,500200
+50003,Dourados,500240
+50003,Dourados,500315
+50003,Dourados,500345
+50003,Dourados,500350
+50003,Dourados,500370
+50003,Dourados,500375
+50003,Dourados,500380
+50003,Dourados,500400
+50003,Dourados,500430
+50003,Dourados,500450
+50003,Dourados,500460
+50003,Dourados,500470
+50003,Dourados,500480
+50003,Dourados,500510
+50003,Dourados,500515
+50003,Dourados,500525
+50003,Dourados,500568
+50003,Dourados,500570
+50003,Dourados,500620
+50003,Dourados,500625
+50003,Dourados,500635
+50003,Dourados,500660
+50003,Dourados,500720
+50003,Dourados,500770
+50003,Dourados,500795
+50003,Dourados,500797
+50003,Dourados,500840
+50004,Três Lagoas,500020
+50004,Três Lagoas,500100
+50004,Três Lagoas,500190
+50004,Três Lagoas,500230
+50004,Três Lagoas,500290
+50004,Três Lagoas,500440
+50004,Três Lagoas,500630
+50004,Três Lagoas,500755
+50004,Três Lagoas,500780
+50004,Três Lagoas,500830
+50000,Ignorado - MS,500000
+51001,Alto Tapajós,510025
+51001,Alto Tapajós,510080
+51001,Alto Tapajós,510279
+51001,Alto Tapajós,510615
+51001,Alto Tapajós,510629
+51001,Alto Tapajós,510895
+51002,Baixada Cuiabana,510010
+51002,Baixada Cuiabana,510160
+51002,Baixada Cuiabana,510300
+51002,Baixada Cuiabana,510340
+51002,Baixada Cuiabana,510490
+51002,Baixada Cuiabana,510610
+51002,Baixada Cuiabana,510620
+51002,Baixada Cuiabana,510645
+51002,Baixada Cuiabana,510650
+51002,Baixada Cuiabana,510780
+51002,Baixada Cuiabana,510840
+51003,Araguaia Xingu,510269
+51003,Araguaia Xingu,510335
+51003,Araguaia Xingu,510677
+51003,Araguaia Xingu,510735
+51003,Araguaia Xingu,510774
+51003,Araguaia Xingu,510777
+51003,Araguaia Xingu,510860
+51004,Centro Norte,510050
+51004,Centro Norte,510350
+51004,Centro Norte,510590
+51004,Centro Norte,510600
+51004,Centro Norte,510730
+51004,Centro Norte,510770
+51004,Centro Norte,510890
+51005,Garças Araguaia,510100
+51005,Garças Araguaia,510180
+51005,Garças Araguaia,510260
+51005,Garças Araguaia,510390
+51005,Garças Araguaia,510625
+51005,Garças Araguaia,510628
+51005,Garças Araguaia,510665
+51005,Garças Araguaia,510670
+51005,Garças Araguaia,510719
+51005,Garças Araguaia,510820
+51006,Médio Araguaia,510020
+51006,Médio Araguaia,510185
+51006,Médio Araguaia,510270
+51006,Médio Araguaia,510310
+51006,Médio Araguaia,510385
+51006,Médio Araguaia,510617
+51006,Médio Araguaia,510706
+51006,Médio Araguaia,510718
+51007,Médio N. Matogrossense,510130
+51007,Médio N. Matogrossense,510170
+51007,Médio N. Matogrossense,510263
+51007,Médio N. Matogrossense,510345
+51007,Médio N. Matogrossense,510623
+51007,Médio N. Matogrossense,510685
+51007,Médio N. Matogrossense,510726
+51007,Médio N. Matogrossense,510787
+51007,Médio N. Matogrossense,510795
+51007,Médio N. Matogrossense,510885
+51008,Noroeste Matogrossense,510140
+51008,Noroeste Matogrossense,510190
+51008,Noroeste Matogrossense,510285
+51008,Noroeste Matogrossense,510325
+51008,Noroeste Matogrossense,510337
+51008,Noroeste Matogrossense,510515
+51008,Noroeste Matogrossense,510517
+51009,Norte Araguaia Karajá,510035
+51009,Norte Araguaia Karajá,510530
+51009,Norte Araguaia Karajá,510631
+51009,Norte Araguaia Karajá,510785
+51009,Norte Araguaia Karajá,510788
+51010,Norte Matogrossense,510320
+51010,Norte Matogrossense,510455
+51010,Norte Matogrossense,510558
+51010,Norte Matogrossense,510619
+51010,Norte Matogrossense,510621
+51010,Norte Matogrossense,510880
+51011,Oeste Matogrossense,510125
+51011,Oeste Matogrossense,510250
+51011,Oeste Matogrossense,510343
+51011,Oeste Matogrossense,510395
+51011,Oeste Matogrossense,510450
+51011,Oeste Matogrossense,510523
+51011,Oeste Matogrossense,510562
+51011,Oeste Matogrossense,510682
+51011,Oeste Matogrossense,510710
+51011,Oeste Matogrossense,510715
+51011,Oeste Matogrossense,510720
+51011,Oeste Matogrossense,510775
+51012,Sudoeste Matogrossense,510268
+51012,Sudoeste Matogrossense,510330
+51012,Sudoeste Matogrossense,510336
+51012,Sudoeste Matogrossense,510380
+51012,Sudoeste Matogrossense,510500
+51012,Sudoeste Matogrossense,510550
+51012,Sudoeste Matogrossense,510618
+51012,Sudoeste Matogrossense,510675
+51012,Sudoeste Matogrossense,510757
+51012,Sudoeste Matogrossense,510835
+51013,Sul Matogrossense,510030
+51013,Sul Matogrossense,510040
+51013,Sul Matogrossense,510060
+51013,Sul Matogrossense,510120
+51013,Sul Matogrossense,510267
+51013,Sul Matogrossense,510360
+51013,Sul Matogrossense,510420
+51013,Sul Matogrossense,510460
+51013,Sul Matogrossense,510480
+51013,Sul Matogrossense,510520
+51013,Sul Matogrossense,510630
+51013,Sul Matogrossense,510637
+51013,Sul Matogrossense,510700
+51013,Sul Matogrossense,510704
+51013,Sul Matogrossense,510729
+51013,Sul Matogrossense,510740
+51013,Sul Matogrossense,510760
+51013,Sul Matogrossense,510779
+51013,Sul Matogrossense,510810
+51014,Teles Pires,510305
+51014,Teles Pires,510370
+51014,Teles Pires,510452
+51014,Teles Pires,510454
+51014,Teles Pires,510525
+51014,Teles Pires,510622
+51014,Teles Pires,510624
+51014,Teles Pires,510724
+51014,Teles Pires,510776
+51014,Teles Pires,510790
+51014,Teles Pires,510792
+51014,Teles Pires,510800
+51014,Teles Pires,510830
+51014,Teles Pires,510850
+51015,Vale do Peixoto,510410
+51015,Vale do Peixoto,510560
+51015,Vale do Peixoto,510626
+51015,Vale do Peixoto,510642
+51015,Vale do Peixoto,510805
+51016,Vale dos Arinos,510510
+51016,Vale dos Arinos,510627
+51016,Vale dos Arinos,510680
+51016,Vale dos Arinos,510794
+51000,Ignorado - MT,510000
+52001,Central,520005
+52001,Central,520130
+52001,Central,520160
+52001,Central,520280
+52001,Central,520360
+52001,Central,520460
+52001,Central,520520
+52001,Central,520680
+52001,Central,520870
+52001,Central,520880
+52001,Central,520920
+52001,Central,521000
+52001,Central,521056
+52001,Central,521140
+52001,Central,521205
+52001,Central,521440
+52001,Central,521450
+52001,Central,521500
+52001,Central,521540
+52001,Central,521680
+52001,Central,521910
+52001,Central,521950
+52001,Central,521973
+52001,Central,521990
+52001,Central,522100
+52001,Central,522140
+52002,Centro Sul,520140
+52002,Centro Sul,520180
+52002,Centro Sul,520330
+52002,Centro Sul,520355
+52002,Centro Sul,520455
+52002,Centro Sul,520545
+52002,Centro Sul,520630
+52002,Centro Sul,520650
+52002,Centro Sul,520735
+52002,Centro Sul,520740
+52002,Centro Sul,520970
+52002,Centro Sul,520995
+52002,Centro Sul,521170
+52002,Centro Sul,521230
+52002,Centro Sul,521260
+52002,Centro Sul,521530
+52002,Centro Sul,521710
+52002,Centro Sul,521770
+52002,Centro Sul,521839
+52002,Centro Sul,522026
+52002,Centro Sul,522045
+52002,Centro Sul,522060
+52002,Centro Sul,522190
+52002,Centro Sul,522200
+52002,Centro Sul,522205
+52003,Entorno Norte,520017
+52003,Entorno Norte,520060
+52003,Entorno Norte,520400
+52003,Entorno Norte,520790
+52003,Entorno Norte,520800
+52003,Entorno Norte,521760
+52003,Entorno Norte,522000
+52003,Entorno Norte,522220
+52004,Entorno Sul,520025
+52004,Entorno Sul,520549
+52004,Entorno Sul,520620
+52004,Entorno Sul,521250
+52004,Entorno Sul,521523
+52004,Entorno Sul,521975
+52004,Entorno Sul,522185
+52005,Estrada de Ferro,520120
+52005,Estrada de Ferro,520450
+52005,Estrada de Ferro,520480
+52005,Estrada de Ferro,520510
+52005,Estrada de Ferro,520590
+52005,Estrada de Ferro,520660
+52005,Estrada de Ferro,520690
+52005,Estrada de Ferro,520850
+52005,Estrada de Ferro,521010
+52005,Estrada de Ferro,521290
+52005,Estrada de Ferro,521480
+52005,Estrada de Ferro,521550
+52005,Estrada de Ferro,521580
+52005,Estrada de Ferro,521740
+52005,Estrada de Ferro,521878
+52005,Estrada de Ferro,521920
+52005,Estrada de Ferro,522130
+52005,Estrada de Ferro,522180
+52006,Nordeste I,520490
+52006,Nordeste I,520530
+52006,Nordeste I,520830
+52006,Nordeste I,521350
+52006,Nordeste I,522108
+52007,Nordeste II,520080
+52007,Nordeste II,520396
+52007,Nordeste II,520670
+52007,Nordeste II,520940
+52007,Nordeste II,520990
+52007,Nordeste II,521270
+52007,Nordeste II,521490
+52007,Nordeste II,521830
+52007,Nordeste II,521980
+52007,Nordeste II,522068
+52007,Nordeste II,522070
+52008,Norte,520357
+52008,Norte,520465
+52008,Norte,520750
+52008,Norte,520810
+52008,Norte,521308
+52008,Norte,521377
+52008,Norte,521405
+52008,Norte,521410
+52008,Norte,521525
+52008,Norte,521800
+52008,Norte,521960
+52008,Norte,522020
+52008,Norte,522145
+52009,Oeste I,520090
+52009,Oeste I,520170
+52009,Oeste I,520235
+52009,Oeste I,520310
+52009,Oeste I,520340
+52009,Oeste I,520710
+52009,Oeste I,520760
+52009,Oeste I,521020
+52009,Oeste I,521030
+52009,Oeste I,521160
+52009,Oeste I,521200
+52009,Oeste I,521340
+52009,Oeste I,521370
+52009,Oeste I,521520
+52009,Oeste I,521565
+52009,Oeste I,521720
+52010,Oeste II,520015
+52010,Oeste II,520260
+52010,Oeste II,520393
+52010,Oeste II,520420
+52010,Oeste II,520570
+52010,Oeste II,520780
+52010,Oeste II,521570
+52010,Oeste II,521590
+52010,Oeste II,521640
+52010,Oeste II,521900
+52010,Oeste II,522005
+52010,Oeste II,522010
+52010,Oeste II,522150
+52011,Pirineus,520010
+52011,Pirineus,520030
+52011,Pirineus,520110
+52011,Pirineus,520485
+52011,Pirineus,520551
+52011,Pirineus,520580
+52011,Pirineus,520815
+52011,Pirineus,520840
+52011,Pirineus,521305
+52011,Pirineus,521560
+52011,Pirineus,521730
+52011,Pirineus,522119
+52012,Rio Vermelho,520085
+52012,Rio Vermelho,520215
+52012,Rio Vermelho,520250
+52012,Rio Vermelho,520380
+52012,Rio Vermelho,520753
+52012,Rio Vermelho,520890
+52012,Rio Vermelho,520929
+52012,Rio Vermelho,520960
+52012,Rio Vermelho,521040
+52012,Rio Vermelho,521100
+52012,Rio Vermelho,521120
+52012,Rio Vermelho,521220
+52012,Rio Vermelho,521295
+52012,Rio Vermelho,521390
+52012,Rio Vermelho,521400
+52012,Rio Vermelho,521483
+52012,Rio Vermelho,521925
+52013,São Patrício,520320
+52013,São Patrício,520495
+52013,São Patrício,520500
+52013,São Patrício,520540
+52013,São Patrício,520640
+52013,São Patrício,520860
+52013,São Patrício,520945
+52013,São Patrício,521015
+52013,São Patrício,521060
+52013,São Patrício,521090
+52013,São Patrício,521180
+52013,São Patrício,521385
+52013,São Patrício,521470
+52013,São Patrício,521486
+52013,São Patrício,521690
+52013,São Patrício,521860
+52013,São Patrício,521870
+52013,São Patrício,521890
+52013,São Patrício,521935
+52013,São Patrício,521945
+52013,São Patrício,521970
+52013,São Patrício,522015
+52013,São Patrício,522028
+52013,São Patrício,522157
+52013,São Patrício,522170
+52013,São Patrício,522230
+52014,Serra da Mesa,520055
+52014,Serra da Mesa,520082
+52014,Serra da Mesa,520470
+52014,Serra da Mesa,520552
+52014,Serra da Mesa,520980
+52014,Serra da Mesa,521280
+52014,Serra da Mesa,521460
+52014,Serra da Mesa,521487
+52014,Serra da Mesa,522160
+52015,Sudoeste I,520013
+52015,Sudoeste I,520145
+52015,Sudoeste I,520410
+52015,Sudoeste I,520430
+52015,Sudoeste I,520505
+52015,Sudoeste I,521080
+52015,Sudoeste I,521130
+52015,Sudoeste I,521225
+52015,Sudoeste I,521300
+52015,Sudoeste I,521375
+52015,Sudoeste I,521630
+52015,Sudoeste I,521805
+52015,Sudoeste I,521850
+52015,Sudoeste I,521880
+52015,Sudoeste I,521930
+52015,Sudoeste I,521971
+52015,Sudoeste I,522040
+52015,Sudoeste I,522155
+52016,Sudoeste II,520150
+52016,Sudoeste II,520440
+52016,Sudoeste II,520547
+52016,Sudoeste II,520725
+52016,Sudoeste II,521190
+52016,Sudoeste II,521310
+52016,Sudoeste II,521645
+52016,Sudoeste II,521810
+52016,Sudoeste II,521940
+52016,Sudoeste II,522050
+52017,Sul,520020
+52017,Sul,520050
+52017,Sul,520350
+52017,Sul,520390
+52017,Sul,520425
+52017,Sul,520910
+52017,Sul,520915
+52017,Sul,520993
+52017,Sul,521150
+52017,Sul,521210
+52017,Sul,521380
+52017,Sul,521600
+52000,Ignorado - GO,520000
+53001,Distrito Federal,530010
+0,Ignorado/Exterior,0
